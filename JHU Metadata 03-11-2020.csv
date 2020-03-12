@@ -1,223 +1,224 @@
-Last Update;World Region;ICC;ID;Country;;Province;;District;ZIP;Area;Population;Confirmed;Deaths;Recovered;#
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;125865;4615;67003;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-2020-03-11T10:53:02;Eastern Asia;86;CHN;China;14;Hubei;;;;;59170000;67773;3046;49134;1
-2020-03-11T21:33:02;Southern Europe;39;ITA;Italy;;;;;;;60247214;12462;827;1045;2
-2020-03-11T18:52:03;Southern Asia;98;IRN;Iran;;;;;;;83241033;9000;354;2959;3
-2020-03-11T21:13:18;Eastern Asia;82;KOR;South Korea;;;;;;;51780579;7755;60;288;4
-2020-03-11T22:53:03;Western Europe;33;FRA;France;;;;;;;67064000;2281;48;12;5
-2020-03-11T20:53:02;Southern Europe;34.C;ESP;Spain;;;;;;;47100396;2277;54;183;6
-2020-03-11T19:13:17;Western Europe;49;DEU;Germany;;;;;;;83149300;1908;3;25;7
-2020-03-11T10:13:06;Eastern Asia;86;CHN;China;6;Guangdong;;;;;113460000;1356;8;1282;8
-2020-03-11T08:13:09;Eastern Asia;86;CHN;China;12;Henan;;;;;96050000;1273;22;1249;9
-2020-03-11T09:33:12;Eastern Asia;86;CHN;China;33;Zhejiang;;;;;57370000;1215;1;1195;10
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;15;Hunan;;;;;68990000;1018;4;995;11
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;1;Anhui;;;;;63240000;990;6;984;12
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;18;Jiangxi;;;;;46480000;935;1;932;13
-2020-03-11T11:33:07;Eastern Asia;86;CHN;China;25;Shandong;;;;;100470000;760;6;726;14
-2020-03-11T22:13:12;0;5;IC;International Conveyance;1;Diamond Princess;;;;;3700;696;7;325;15
-2020-03-11T20:53:02;Western Europe;41;CHE;Switzerland;;;;;;;8586550;652;4;4;16
-2020-03-11T21:33:03;Eastern Asia;81;JPN;Japan;;;;;;;126010000;639;15;118;17
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;17;Jiangsu;;;;;80510000;631;0;627;18
-2020-03-11T19:33:02;Northern Europe;47.A;NOR;Norway;;;;;;;5367580;598;0;1;19
-2020-03-11T23:13:05;Eastern Asia;86;CHN;China;3;Chongqing;;;;;31020000;576;6;554;20
-2020-03-11T14:33:03;Eastern Asia;86;CHN;China;28;Sichuan;;;;;83410000;539;3;488;21
-2020-03-11T14:13:11;Western Europe;31;NLD;Netherlands;;;;;;;17439481;503;5;0;22
-2020-03-11T19:33:02;Northern Europe;46;SWE;Sweden;;;;;;;10327589;500;1;1;23
-2020-03-11T11:33:07;Eastern Asia;86;CHN;China;11;Heilongjiang;;;;;37730000;482;13;436;24
-2020-03-11T21:33:03;Northern Europe;44.F;GBR;United Kingdom;;;;;;;66435600;456;8;18;25
-2020-03-11T22:13:13;Northern Europe;45;DNK;Denmark;;;;;;;5822763;442;0;1;26
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;2;Beijing;;;;;21540000;435;8;326;27
-2020-03-11T22:33:03;Northern America;1.X;USA;USA;53;Washington;;;;;6724540;366;29;1;28
-2020-03-11T03:13:07;Eastern Asia;86;CHN;China;26;Shanghai;;;;;24240000;344;3;320;29
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;10;Hebei;;;;;75560000;318;6;307;30
-2020-03-11T18:52:03;Western Europe;32;BEL;Belgium;;;;;;;11524454;314;3;1;31
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;4;Fujian;;;;;39410000;296;1;295;32
-2020-03-11T18:52:03;Western Asia;974;QAT;Qatar;;;;;;;2747282;262;0;0;33
-2020-03-11T11:33:07;Eastern Asia;86;CHN;China;7;Guangxi;;;;;49260000;252;2;238;34
-2020-03-11T22:33:03;Western Europe;43;AUT;Austria;;;;;;;8902600;246;0;4;35
-2020-03-11T09:33:12;Eastern Asia;86;CHN;China;24;Shaanxi;;;;;38640000;245;1;232;36
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;36;New York;;;;;19378102;220;0;0;37
-2020-03-11T22:33:03;Western Asia;973;BHR;Bahrain;;;;;;;1543300;195;0;35;38
-2020-03-11T13:53:24;South-eastern Asia;65;SGP;Singapore;;;;;;;5703600;178;0;96;39
-2020-03-11T23:53:03;Northern America;1.X;USA;USA;06;California;;;;;37253956;177;3;2;40
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;32;Yunnan;;;;;48300000;174;2;170;41
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;9;Hainan;;;;;9340000;168;6;159;42
-2020-03-11T11:33:08;South-eastern Asia;60;MYS;Malaysia;;;;;;;32704760;149;0;26;43
-2020-03-11T02:33:03;Eastern Asia;86;CHN;China;8;Guizhou;;;;;36000000;146;2;133;44
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;29;Tianjin;;;;;15600000;136;3;131;45
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;27;Shanxi;;;;;37180000;133;0;131;46
-2020-03-11T14:33:03;Eastern Asia;86;CHN;China;5;Gansu;;;;;26370000;127;2;88;47
-2020-03-11T18:52:03;Eastern Asia;86;CHN;China;13;Hong Kong;;;;;7450000;126;3;65;48
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;20;Liaoning;;;;;43590000;125;1;111;49
-2020-03-11T21:13:18;Western Asia;972;ISR;Israel;;;;;;;9166000;109;0;4;50
-2020-03-11T23:53:02;Southern Europe;30;GRC;Greece;;;;;;;10724599;99;1;0;51
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;25;Massachusetts;;;;;6547629;95;0;1;52
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;19;Jilin;;;;;27040000;93;1;91;53
-2020-03-11T22:13:12;Eastern Europe;420;CZE;Czech Republic;;;;;;;10681161;91;0;0;54
-2020-03-11T13:53:24;Northern Europe;354;ISL;Iceland;;;;;;;364260;85;0;1;55
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;30;Xinjiang;;;;;24870000;76;3;73;56
-2020-03-11T03:53:03;Eastern Asia;86;CHN;China;16;Inner Mongolia;;;;;25340000;75;1;71;57
-2020-03-11T09:33:12;Eastern Asia;86;CHN;China;22;Ningxia;;;;;6880000;75;0;72;58
-2020-03-11T20:53:02;Western Asia;971;ARE;United Arab Emirates;;;;;;;9770529;74;0;17;59
-2020-03-11T09:53:03;Western Asia;965;KWT;Kuwait;;;;;;;4420110;72;0;2;60
-2020-03-11T22:13:12;Western Asia;964;IRQ;Iraq;;;;;;;39127900;71;7;15;61
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;65;2;4;62
-2020-03-11T22:13:12;Southern Asia;91;IND;India;;;;;;;1359238350;62;1;4;63
-2020-03-11T20:53:02;Southern Europe;378;SMR;San Marino;;;;;;;33574;62;2;0;64
-2020-03-11T11:53:03;Western Asia;961;LBN;Lebanon;;;;;;;6855713;61;3;1;65
-2020-03-11T22:13:12;Northern Africa;20;EGY;Egypt;;;;;;;100072195;60;1;27;66
-2020-03-11T13:33:10;Northern Europe;358.A;FIN;Finland;;;;;;;5527573;59;0;1;67
-2020-03-11T13:33:11;Southern Europe;351.A;PRT;Portugal;;;;;;;10276617;59;0;0;68
-2020-03-11T09:13:10;South-eastern Asia;66;THA;Thailand;;;;;;;66475817;59;1;34;69
-2020-03-11T14:13:11;Southern Europe;386;SVN;Slovenia;;;;;;;2094060;57;0;0;70
-2020-03-11T10:53:03;South-eastern Asia;63;PHL;Philippines;;;;;;;108341299;49;1;2;71
-2020-03-11T20:13:14;Eastern Asia;886;TWN;Taiwan;;;;;;;23604265;48;1;17;72
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;;;;;;;329368418;46;0;0;73
-2020-03-11T21:13:18;Eastern Europe;40;ROU;Romania;;;;;;;19405156;45;0;6;74
-2020-03-11T21:33:03;Northern Europe;353;IRL;Ireland;;;;;;;4921500;43;1;0;75
-2020-03-11T18:52:04;Northern America;1.G;CAN;Canada;;;;;;;37940493;41;0;4;76
-2020-03-11T02:18:28;Northern America;1.G;CAN;Canada;;;;;;;37940493;39;1;4;77
-2020-03-11T22:13:12;South America;55;BRA;Brazil;;;;;;;211191084;38;0;0;78
-2020-03-11T20:53:02;South-eastern Asia;84;VNM;Vietnam;;;;;;;96208984;38;0;16;79
-2020-03-11T11:14:26;South-eastern Asia;62;IDN;Indonesia;;;;;;;266911900;34;1;2;80
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;08;Colorado;;;;;5029196;34;0;0;81
-2020-03-11T21:13:21;Eastern Europe;48;POL;Poland;;;;;;;38386000;31;0;0;82
-2020-03-11T03:33:05;Northern America;1.X;USA;USA;12;Florida;;;;;18801310;28;2;0;83
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;17;Illinois;;;;;12830632;25;0;2;84
-2020-03-11T22:13:12;Western Asia;995;GEO;Georgia;;;;;;;3723464;24;0;0;85
-2020-03-11T22:13:12;South America;56;CHL;Chile;;;;;;;19107216;23;0;0;86
-2020-03-11T18:52:03;Northern America;1.X;USA;USA;13;Georgia;;;;;9687653;23;0;0;87
-2020-03-11T18:52:04;Northern America;1.X;USA;USA;34;New Jersey;;;;;8791894;23;1;0;88
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;21;0;7;89
-2020-03-11T13:33:11;Western Asia;966;SAU;Saudi Arabia;;;;;;;34218169;21;0;1;90
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;;;;;;;329368418;21;0;0;91
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;48;Texas;;;;;25145561;21;0;0;92
-2020-03-09T10:13:06;Northern Africa;213;DZA;Algeria;;;;;;;43000000;20;0;0;93
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;20;0;8;94
-2020-03-11T18:52:03;Eastern Europe;7;RUS;Russia;;;;;;;FALSCH;20;0;3;95
-2020-03-11T02:18:16;South America;54;ARG;Argentina;;;;;;;44938712;19;1;0;96
-2020-03-11T23:13:07;Northern America;1.G;CAN;Canada;;;;;;;37940493;19;0;0;97
-2020-03-11T22:13:12;Southern Europe;385;HRV;Croatia;;;;;;;4076246;19;0;0;98
-2020-03-11T21:13:23;Southern Asia;92;PAK;Pakistan;;;;;;;208203777;19;0;2;99
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;41;Oregon;;;;;3831074;19;0;0;100
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;23;Qinghai;;;;;6030000;18;0;18;101
-2020-03-10T08:33:02;Western Asia;968;OMN;Oman;;;;;;;4664790;18;0;9;102
-2020-03-11T09:33:12;South America;593;ECU;Ecuador;;;;;;;17434416;17;0;0;103
-2020-03-11T22:13:12;Northern Europe;372;EST;Estonia;;;;;;;1328360;16;0;0;104
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;42;Pennsylvania;;;;;12702379;16;0;0;105
-2020-03-11T09:33:12;Central America;506;CRI;Costa Rica;;;;;;;5058007;13;0;0;106
-2020-03-11T22:13:12;Eastern Europe;36;HUN;Hungary;;;;;;;9772756;13;0;0;107
-2020-03-11T10:33:03;Southern Africa;27;ZAF;South Africa;;;;;;;58775022;13;0;0;108
-2020-03-11T02:53:03;Northern America;1.X;USA;USA;19;Iowa;;;;;3046355;13;0;0;109
-2020-03-11T13:33:11;Southern Europe;355;ALB;Albania;;;;;;;2862427;12;1;0;110
-2020-03-11T09:53:03;Southern Europe;381;SRB;Serbia;;;;;;;6963764;12;0;0;111
-2020-03-11T08:13:09;Western Asia;994;AZE;Azerbaijan;;;;;;;10067108;11;0;3;112
-2020-03-11T22:13:12;South-eastern Asia;673;BRN;Brunei;;;;;;;442400;11;0;0;113
-2020-03-10T16:33:13;South America;51;PER;Peru;;;;;;;32131400;11;0;0;114
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;18;Indiana;;;;;6483802;11;0;0;115
-2020-03-11T18:52:03;Eastern Asia;86;CHN;China;21;Macao;;;;;660000;10;0;10;116
-2020-03-11T13:53:24;Northern Europe;371;LVA;Latvia;;;;;;;1906800;10;0;1;117
-2020-03-11T13:33:11;Eastern Europe;421;SVK;Slovak Republic;;;;;;;5456362;10;0;0;118
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;11;District of Columbia;;;;;601723;10;0;0;119
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;45;South Carolina;;;;;4625364;10;0;0;120
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;9;0;2;121
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;9;1;0;122
-2020-03-10T16:13:27;Eastern Europe;375;BLR;Belarus;;;;;;;9413446;9;0;3;123
-2020-03-11T14:33:04;South America;57;COL;Colombia;;;;;;;49395678;9;0;0;124
-2020-03-11T18:52:04;Northern America;1.X;USA;USA;04;Arizona;;;;;6392017;9;0;1;125
-2020-03-11T03:33:05;Northern America;1.X;USA;USA;24;Maryland;;;;;5773552;9;0;0;126
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;47;Tennessee;;;;;6346105;9;0;0;127
-2020-03-11T03:33:05;Northern America;1.X;USA;USA;51;Virginia;;;;;8001024;9;0;0;128
-2020-03-11T23:13:06;Northern America;1.G;CAN;Canada;;;;;;;37940493;8;0;0;129
-2020-03-11T09:33:12;Southern Asia;960;MDV;Maldives;;;;;;;374775;8;0;0;130
-2020-03-11T21:13:24;Central America;52;MEX;Mexico;;;;;;;126577691;8;0;4;131
-2020-03-11T09:33:12;Central America;507;PAN;Panama;;;;;;;4218808;8;1;0;132
-2020-03-11T03:13:08;Northern America;1.X;USA;USA;21;Kentucky;;;;;4339367;8;0;0;133
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;46;South Dakota;;;;;814180;8;1;0;134
-2020-03-11T10:13:12;Southern Asia;93;AFG;Afghanistan;;;;;;;32225560;7;0;0;135
-2020-03-11T22:13:12;Southern Europe;387;BIH;Bosnia Herzegovina;;;;;;;3301000;7;0;0;136
-2020-03-11T22:13:12;Eastern Europe;359;BGR;Bulgaria;;;;;;;7000039;7;1;0;137
-2020-03-11T09:33:12;Western Europe;352;LUX;Luxembourg;;;;;;;613894;7;0;0;138
-2020-03-10T10:53:03;Southern Europe;389;MKD;North Macedonia;;;;;;;2077132;7;0;0;139
-2020-03-11T18:52:03;Northern Africa;216;TUN;Tunisia;;;;;;;11722038;7;0;0;140
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;32;Nevada;;;;;2700551;7;0;0;141
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;37;North Carolina;;;;;9535483;7;0;0;142
-2020-03-11T18:52:03;Western Asia;357;CYP;Cyprus;;;;;;;875900;6;0;0;143
-2020-03-11T11:33:08;Southern Europe;356;MLT;Malta;;;;;;;493559;6;0;0;144
-2020-03-11T10:13:20;Northern America;1.X;USA;USA;22;Louisiana;;;;;4533372;6;0;0;145
-2020-03-11T22:53:03;Northern America;1.X;USA;USA;55;Wisconsin;;;;;5686986;6;0;1;146
-2020-03-08T17:23:08;Caribbean;1.J;DOM;Dominican Republic;;;;;;;10358320;5;0;0;147
-2020-03-07T03:23:05;South America;594;GUF;French Guiana;;;;;;;290691;5;0;0;148
-2020-03-11T11:53:03;Northern Africa;212;MAR;Morocco;;;;;;;35824881;5;1;0;149
-2020-03-07T02:03:29;Oceania;64;NZL;New Zealand;;;;;;;4961950;5;0;0;150
-2020-03-11T04:33:03;South America;595;PRY;Paraguay;;;;;;;7152703;5;0;0;151
-2020-03-11T19:13:18;Northern America;1.X;USA;USA;27;Minnesota;;;;;5303925;5;0;0;152
-2020-03-11T23:13:07;Northern America;1.X;USA;USA;31;Nebraska;;;;;1826341;5;0;0;153
-2020-03-11T10:13:20;Northern America;1.X;USA;USA;33;New Hampshire;;;;;1316470;5;0;0;154
-2020-03-11T03:13:08;Northern America;1.X;USA;USA;44;Rhode Island;;;;;1052567;5;0;0;155
-2020-03-08T20:23:08;Western Africa;221;SEN;Senegal;;;;;;;16209125;4;0;1;156
-2020-03-11T18:52:04;Northern America;1.X;USA;USA;39;Ohio;;;;;11536504;4;0;0;157
-2020-03-11T18:52:04;Oceania;61;AUS;Australia;;;;;;;25631395;3;0;0;158
-2020-03-10T06:19:32;Southern Asia;880;BGD;Bangladesh;;;;;;;168186262;3;0;0;159
-2020-03-11T09:33:12;South-eastern Asia;855;KHM;Cambodia;;;;;;;15288489;3;0;1;160
-2020-03-11T02:18:26;Northern Europe;370;LTU;Lithuania;;;;;;;2793350;3;0;0;161
-2020-03-11T02:18:29;Caribbean;596;MTQ;Martinique;;;;;;;376480;3;0;0;162
-2020-03-11T18:52:03;Eastern Europe;373;MDA;Moldova;;;;;;;2681735;3;0;0;163
-2020-03-11T23:13:06;Northern America;1.X;USA;USA;09;Connecticut;;;;;3574097;3;0;0;164
-2020-03-11T18:52:04;Northern America;1.X;USA;USA;35;New Mexico;;;;;2059179;3;0;0;165
-2020-03-11T23:13:06;Northern America;1.X;USA;USA;49;Utah;;;;;2763885;3;0;0;166
-2020-03-11T18:52:03;South America;591;BOL;Bolivia;;;;;;;11469896;2;0;0;167
-2020-03-11T09:33:12;Western Africa;226;BFA;Burkina Faso;;;;;;;20870060;2;0;0;168
-2020-03-08T05:23:03;Middle Africa;237;CMR;Cameroon;;;;;;;25876000;2;0;0;169
-2020-03-11T20:53:02;Northern Europe;45;DNK;Denmark;;;;;;;5822763;2;0;0;170
-2020-03-11T20:53:02;Western Europe;33;FRA;France;;;;;;;67064000;2;0;0;171
-2020-03-11T18:52:03;Central America;504;HND;Honduras;;;;;;;9158345;2;0;0;172
-2020-03-09T09:43:03;Western Africa;234;NGA;Nigeria;;;;;;;200963599;2;0;0;173
-2020-03-11T09:33:12;Southern Asia;94;LKA;Sri Lanka;;;;;;;21803000;2;0;1;174
-2020-03-10T03:13:17;Northern America;1.X;USA;USA;15;Hawaii;;;;;1360301;2;0;0;175
-2020-03-11T03:33:05;Northern America;1.X;USA;USA;26;Michigan;;;;;9883640;2;0;0;176
-2020-03-10T17:13:25;Northern America;1.X;USA;USA;40;Oklahoma;;;;;3751351;2;0;0;177
-2020-03-11T20:53:02;Northern Europe;44.F;GBR;United Kingdom;;;;;;;66435600;2;0;0;178
-2020-03-02T20:23:16;Southern Europe;376;AND;Andorra;;;;;;;77543;1;0;0;179
-2020-03-01T19:53:02;Western Asia;374;ARM;Armenia;;;;;;;2957500;1;0;0;180
-2020-03-10T14:13:14;Oceania;61;AUS;Australia;;;;;;;25631395;1;0;0;181
-2020-03-06T15:43:02;Southern Asia;975;BTN;Bhutan;;;;;;;741672;1;0;0;182
-2020-03-11T23:13:06;Northern America;1.G;CAN;Canada;;;;;;;37940493;1;0;0;183
-2020-03-11T02:18:14;Eastern Asia;86;CHN;China;31;Xizang;;;;;3440000;1;0;1;184
-2020-03-11T21:13:24;Middle Africa;243;COD;DR Congo;;;;;;;86790567;1;0;0;185
-2020-03-11T23:33:03;Western Africa;225;CIV;Côte d'Ivoire;;;;;;;25823071;1;0;0;186
-2020-03-11T20:53:02;Western Europe;33;FRA;France;;;;;;;67064000;1;0;0;187
-2020-03-10T19:13:21;Southern Europe;39.A;VAT;Status Civitatis Vaticanæ;;;;;;;799;1;0;0;188
-2020-03-11T18:52:03;Caribbean;1.N;JAM;Jamaica;;;;;;;2726667;1;0;0;189
-2020-03-03T15:33:02;Western Asia;962;JOR;Jordan;;;;;;;10625504;1;0;0;190
-2020-03-04T01:33:07;Western Europe;423;LIE;Liechtenstein;;;;;;;38557;1;0;0;191
-2020-02-29T00:33:01;Western Europe;377;MCO;Monaco;;;;;;;38300;1;0;0;192
-2020-03-10T06:13:43;Eastern Asia;976;MNG;Mongolia;;;;;;;3305182;1;0;0;193
-2020-03-10T08:33:03;Southern Asia;977;NPL;Nepal;;;;;;;29609623;1;0;1;194
-2020-03-11T23:13:07;Eastern Africa;262.B;REU;Réunion;;;;;;;853659;1;0;0;195
-2020-03-07T02:13:09;Western Africa;228;TGO;Togo;;;;;;;7538000;1;0;0;196
-2020-03-11T03:33:05;Western Asia;90.A;TUR;Turkey;;;;;;;83154997;1;0;0;197
-2020-03-11T18:52:04;Northern America;1.X;USA;USA;05;Arkansas;;;;;2915918;1;0;0;198
-2020-03-11T23:13:06;Northern America;1.X;USA;USA;10;Delaware;;;;;897934;1;0;0;199
-2020-03-10T03:13:17;Northern America;1.X;USA;USA;20;Kansas;;;;;2853118;1;0;0;200
-2020-03-10T03:13:17;Northern America;1.X;USA;USA;29;Missouri;;;;;5988927;1;0;0;201
-2020-03-11T23:13:06;Northern America;1.X;USA;USA;30;Montana;;;;;989415;1;0;0;202
-2020-03-10T03:13:17;Northern America;1.X;USA;USA;50;Vermont;;;;;625741;1;0;0;203
-2020-03-03T15:33:02;Eastern Europe;380;UKR;Ukraine;;;;;;;41902416;1;0;0;204
-2020-03-11T20:53:02;Northern Europe;44.F;GBR;United Kingdom;;;;;;;66435600;1;0;1;205
-2020-02-29T02:03:10;Oceania;61;AUS;Australia;;;;;;;25631395;0;0;0;206
-2020-03-11T02:18:28;Eastern Asia;86;CHN;China;5;Gansu;;;;;26370000;0;0;0;207
-2020-03-11T02:18:29;Eastern Asia;86;CHN;China;10;Hebei;;;;;75560000;0;0;0;208
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;02;Alaska;;;;;710231;0;0;0;209
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;16;Idaho;;;;;1567582;0;0;0;210
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;23;Maine;;;;;1328361;0;0;0;211
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;28;Mississippi;;;;;2967297;0;0;0;212
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;38;North Dakota;;;;;672591;0;0;0;213
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;54;West Virginia;;;;;1852994;0;0;0;214
-2020-03-10T02:33:04;Northern America;1.X;USA;USA;56;Wyoming;;;;;563626;0;0;0;215
-2020-03-11T20:53:02;Western Asia;970;PSE;State of Palestine;;;;;;;4976684;0;0;0;216
+JHU METADATA | SOURCE::03-11-2020
+Last Update,World Region,ICC,ID,Country,,Province,,District,ZIP,Area,Population,Confirmed,Deaths,Recovered,#
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,125865,4615,67003,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+2020-03-11T10:53:02,Eastern Asia,86,CHN,China,14,Hubei,,,,,59170000,67773,3046,49134,1
+2020-03-11T21:33:02,Southern Europe,39,ITA,Italy,,,,,,,60247214,12462,827,1045,2
+2020-03-11T18:52:03,Southern Asia,98,IRN,Iran,,,,,,,83241033,9000,354,2959,3
+2020-03-11T21:13:18,Eastern Asia,82,KOR,South Korea,,,,,,,51780579,7755,60,288,4
+2020-03-11T22:53:03,Western Europe,33,FRA,France,,,,,,,67064000,2281,48,12,5
+2020-03-11T20:53:02,Southern Europe,34.C,ESP,Spain,,,,,,,47100396,2277,54,183,6
+2020-03-11T19:13:17,Western Europe,49,DEU,Germany,,,,,,,83149300,1908,3,25,7
+2020-03-11T10:13:06,Eastern Asia,86,CHN,China,6,Guangdong,,,,,113460000,1356,8,1282,8
+2020-03-11T08:13:09,Eastern Asia,86,CHN,China,12,Henan,,,,,96050000,1273,22,1249,9
+2020-03-11T09:33:12,Eastern Asia,86,CHN,China,33,Zhejiang,,,,,57370000,1215,1,1195,10
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,15,Hunan,,,,,68990000,1018,4,995,11
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,1,Anhui,,,,,63240000,990,6,984,12
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,18,Jiangxi,,,,,46480000,935,1,932,13
+2020-03-11T11:33:07,Eastern Asia,86,CHN,China,25,Shandong,,,,,100470000,760,6,726,14
+2020-03-11T22:13:12,0,5,IC,International Conveyance,1,Diamond Princess,,,,,3700,696,7,325,15
+2020-03-11T20:53:02,Western Europe,41,CHE,Switzerland,,,,,,,8586550,652,4,4,16
+2020-03-11T21:33:03,Eastern Asia,81,JPN,Japan,,,,,,,126010000,639,15,118,17
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,17,Jiangsu,,,,,80510000,631,0,627,18
+2020-03-11T19:33:02,Northern Europe,47.A,NOR,Norway,,,,,,,5367580,598,0,1,19
+2020-03-11T23:13:05,Eastern Asia,86,CHN,China,3,Chongqing,,,,,31020000,576,6,554,20
+2020-03-11T14:33:03,Eastern Asia,86,CHN,China,28,Sichuan,,,,,83410000,539,3,488,21
+2020-03-11T14:13:11,Western Europe,31,NLD,Netherlands,,,,,,,17439481,503,5,0,22
+2020-03-11T19:33:02,Northern Europe,46,SWE,Sweden,,,,,,,10327589,500,1,1,23
+2020-03-11T11:33:07,Eastern Asia,86,CHN,China,11,Heilongjiang,,,,,37730000,482,13,436,24
+2020-03-11T21:33:03,Northern Europe,44.F,GBR,United Kingdom,,,,,,,66435600,456,8,18,25
+2020-03-11T22:13:13,Northern Europe,45,DNK,Denmark,,,,,,,5822763,442,0,1,26
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,2,Beijing,,,,,21540000,435,8,326,27
+2020-03-11T22:33:03,Northern America,1.X,USA,USA,53,Washington,,,,,6724540,366,29,1,28
+2020-03-11T03:13:07,Eastern Asia,86,CHN,China,26,Shanghai,,,,,24240000,344,3,320,29
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,10,Hebei,,,,,75560000,318,6,307,30
+2020-03-11T18:52:03,Western Europe,32,BEL,Belgium,,,,,,,11524454,314,3,1,31
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,4,Fujian,,,,,39410000,296,1,295,32
+2020-03-11T18:52:03,Western Asia,974,QAT,Qatar,,,,,,,2747282,262,0,0,33
+2020-03-11T11:33:07,Eastern Asia,86,CHN,China,7,Guangxi,,,,,49260000,252,2,238,34
+2020-03-11T22:33:03,Western Europe,43,AUT,Austria,,,,,,,8902600,246,0,4,35
+2020-03-11T09:33:12,Eastern Asia,86,CHN,China,24,Shaanxi,,,,,38640000,245,1,232,36
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,36,New York,,,,,19378102,220,0,0,37
+2020-03-11T22:33:03,Western Asia,973,BHR,Bahrain,,,,,,,1543300,195,0,35,38
+2020-03-11T13:53:24,South-eastern Asia,65,SGP,Singapore,,,,,,,5703600,178,0,96,39
+2020-03-11T23:53:03,Northern America,1.X,USA,USA,06,California,,,,,37253956,177,3,2,40
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,32,Yunnan,,,,,48300000,174,2,170,41
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,9,Hainan,,,,,9340000,168,6,159,42
+2020-03-11T11:33:08,South-eastern Asia,60,MYS,Malaysia,,,,,,,32704760,149,0,26,43
+2020-03-11T02:33:03,Eastern Asia,86,CHN,China,8,Guizhou,,,,,36000000,146,2,133,44
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,29,Tianjin,,,,,15600000,136,3,131,45
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,27,Shanxi,,,,,37180000,133,0,131,46
+2020-03-11T14:33:03,Eastern Asia,86,CHN,China,5,Gansu,,,,,26370000,127,2,88,47
+2020-03-11T18:52:03,Eastern Asia,86,CHN,China,13,Hong Kong,,,,,7450000,126,3,65,48
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,20,Liaoning,,,,,43590000,125,1,111,49
+2020-03-11T21:13:18,Western Asia,972,ISR,Israel,,,,,,,9166000,109,0,4,50
+2020-03-11T23:53:02,Southern Europe,30,GRC,Greece,,,,,,,10724599,99,1,0,51
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,25,Massachusetts,,,,,6547629,95,0,1,52
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,19,Jilin,,,,,27040000,93,1,91,53
+2020-03-11T22:13:12,Eastern Europe,420,CZE,Czech Republic,,,,,,,10681161,91,0,0,54
+2020-03-11T13:53:24,Northern Europe,354,ISL,Iceland,,,,,,,364260,85,0,1,55
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,30,Xinjiang,,,,,24870000,76,3,73,56
+2020-03-11T03:53:03,Eastern Asia,86,CHN,China,16,Inner Mongolia,,,,,25340000,75,1,71,57
+2020-03-11T09:33:12,Eastern Asia,86,CHN,China,22,Ningxia,,,,,6880000,75,0,72,58
+2020-03-11T20:53:02,Western Asia,971,ARE,United Arab Emirates,,,,,,,9770529,74,0,17,59
+2020-03-11T09:53:03,Western Asia,965,KWT,Kuwait,,,,,,,4420110,72,0,2,60
+2020-03-11T22:13:12,Western Asia,964,IRQ,Iraq,,,,,,,39127900,71,7,15,61
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,65,2,4,62
+2020-03-11T22:13:12,Southern Asia,91,IND,India,,,,,,,1359238350,62,1,4,63
+2020-03-11T20:53:02,Southern Europe,378,SMR,San Marino,,,,,,,33574,62,2,0,64
+2020-03-11T11:53:03,Western Asia,961,LBN,Lebanon,,,,,,,6855713,61,3,1,65
+2020-03-11T22:13:12,Northern Africa,20,EGY,Egypt,,,,,,,100072195,60,1,27,66
+2020-03-11T13:33:10,Northern Europe,358.A,FIN,Finland,,,,,,,5527573,59,0,1,67
+2020-03-11T13:33:11,Southern Europe,351.A,PRT,Portugal,,,,,,,10276617,59,0,0,68
+2020-03-11T09:13:10,South-eastern Asia,66,THA,Thailand,,,,,,,66475817,59,1,34,69
+2020-03-11T14:13:11,Southern Europe,386,SVN,Slovenia,,,,,,,2094060,57,0,0,70
+2020-03-11T10:53:03,South-eastern Asia,63,PHL,Philippines,,,,,,,108341299,49,1,2,71
+2020-03-11T20:13:14,Eastern Asia,886,TWN,Taiwan,,,,,,,23604265,48,1,17,72
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,,,,,,,329368418,46,0,0,73
+2020-03-11T21:13:18,Eastern Europe,40,ROU,Romania,,,,,,,19405156,45,0,6,74
+2020-03-11T21:33:03,Northern Europe,353,IRL,Ireland,,,,,,,4921500,43,1,0,75
+2020-03-11T18:52:04,Northern America,1.G,CAN,Canada,,,,,,,37940493,41,0,4,76
+2020-03-11T02:18:28,Northern America,1.G,CAN,Canada,,,,,,,37940493,39,1,4,77
+2020-03-11T22:13:12,South America,55,BRA,Brazil,,,,,,,211191084,38,0,0,78
+2020-03-11T20:53:02,South-eastern Asia,84,VNM,Vietnam,,,,,,,96208984,38,0,16,79
+2020-03-11T11:14:26,South-eastern Asia,62,IDN,Indonesia,,,,,,,266911900,34,1,2,80
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,08,Colorado,,,,,5029196,34,0,0,81
+2020-03-11T21:13:21,Eastern Europe,48,POL,Poland,,,,,,,38386000,31,0,0,82
+2020-03-11T03:33:05,Northern America,1.X,USA,USA,12,Florida,,,,,18801310,28,2,0,83
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,17,Illinois,,,,,12830632,25,0,2,84
+2020-03-11T22:13:12,Western Asia,995,GEO,Georgia,,,,,,,3723464,24,0,0,85
+2020-03-11T22:13:12,South America,56,CHL,Chile,,,,,,,19107216,23,0,0,86
+2020-03-11T18:52:03,Northern America,1.X,USA,USA,13,Georgia,,,,,9687653,23,0,0,87
+2020-03-11T18:52:04,Northern America,1.X,USA,USA,34,New Jersey,,,,,8791894,23,1,0,88
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,21,0,7,89
+2020-03-11T13:33:11,Western Asia,966,SAU,Saudi Arabia,,,,,,,34218169,21,0,1,90
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,,,,,,,329368418,21,0,0,91
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,48,Texas,,,,,25145561,21,0,0,92
+2020-03-09T10:13:06,Northern Africa,213,DZA,Algeria,,,,,,,43000000,20,0,0,93
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,20,0,8,94
+2020-03-11T18:52:03,Eastern Europe,7,RUS,Russia,,,,,,,FALSCH,20,0,3,95
+2020-03-11T02:18:16,South America,54,ARG,Argentina,,,,,,,44938712,19,1,0,96
+2020-03-11T23:13:07,Northern America,1.G,CAN,Canada,,,,,,,37940493,19,0,0,97
+2020-03-11T22:13:12,Southern Europe,385,HRV,Croatia,,,,,,,4076246,19,0,0,98
+2020-03-11T21:13:23,Southern Asia,92,PAK,Pakistan,,,,,,,208203777,19,0,2,99
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,41,Oregon,,,,,3831074,19,0,0,100
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,23,Qinghai,,,,,6030000,18,0,18,101
+2020-03-10T08:33:02,Western Asia,968,OMN,Oman,,,,,,,4664790,18,0,9,102
+2020-03-11T09:33:12,South America,593,ECU,Ecuador,,,,,,,17434416,17,0,0,103
+2020-03-11T22:13:12,Northern Europe,372,EST,Estonia,,,,,,,1328360,16,0,0,104
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,42,Pennsylvania,,,,,12702379,16,0,0,105
+2020-03-11T09:33:12,Central America,506,CRI,Costa Rica,,,,,,,5058007,13,0,0,106
+2020-03-11T22:13:12,Eastern Europe,36,HUN,Hungary,,,,,,,9772756,13,0,0,107
+2020-03-11T10:33:03,Southern Africa,27,ZAF,South Africa,,,,,,,58775022,13,0,0,108
+2020-03-11T02:53:03,Northern America,1.X,USA,USA,19,Iowa,,,,,3046355,13,0,0,109
+2020-03-11T13:33:11,Southern Europe,355,ALB,Albania,,,,,,,2862427,12,1,0,110
+2020-03-11T09:53:03,Southern Europe,381,SRB,Serbia,,,,,,,6963764,12,0,0,111
+2020-03-11T08:13:09,Western Asia,994,AZE,Azerbaijan,,,,,,,10067108,11,0,3,112
+2020-03-11T22:13:12,South-eastern Asia,673,BRN,Brunei,,,,,,,442400,11,0,0,113
+2020-03-10T16:33:13,South America,51,PER,Peru,,,,,,,32131400,11,0,0,114
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,18,Indiana,,,,,6483802,11,0,0,115
+2020-03-11T18:52:03,Eastern Asia,86,CHN,China,21,Macao,,,,,660000,10,0,10,116
+2020-03-11T13:53:24,Northern Europe,371,LVA,Latvia,,,,,,,1906800,10,0,1,117
+2020-03-11T13:33:11,Eastern Europe,421,SVK,Slovak Republic,,,,,,,5456362,10,0,0,118
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,11,District of Columbia,,,,,601723,10,0,0,119
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,45,South Carolina,,,,,4625364,10,0,0,120
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,9,0,2,121
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,9,1,0,122
+2020-03-10T16:13:27,Eastern Europe,375,BLR,Belarus,,,,,,,9413446,9,0,3,123
+2020-03-11T14:33:04,South America,57,COL,Colombia,,,,,,,49395678,9,0,0,124
+2020-03-11T18:52:04,Northern America,1.X,USA,USA,04,Arizona,,,,,6392017,9,0,1,125
+2020-03-11T03:33:05,Northern America,1.X,USA,USA,24,Maryland,,,,,5773552,9,0,0,126
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,47,Tennessee,,,,,6346105,9,0,0,127
+2020-03-11T03:33:05,Northern America,1.X,USA,USA,51,Virginia,,,,,8001024,9,0,0,128
+2020-03-11T23:13:06,Northern America,1.G,CAN,Canada,,,,,,,37940493,8,0,0,129
+2020-03-11T09:33:12,Southern Asia,960,MDV,Maldives,,,,,,,374775,8,0,0,130
+2020-03-11T21:13:24,Central America,52,MEX,Mexico,,,,,,,126577691,8,0,4,131
+2020-03-11T09:33:12,Central America,507,PAN,Panama,,,,,,,4218808,8,1,0,132
+2020-03-11T03:13:08,Northern America,1.X,USA,USA,21,Kentucky,,,,,4339367,8,0,0,133
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,46,South Dakota,,,,,814180,8,1,0,134
+2020-03-11T10:13:12,Southern Asia,93,AFG,Afghanistan,,,,,,,32225560,7,0,0,135
+2020-03-11T22:13:12,Southern Europe,387,BIH,Bosnia Herzegovina,,,,,,,3301000,7,0,0,136
+2020-03-11T22:13:12,Eastern Europe,359,BGR,Bulgaria,,,,,,,7000039,7,1,0,137
+2020-03-11T09:33:12,Western Europe,352,LUX,Luxembourg,,,,,,,613894,7,0,0,138
+2020-03-10T10:53:03,Southern Europe,389,MKD,North Macedonia,,,,,,,2077132,7,0,0,139
+2020-03-11T18:52:03,Northern Africa,216,TUN,Tunisia,,,,,,,11722038,7,0,0,140
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,32,Nevada,,,,,2700551,7,0,0,141
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,37,North Carolina,,,,,9535483,7,0,0,142
+2020-03-11T18:52:03,Western Asia,357,CYP,Cyprus,,,,,,,875900,6,0,0,143
+2020-03-11T11:33:08,Southern Europe,356,MLT,Malta,,,,,,,493559,6,0,0,144
+2020-03-11T10:13:20,Northern America,1.X,USA,USA,22,Louisiana,,,,,4533372,6,0,0,145
+2020-03-11T22:53:03,Northern America,1.X,USA,USA,55,Wisconsin,,,,,5686986,6,0,1,146
+2020-03-08T17:23:08,Caribbean,1.J,DOM,Dominican Republic,,,,,,,10358320,5,0,0,147
+2020-03-07T03:23:05,South America,594,GUF,French Guiana,,,,,,,290691,5,0,0,148
+2020-03-11T11:53:03,Northern Africa,212,MAR,Morocco,,,,,,,35824881,5,1,0,149
+2020-03-07T02:03:29,Oceania,64,NZL,New Zealand,,,,,,,4961950,5,0,0,150
+2020-03-11T04:33:03,South America,595,PRY,Paraguay,,,,,,,7152703,5,0,0,151
+2020-03-11T19:13:18,Northern America,1.X,USA,USA,27,Minnesota,,,,,5303925,5,0,0,152
+2020-03-11T23:13:07,Northern America,1.X,USA,USA,31,Nebraska,,,,,1826341,5,0,0,153
+2020-03-11T10:13:20,Northern America,1.X,USA,USA,33,New Hampshire,,,,,1316470,5,0,0,154
+2020-03-11T03:13:08,Northern America,1.X,USA,USA,44,Rhode Island,,,,,1052567,5,0,0,155
+2020-03-08T20:23:08,Western Africa,221,SEN,Senegal,,,,,,,16209125,4,0,1,156
+2020-03-11T18:52:04,Northern America,1.X,USA,USA,39,Ohio,,,,,11536504,4,0,0,157
+2020-03-11T18:52:04,Oceania,61,AUS,Australia,,,,,,,25631395,3,0,0,158
+2020-03-10T06:19:32,Southern Asia,880,BGD,Bangladesh,,,,,,,168186262,3,0,0,159
+2020-03-11T09:33:12,South-eastern Asia,855,KHM,Cambodia,,,,,,,15288489,3,0,1,160
+2020-03-11T02:18:26,Northern Europe,370,LTU,Lithuania,,,,,,,2793350,3,0,0,161
+2020-03-11T02:18:29,Caribbean,596,MTQ,Martinique,,,,,,,376480,3,0,0,162
+2020-03-11T18:52:03,Eastern Europe,373,MDA,Moldova,,,,,,,2681735,3,0,0,163
+2020-03-11T23:13:06,Northern America,1.X,USA,USA,09,Connecticut,,,,,3574097,3,0,0,164
+2020-03-11T18:52:04,Northern America,1.X,USA,USA,35,New Mexico,,,,,2059179,3,0,0,165
+2020-03-11T23:13:06,Northern America,1.X,USA,USA,49,Utah,,,,,2763885,3,0,0,166
+2020-03-11T18:52:03,South America,591,BOL,Bolivia,,,,,,,11469896,2,0,0,167
+2020-03-11T09:33:12,Western Africa,226,BFA,Burkina Faso,,,,,,,20870060,2,0,0,168
+2020-03-08T05:23:03,Middle Africa,237,CMR,Cameroon,,,,,,,25876000,2,0,0,169
+2020-03-11T20:53:02,Northern Europe,45,DNK,Denmark,,,,,,,5822763,2,0,0,170
+2020-03-11T20:53:02,Western Europe,33,FRA,France,,,,,,,67064000,2,0,0,171
+2020-03-11T18:52:03,Central America,504,HND,Honduras,,,,,,,9158345,2,0,0,172
+2020-03-09T09:43:03,Western Africa,234,NGA,Nigeria,,,,,,,200963599,2,0,0,173
+2020-03-11T09:33:12,Southern Asia,94,LKA,Sri Lanka,,,,,,,21803000,2,0,1,174
+2020-03-10T03:13:17,Northern America,1.X,USA,USA,15,Hawaii,,,,,1360301,2,0,0,175
+2020-03-11T03:33:05,Northern America,1.X,USA,USA,26,Michigan,,,,,9883640,2,0,0,176
+2020-03-10T17:13:25,Northern America,1.X,USA,USA,40,Oklahoma,,,,,3751351,2,0,0,177
+2020-03-11T20:53:02,Northern Europe,44.F,GBR,United Kingdom,,,,,,,66435600,2,0,0,178
+2020-03-02T20:23:16,Southern Europe,376,AND,Andorra,,,,,,,77543,1,0,0,179
+2020-03-01T19:53:02,Western Asia,374,ARM,Armenia,,,,,,,2957500,1,0,0,180
+2020-03-10T14:13:14,Oceania,61,AUS,Australia,,,,,,,25631395,1,0,0,181
+2020-03-06T15:43:02,Southern Asia,975,BTN,Bhutan,,,,,,,741672,1,0,0,182
+2020-03-11T23:13:06,Northern America,1.G,CAN,Canada,,,,,,,37940493,1,0,0,183
+2020-03-11T02:18:14,Eastern Asia,86,CHN,China,31,Xizang,,,,,3440000,1,0,1,184
+2020-03-11T21:13:24,Middle Africa,243,COD,DR Congo,,,,,,,86790567,1,0,0,185
+2020-03-11T23:33:03,Western Africa,225,CIV,Côte d'Ivoire,,,,,,,25823071,1,0,0,186
+2020-03-11T20:53:02,Western Europe,33,FRA,France,,,,,,,67064000,1,0,0,187
+2020-03-10T19:13:21,Southern Europe,39.A,VAT,Status Civitatis Vaticanæ,,,,,,,799,1,0,0,188
+2020-03-11T18:52:03,Caribbean,1.N,JAM,Jamaica,,,,,,,2726667,1,0,0,189
+2020-03-03T15:33:02,Western Asia,962,JOR,Jordan,,,,,,,10625504,1,0,0,190
+2020-03-04T01:33:07,Western Europe,423,LIE,Liechtenstein,,,,,,,38557,1,0,0,191
+2020-02-29T00:33:01,Western Europe,377,MCO,Monaco,,,,,,,38300,1,0,0,192
+2020-03-10T06:13:43,Eastern Asia,976,MNG,Mongolia,,,,,,,3305182,1,0,0,193
+2020-03-10T08:33:03,Southern Asia,977,NPL,Nepal,,,,,,,29609623,1,0,1,194
+2020-03-11T23:13:07,Eastern Africa,262.B,REU,Réunion,,,,,,,853659,1,0,0,195
+2020-03-07T02:13:09,Western Africa,228,TGO,Togo,,,,,,,7538000,1,0,0,196
+2020-03-11T03:33:05,Western Asia,90.A,TUR,Turkey,,,,,,,83154997,1,0,0,197
+2020-03-11T18:52:04,Northern America,1.X,USA,USA,05,Arkansas,,,,,2915918,1,0,0,198
+2020-03-11T23:13:06,Northern America,1.X,USA,USA,10,Delaware,,,,,897934,1,0,0,199
+2020-03-10T03:13:17,Northern America,1.X,USA,USA,20,Kansas,,,,,2853118,1,0,0,200
+2020-03-10T03:13:17,Northern America,1.X,USA,USA,29,Missouri,,,,,5988927,1,0,0,201
+2020-03-11T23:13:06,Northern America,1.X,USA,USA,30,Montana,,,,,989415,1,0,0,202
+2020-03-10T03:13:17,Northern America,1.X,USA,USA,50,Vermont,,,,,625741,1,0,0,203
+2020-03-03T15:33:02,Eastern Europe,380,UKR,Ukraine,,,,,,,41902416,1,0,0,204
+2020-03-11T20:53:02,Northern Europe,44.F,GBR,United Kingdom,,,,,,,66435600,1,0,1,205
+2020-02-29T02:03:10,Oceania,61,AUS,Australia,,,,,,,25631395,0,0,0,206
+2020-03-11T02:18:28,Eastern Asia,86,CHN,China,5,Gansu,,,,,26370000,0,0,0,207
+2020-03-11T02:18:29,Eastern Asia,86,CHN,China,10,Hebei,,,,,75560000,0,0,0,208
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,02,Alaska,,,,,710231,0,0,0,209
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,16,Idaho,,,,,1567582,0,0,0,210
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,23,Maine,,,,,1328361,0,0,0,211
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,28,Mississippi,,,,,2967297,0,0,0,212
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,38,North Dakota,,,,,672591,0,0,0,213
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,54,West Virginia,,,,,1852994,0,0,0,214
+2020-03-10T02:33:04,Northern America,1.X,USA,USA,56,Wyoming,,,,,563626,0,0,0,215
+2020-03-11T20:53:02,Western Asia,970,PSE,State of Palestine,,,,,,,4976684,0,0,0,216
