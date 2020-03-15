@@ -1,0 +1,233 @@
+Last Update,Continent,Region,ICC,ID,Country,ID,,Province,ID,District,ZIP,Area,Population,Confirmed,Deaths,Recovered,#,Map
+,,,,,,,,,,,,,,156083,5817,72621,,
+,,,,,,,,,,,,,,,,,,
+2020-03-13T23:33:06,Africa,Eastern Africa,251,ETH,Ethiopia,,,,,,,,98665000,1,0,0,224,https://www.openstreetmap.org/#map=5/9.1450/40.4897&layers=T
+2020-03-14T20:53:02,Africa,Eastern Africa,262,REU,Réunion,,,,,,,,853659,6,0,0,173,https://www.openstreetmap.org/#map=5/-21.1151/55.5364&layers=T
+2020-03-14T23:13:06,Africa,Eastern Africa,248,SYC,Seychelles,,,,,,,,97625,2,0,0,207,https://www.openstreetmap.org/#map=5/-4.6796/55.4920&layers=T
+2020-03-13T22:22:02,Africa,Middle Africa,237,CMR,Cameroon,,,,,,,,25876000,2,0,0,198,https://www.openstreetmap.org/#map=5/3.8480/11.5021&layers=T
+2020-03-13T22:22:02,Africa,Middle Africa,243,COD,DR Congo,,,,,,,,86790567,2,0,0,200,https://www.openstreetmap.org/#map=5/-4.0383/21.7587&layers=T
+2020-03-14T13:33:04,Africa,Middle Africa,241,GAB,Gabon,,,,,,,,2172579,1,0,0,226,https://www.openstreetmap.org/#map=5/-0.8037/11.6094&layers=T
+2020-03-14T12:33:03,Africa,Northern Africa,213,DZA,Algeria,,,,,,,,43000000,37,3,12,106,https://www.openstreetmap.org/#map=5/28.0339/1.6596&layers=T
+2020-03-14T22:33:03,Africa,Northern Africa,20,EGY,Egypt,,,,,,,,100072195,109,2,27,65,https://www.openstreetmap.org/#map=5/26.8206/30.8025&layers=T
+2020-03-14T20:53:02,Africa,Northern Africa,212,MAR,Morocco,,,,,,,,35824881,17,1,1,142,https://www.openstreetmap.org/#map=5/31.7917/-7.0926&layers=T
+2020-03-14T20:53:02,Africa,Northern Africa,216,TUN,Tunisia,,,,,,,,11722038,18,0,0,139,https://www.openstreetmap.org/#map=5/33.8869/9.5375&layers=T
+2020-03-14T13:13:25,Africa,Southern Africa,268,SWZ,Eswatini,,,,,,,,1093238,1,0,0,223,https://www.openstreetmap.org/#map=5/-26.5225/31.4659&layers=T
+2020-03-14T16:33:03,Africa,Southern Africa,264,NAM,Namibia,,,,,,,,2458936,2,0,0,205,https://www.openstreetmap.org/#map=5/-22.9576/18.4904&layers=T
+2020-03-14T16:14:56,Africa,Southern Africa,27,ZAF,South Africa,,,,,,,,58775022,38,0,0,105,https://www.openstreetmap.org/#map=5/-30.5595/22.9375&layers=T
+2020-03-13T22:22:02,Africa,Western Africa,226,BFA,Burkina Faso,,,,,,,,20870060,2,0,0,197,https://www.openstreetmap.org/#map=5/12.2383/-1.5616&layers=T
+2020-03-13T22:22:02,Africa,Western Africa,225,CIV,Côte d'Ivoire,,,,,,,,25823071,1,0,0,221,https://www.openstreetmap.org/#map=5/7.5400/-5.5471&layers=T
+2020-03-14T23:13:05,Africa,Western Africa,233,GHA,Ghana,,,,,,,,30280811,3,0,0,192,https://www.openstreetmap.org/#map=5/7.9465/-1.0232&layers=T
+2020-03-13T15:33:33,Africa,Western Africa,224,GIN,Guinea,,,,,,,,12218357,1,0,0,230,https://www.openstreetmap.org/#map=5/9.9456/-9.6966&layers=T
+2020-03-13T22:22:02,Africa,Western Africa,234,NGA,Nigeria,,,,,,,,200963599,2,0,0,206,https://www.openstreetmap.org/#map=5/9.0820/8.6753&layers=T
+2020-03-13T23:33:05,Africa,Western Africa,221,SEN,Senegal,,,,,,,,16209125,10,0,1,157,https://www.openstreetmap.org/#map=5/14.4974/-14.4524&layers=T
+2020-03-13T22:22:06,Americas,Caribbean,1,ATG,Antigua and Barbuda,,,,,,,,96453,1,0,0,214,https://www.openstreetmap.org/#map=5/17.0608/-61.7964&layers=T
+2020-03-13T23:53:03,Americas,Caribbean,297,ABW,Aruba,,,,,,,,112309,2,0,0,196,https://www.openstreetmap.org/#map=5/12.5211/-69.9683&layers=T
+2020-03-13T12:33:03,Americas,Caribbean,1,CYM,Cayman Islands,,,,,,,,65813,1,0,0,219,https://www.openstreetmap.org/#map=5/19.3133/-81.2546&layers=T
+2020-03-13T23:53:02,Americas,Caribbean,53,CUB,Cuba,,,,,,,,11209628,4,0,0,184,https://www.openstreetmap.org/#map=5/21.5218/-77.7812&layers=T
+2020-03-14T16:15:18,Americas,Caribbean,599,CUW,Curaçao,,,,,,,,158665,1,0,0,222,https://www.openstreetmap.org/#map=5/12.1696/-68.9900&layers=T
+2020-03-14T20:53:02,Americas,Caribbean,1,DOM,Dominican Republic,,,,,,,,10358320,11,0,0,153,https://www.openstreetmap.org/#map=5/18.7357/-70.1627&layers=T
+2020-03-13T12:33:03,Americas,Caribbean,590,GLP,Guadeloupe,,,,,,,,395700,1,0,0,227,https://www.openstreetmap.org/#map=5/16.2650/-61.5510&layers=T
+2020-03-13T22:22:02,Americas,Caribbean,1,JAM,Jamaica,,,,,,,,2726667,8,0,0,165,https://www.openstreetmap.org/#map=5/18.1096/-77.2975&layers=T
+2020-03-14T14:53:04,Americas,Caribbean,596,MTQ,Martinique,,,,,,,,376480,9,0,0,163,https://www.openstreetmap.org/#map=5/14.6415/-61.0242&layers=T
+2020-03-14T18:33:03,Americas,Caribbean,1,PRI,Puerto Rico,,X,,,,,,3193694,3,0,0,194,https://www.openstreetmap.org/#map=5/18.2208/-66.5901&layers=T
+2020-03-14T16:33:03,Americas,Caribbean,590,BLM,Saint Barthélemy,,X,,,,,,9793,1,0,0,225,https://www.openstreetmap.org/#map=5/17.9000/-62.8333&layers=T
+2020-03-14T16:33:03,Americas,Caribbean,590,MAF,Saint Martin,,X,,,,,,35746,2,0,0,201,https://www.openstreetmap.org/#map=5/18.0708/-63.0501&layers=T
+2020-03-14T16:15:01,Americas,Caribbean,1,TTO,Trinidad and Tobago,,,,,,,,1363985,2,0,0,208,https://www.openstreetmap.org/#map=5/10.6918/-61.2225&layers=T
+2020-03-14T12:33:03,Americas,Central America,506,CRI,Costa Rica,,,,,,,,5058007,26,0,0,118,https://www.openstreetmap.org/#map=5/9.7489/-83.7534&layers=T
+2020-03-14T01:33:03,Americas,Central America,502,GTM,Guatemala,,,,,,,,16604026,1,0,0,228,https://www.openstreetmap.org/#map=5/15.7835/-90.2308&layers=T
+2020-03-13T22:22:02,Americas,Central America,504,HND,Honduras,,,,,,,,9158345,2,0,0,202,https://www.openstreetmap.org/#map=5/15.2000/-86.2419&layers=T
+2020-03-14T20:53:02,Americas,Central America,52,MEX,Mexico,,,,,,,,126577691,26,0,4,121,https://www.openstreetmap.org/#map=5/23.6345/-102.5528&layers=T
+2020-03-14T12:33:03,Americas,Central America,507,PAN,Panama,,,,,,,,4218808,36,1,0,107,https://www.openstreetmap.org/#map=5/8.5380/-80.7821&layers=T
+2020-03-14T00:13:05,Americas,Northern America,1,CAN,Canada,AB,,Alberta,,,,,4395586,29,0,0,114,https://www.openstreetmap.org/#map=5/53.9333/-116.5765&layers=T
+2020-03-14T00:13:05,Americas,Northern America,1,CAN,Canada,BC,,British Columbia,,,,,5105576,64,1,4,85,https://www.openstreetmap.org/#map=5/53.7267/-127.6476&layers=T
+2020-03-14T00:13:05,Americas,Northern America,1,CAN,Canada,MB,,Manitoba,,,,,1373859,4,0,0,183,https://www.openstreetmap.org/#map=5/53.7609/-98.8139&layers=T
+2020-03-11T23:13:06,Americas,Northern America,1,CAN,Canada,NB,,New Brunswick,,,,,780021,1,0,0,218,https://www.openstreetmap.org/#map=5/46.5653/-66.4619&layers=T
+2020-03-14T13:13:25,Americas,Northern America,1,CAN,Canada,ON,,Ontario,,,,,14659616,79,0,4,77,https://www.openstreetmap.org/#map=5/51.2538/-85.3232&layers=T
+2020-03-13T13:33:03,Americas,Northern America,1,CAN,Canada,QC,,Quebec,,,,,8522800,17,0,0,141,https://www.openstreetmap.org/#map=5/52.9399/-73.5491&layers=T
+2020-03-14T00:13:05,Americas,Northern America,1,CAN,Canada,SK,,Saskatchewan,,,,,1178657,2,0,0,199,https://www.openstreetmap.org/#map=5/52.9399/-106.4509&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,AL,,Alabama,,,,,4779736,6,0,0,174,https://www.openstreetmap.org/#map=5/32.3182/-86.9023&layers=T
+2020-03-14T18:13:23,Americas,Northern America,1,USA,United States,AZ,,Arizona,,,,,6392017,12,0,1,150,https://www.openstreetmap.org/#map=5/33.7298/-111.4312&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,AR,,Arkansas,,,,,2915918,12,0,0,151,https://www.openstreetmap.org/#map=5/34.9697/-92.3731&layers=T
+2020-03-14T22:13:32,Americas,Northern America,1,USA,United States,CA,,California,,,,,37253956,340,5,6,33,https://www.openstreetmap.org/#map=5/36.1162/-119.6816&layers=T
+2020-03-14T22:13:32,Americas,Northern America,1,USA,United States,CO,,Colorado,,,,,5029196,101,1,0,70,https://www.openstreetmap.org/#map=5/39.0598/-105.3111&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,CT,,Connecticut,,,,,3574097,22,0,0,127,https://www.openstreetmap.org/#map=5/41.5978/-72.7554&layers=T
+2020-03-14T18:13:20,Americas,Northern America,1,USA,United States,DE,,Delaware,,,,,897934,6,0,0,175,https://www.openstreetmap.org/#map=5/39.3185/-75.5071&layers=T
+2020-03-10T02:33:04,Americas,Northern America,1,USA,United States,EXT,,Diamond Princess,,,,,46,46,0,0,97,https://www.openstreetmap.org/#map=5/35.4437/139.6380&layers=T
+2020-03-10T02:33:04,Americas,Northern America,1,USA,United States,EXT,X,Diamond Princess,,,,,46,21,0,0,128,https://www.openstreetmap.org/#map=5/37.6489/-122.6655&layers=T
+2020-03-11T22:53:03,Americas,Northern America,1,USA,United States,DC,,District of Columbia,,,,,601723,10,0,0,159,https://www.openstreetmap.org/#map=5/38.8974/-77.0268&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,FL,,Florida,,,,,18801310,76,3,0,80,https://www.openstreetmap.org/#map=5/27.7663/-81.6868&layers=T
+2020-03-14T17:53:03,Americas,Northern America,1,USA,United States,GA,,Georgia,,,,,9687653,66,1,0,84,https://www.openstreetmap.org/#map=5/33.0406/-83.6431&layers=T
+2020-03-14T19:53:03,Americas,Northern America,1,USA,United States,HI,,Hawaii,,,,,1360301,4,0,0,186,https://www.openstreetmap.org/#map=5/21.0943/-157.4983&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,ID,,Idaho,,,,,1567582,2,0,0,209,https://www.openstreetmap.org/#map=5/44.2405/-114.4788&layers=T
+2020-03-14T22:33:04,Americas,Northern America,1,USA,United States,IL,,Illinois,,,,,12830632,64,0,2,86,https://www.openstreetmap.org/#map=5/40.3495/-88.9861&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,IN,,Indiana,,,,,6483802,16,0,0,144,https://www.openstreetmap.org/#map=5/39.8494/-86.2583&layers=T
+2020-03-13T23:53:03,Americas,Northern America,1,USA,United States,IA,,Iowa,,,,,3046355,17,0,0,143,https://www.openstreetmap.org/#map=5/42.0115/-93.2105&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,KS,,Kansas,,,,,2853118,8,1,0,167,https://www.openstreetmap.org/#map=5/38.5266/-96.7265&layers=T
+2020-03-13T23:53:03,Americas,Northern America,1,USA,United States,KY,,Kentucky,,,,,4339367,14,0,0,147,https://www.openstreetmap.org/#map=5/37.6681/-84.6701&layers=T
+2020-03-14T22:13:32,Americas,Northern America,1,USA,United States,LA,,Louisiana,,,,,4533372,77,1,0,78,https://www.openstreetmap.org/#map=5/31.1695/-91.8678&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,ME,,Maine,,,,,1328361,3,0,0,193,https://www.openstreetmap.org/#map=5/44.6939/-69.3819&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,MD,,Maryland,,,,,5773552,26,0,0,122,https://www.openstreetmap.org/#map=5/39.0639/-76.8021&layers=T
+2020-03-14T22:13:19,Americas,Northern America,1,USA,United States,MA,,Massachusetts,,,,,6547629,138,0,1,54,https://www.openstreetmap.org/#map=5/42.2302/-71.5301&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,MI,,Michigan,,,,,9883640,25,0,0,124,https://www.openstreetmap.org/#map=5/43.3266/-84.5361&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,MN,,Minnesota,,,,,5303925,21,0,0,129,https://www.openstreetmap.org/#map=5/45.6945/-93.9002&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,MS,,Mississippi,,,,,2967297,6,0,0,176,https://www.openstreetmap.org/#map=5/32.7416/-89.6787&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,MO,,Missouri,,,,,5988927,4,0,0,187,https://www.openstreetmap.org/#map=5/38.4561/-92.2884&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,MT,,Montana,,,,,989415,5,0,0,181,https://www.openstreetmap.org/#map=5/46.9219/-110.4544&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,NE,,Nebraska,,,,,1826341,14,0,0,148,https://www.openstreetmap.org/#map=5/41.1254/-98.2681&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,NV,,Nevada,,,,,2700551,21,0,0,130,https://www.openstreetmap.org/#map=5/38.3135/-117.0554&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,NH,,New Hampshire,,,,,1316470,7,0,0,169,https://www.openstreetmap.org/#map=5/43.4525/-71.5639&layers=T
+2020-03-14T22:13:32,Americas,Northern America,1,USA,United States,NJ,,New Jersey,,,,,8791894,69,1,0,83,https://www.openstreetmap.org/#map=5/40.2989/-74.5210&layers=T
+2020-03-14T00:13:05,Americas,Northern America,1,USA,United States,NM,,New Mexico,,,,,2059179,10,0,0,160,https://www.openstreetmap.org/#map=5/34.8405/-106.2485&layers=T
+2020-03-14T22:13:32,Americas,Northern America,1,USA,United States,NY,,New York,,,,,19378102,525,2,0,29,https://www.openstreetmap.org/#map=5/42.1657/-74.9481&layers=T
+2020-03-14T18:13:23,Americas,Northern America,1,USA,United States,NC,,North Carolina,,,,,9535483,24,0,0,125,https://www.openstreetmap.org/#map=5/35.6301/-79.8064&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,OH,,Ohio,,,,,11536504,26,0,0,123,https://www.openstreetmap.org/#map=5/40.3888/-82.7649&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,OK,,Oklahoma,,,,,3751351,4,0,0,188,https://www.openstreetmap.org/#map=5/35.5653/-96.9289&layers=T
+2020-03-14T16:33:03,Americas,Northern America,1,USA,United States,OR,,Oregon,,,,,3831074,32,0,0,109,https://www.openstreetmap.org/#map=5/44.5720/-122.0709&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,PA,,Pennsylvania,,,,,12702379,47,0,0,94,https://www.openstreetmap.org/#map=5/40.5908/-77.2098&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,RI,,Rhode Island,,,,,1052567,20,0,0,131,https://www.openstreetmap.org/#map=5/41.6809/-71.5118&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,SC,,South Carolina,,,,,4625364,19,0,0,134,https://www.openstreetmap.org/#map=5/33.8569/-80.9450&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,SD,,South Dakota,,,,,814180,9,1,0,164,https://www.openstreetmap.org/#map=5/44.2998/-99.4388&layers=T
+2020-03-14T22:33:04,Americas,Northern America,1,USA,United States,TN,,Tennessee,,,,,6346105,32,0,0,110,https://www.openstreetmap.org/#map=5/35.7478/-86.6923&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,TX,,Texas,,,,,25145561,57,0,0,89,https://www.openstreetmap.org/#map=5/31.0545/-97.5635&layers=T
+2020-03-14T18:53:03,Americas,Northern America,1,USA,United States,UT,,Utah,,,,,2763885,10,0,0,161,https://www.openstreetmap.org/#map=5/40.1500/-111.8624&layers=T
+2020-03-14T22:33:04,Americas,Northern America,1,USA,United States,VT,,Vermont,,,,,625741,5,0,0,182,https://www.openstreetmap.org/#map=5/44.0459/-72.7107&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,VA,,Virginia,,,,,8001024,41,1,0,100,https://www.openstreetmap.org/#map=5/37.7693/-78.1700&layers=T
+2020-03-14T22:13:19,Americas,Northern America,1,USA,United States,WA,,Washington,,,,,6724540,572,37,1,27,https://www.openstreetmap.org/#map=5/47.4009/-121.4905&layers=T
+2020-03-14T22:33:03,Americas,Northern America,1,USA,United States,WI,,Wisconsin,,,,,5686986,27,0,1,117,https://www.openstreetmap.org/#map=5/44.2685/-89.6165&layers=T
+2020-03-14T16:53:03,Americas,Northern America,1,USA,United States,WY,,Wyoming,,,,,563626,2,0,0,210,https://www.openstreetmap.org/#map=5/42.7560/-107.3025&layers=T
+2020-03-14T20:33:03,Americas,South America,54,ARG,Argentina,,,,,,,,44938712,34,2,1,108,https://www.openstreetmap.org/#map=5/-38.4161/-63.6167&layers=T
+2020-03-14T12:53:07,Americas,South America,591,BOL,Bolivia,,,,,,,,11469896,10,0,0,154,https://www.openstreetmap.org/#map=5/-16.2902/-63.5887&layers=T
+2020-03-13T22:21:58,Americas,South America,55,BRA,Brazil,,,,,,,,211191084,151,0,0,51,https://www.openstreetmap.org/#map=5/-14.2350/-51.9253&layers=T
+2020-03-14T20:33:03,Americas,South America,56,CHL,Chile,,,,,,,,19107216,61,0,0,87,https://www.openstreetmap.org/#map=5/-35.6751/-71.5430&layers=T
+2020-03-14T20:53:02,Americas,South America,57,COL,Colombia,,,,,,,,49395678,22,0,0,126,https://www.openstreetmap.org/#map=5/4.5709/-74.2973&layers=T
+2020-03-14T22:53:02,Americas,South America,593,ECU,Ecuador,,,,,,,,17434416,28,2,0,115,https://www.openstreetmap.org/#map=5/-1.8312/-78.1834&layers=T
+2020-03-14T16:53:03,Americas,South America,594,GUF,French Guiana,,X,,,,,,290691,5,0,0,178,https://www.openstreetmap.org/#map=5/4.0000/-53.0000&layers=T
+2020-03-07T03:23:05,Americas,South America,594,GUF,French Guiana,,,,,,,,290691,5,0,0,179,https://www.openstreetmap.org/#map=5/3.9339/-53.1258&layers=T
+2020-03-13T23:33:06,Americas,South America,595,PRY,Paraguay,,,,,,,,7152703,6,0,0,172,https://www.openstreetmap.org/#map=5/-23.4425/-58.4438&layers=T
+2020-03-14T12:33:03,Americas,South America,51,PER,Peru,,,,,,,,32131400,38,0,0,104,https://www.openstreetmap.org/#map=5/-9.1900/-75.0152&layers=T
+2020-03-14T16:33:03,Americas,South America,598,URY,Uruguay,,,,,,,,3518552,4,0,0,189,https://www.openstreetmap.org/#map=5/-32.5228/-55.7658&layers=T
+2020-03-14T12:53:07,Americas,South America,58,VEN,Venezuela,,,,,,,,32219521,2,0,0,212,https://www.openstreetmap.org/#map=5/6.4238/-66.5897&layers=T
+2020-03-14T12:53:07,Asia,Central Asia,7,KAZ,Kazakhstan,,,,,,,,18654144,6,0,0,170,https://www.openstreetmap.org/#map=5/48.0196/66.9237&layers=T
+2020-03-11T18:52:03,Asia,Eastern Asia,86,CHN,China,,X,,,,,,1401551000,10,0,10,155,https://www.openstreetmap.org/#map=5/22.1667/113.5500&layers=T
+2020-03-11T02:18:14,Asia,Eastern Asia,86,CHN,China,皖,,Anhui,,,,,63240000,990,6,984,15,https://www.openstreetmap.org/#map=5/31.8257/117.2264&layers=T
+2020-03-14T02:13:47,Asia,Eastern Asia,86,CHN,China,京,,Beijing,,,,,21540000,437,8,349,31,https://www.openstreetmap.org/#map=5/40.1824/116.4142&layers=T
+2020-03-14T23:53:02,Asia,Eastern Asia,86,CHN,China,渝,,Chongqing,,,,,31020000,576,6,569,26,https://www.openstreetmap.org/#map=5/30.0572/107.8740&layers=T
+2020-03-11T02:18:14,Asia,Eastern Asia,86,CHN,China,闽,,Fujian,,,,,39410000,296,1,295,36,https://www.openstreetmap.org/#map=5/26.0789/117.9874&layers=T
+2020-03-14T03:13:08,Asia,Eastern Asia,86,CHN,China,甘,,Gansu,,,,,26370000,129,2,89,57,https://www.openstreetmap.org/#map=5/36.0611/103.8343&layers=T
+2020-03-14T01:13:11,Asia,Eastern Asia,86,CHN,China,粤,,Guangdong,,,,,113460000,1356,8,1299,9,https://www.openstreetmap.org/#map=5/23.3417/113.4244&layers=T
+2020-03-13T11:09:03,Asia,Eastern Asia,86,CHN,China,桂,,Guangxi,,,,,49260000,252,2,243,37,https://www.openstreetmap.org/#map=5/23.8298/108.7881&layers=T
+2020-03-14T00:53:03,Asia,Eastern Asia,86,CHN,China,贵,,Guizhou,,,,,36000000,146,2,143,52,https://www.openstreetmap.org/#map=5/26.8154/106.8748&layers=T
+2020-03-12T03:53:02,Asia,Eastern Asia,86,CHN,China,琼,,Hainan,,,,,9340000,168,6,160,49,https://www.openstreetmap.org/#map=5/19.1959/109.7453&layers=T
+2020-03-13T11:09:03,Asia,Eastern Asia,86,CHN,China,冀,,Hebei,,,,,75560000,318,6,310,35,https://www.openstreetmap.org/#map=5/38.0428/114.5149&layers=T
+2020-03-14T00:13:05,Asia,Eastern Asia,86,CHN,China,黑,,Heilongjiang,,,,,37730000,482,13,447,30,https://www.openstreetmap.org/#map=5/47.8620/127.7615&layers=T
+2020-03-14T09:53:08,Asia,Eastern Asia,86,CHN,China,豫,,Henan,,,,,96050000,1273,22,1250,10,https://www.openstreetmap.org/#map=5/33.8820/113.6140&layers=T
+2020-03-14T12:53:06,Asia,Eastern Asia,86,CHN,China,港,,Hong Kong,,,,,7450000,140,4,78,53,https://www.openstreetmap.org/#map=5/22.3000/114.2000&layers=T
+2020-03-14T10:13:09,Asia,Eastern Asia,86,CHN,China,鄂,,Hubei,,,,,59170000,67790,3075,52960,1,https://www.openstreetmap.org/#map=5/30.9756/112.2707&layers=T
+2020-03-14T08:33:03,Asia,Eastern Asia,86,CHN,China,湘,,Hunan,,,,,68990000,1018,4,1014,14,https://www.openstreetmap.org/#map=5/27.6104/111.7088&layers=T
+2020-03-11T03:53:03,Asia,Eastern Asia,86,CHN,China,蒙,,Inner Mongolia,,,,,25340000,75,1,71,81,https://www.openstreetmap.org/#map=5/44.0935/113.9448&layers=T
+2020-03-13T11:09:03,Asia,Eastern Asia,86,CHN,China,苏,,Jiangsu,,,,,80510000,631,0,630,25,https://www.openstreetmap.org/#map=5/32.9711/119.4550&layers=T
+2020-03-12T02:13:04,Asia,Eastern Asia,86,CHN,China,赣,,Jiangxi,,,,,46480000,935,1,934,18,https://www.openstreetmap.org/#map=5/27.6140/115.7221&layers=T
+2020-03-13T11:09:03,Asia,Eastern Asia,86,CHN,China,吉,,Jilin,,,,,27040000,93,1,91,72,https://www.openstreetmap.org/#map=5/43.6661/126.1923&layers=T
+2020-03-14T00:13:05,Asia,Eastern Asia,86,CHN,China,辽,,Liaoning,,,,,43590000,125,1,113,59,https://www.openstreetmap.org/#map=5/41.2956/122.6085&layers=T
+2020-03-14T09:53:08,Asia,Eastern Asia,86,CHN,China,宁,,Ningxia,,,,,6880000,75,0,73,82,https://www.openstreetmap.org/#map=5/37.2692/106.1655&layers=T
+2020-03-11T02:18:14,Asia,Eastern Asia,86,CHN,China,青,,Qinghai,,,,,6030000,18,0,18,137,https://www.openstreetmap.org/#map=5/35.7452/95.9956&layers=T
+2020-03-12T01:33:02,Asia,Eastern Asia,86,CHN,China,陕,,Shaanxi,,,,,38640000,245,2,232,38,https://www.openstreetmap.org/#map=5/35.1917/108.8701&layers=T
+2020-03-14T04:33:02,Asia,Eastern Asia,86,CHN,China,鲁,,Shandong,,,,,100470000,760,7,741,21,https://www.openstreetmap.org/#map=5/36.3427/118.1498&layers=T
+2020-03-14T23:53:02,Asia,Eastern Asia,86,CHN,China,沪,,Shanghai,,,,,24240000,353,3,324,32,https://www.openstreetmap.org/#map=5/31.2020/121.4491&layers=T
+2020-03-13T11:09:03,Asia,Eastern Asia,86,CHN,China,晋,,Shanxi,,,,,37180000,133,0,133,56,https://www.openstreetmap.org/#map=5/37.5777/112.2922&layers=T
+2020-03-14T04:33:02,Asia,Eastern Asia,86,CHN,China,川,,Sichuan,,,,,83410000,539,3,511,28,https://www.openstreetmap.org/#map=5/30.6171/102.7103&layers=T
+2020-03-12T01:53:03,Asia,Eastern Asia,86,CHN,China,津,,Tianjin,,,,,15600000,136,3,132,55,https://www.openstreetmap.org/#map=5/39.3054/117.3230&layers=T
+2020-03-11T02:18:14,Asia,Eastern Asia,86,CHN,China,新,,Xinjiang,,,,,24870000,76,3,73,79,https://www.openstreetmap.org/#map=5/41.1129/85.2401&layers=T
+2020-03-11T02:18:14,Asia,Eastern Asia,86,CHN,China,བོད,X,Xizang,,,,,3440000,1,0,1,220,https://www.openstreetmap.org/#map=5/31.6927/88.0924&layers=T
+2020-03-14T23:33:02,Asia,Eastern Asia,86,CHN,China,云,,Yunnan,,,,,48300000,174,2,172,47,https://www.openstreetmap.org/#map=5/24.9740/101.4870&layers=T
+2020-03-14T02:14:15,Asia,Eastern Asia,86,CHN,China,浙,,Zhejiang,,,,,57370000,1227,1,1211,11,https://www.openstreetmap.org/#map=5/29.1832/120.0934&layers=T
+2020-03-14T22:33:03,Asia,Eastern Asia,81,JPN,Japan,,,,,,,,126010000,773,22,118,20,https://www.openstreetmap.org/#map=5/36.2048/138.2529&layers=T
+2020-03-14T01:33:02,Asia,Eastern Asia,82,KOR,South Korea,,,,,,,,51780579,8086,72,510,4,https://www.openstreetmap.org/#map=5/35.9078/127.7669&layers=T
+2020-03-14T07:13:11,Asia,Eastern Asia,886,TWN,Taiwan,,,,,,,,23604265,53,1,20,90,https://www.openstreetmap.org/#map=5/23.7000/121.0000&layers=T
+2020-03-14T20:33:03,Asia,South-eastern Asia,673,BRN,Brunei,,,,,,,,442400,40,0,0,101,https://www.openstreetmap.org/#map=5/4.5353/114.7277&layers=T
+2020-03-14T12:53:07,Asia,South-eastern Asia,855,KHM,Cambodia,,,,,,,,15288489,7,0,1,168,https://www.openstreetmap.org/#map=5/12.5657/104.9910&layers=T
+2020-03-14T22:53:02,Asia,South-eastern Asia,62,IDN,Indonesia,,,,,,,,266911900,96,5,8,71,https://www.openstreetmap.org/#map=5/-0.7893/113.9213&layers=T
+2020-03-14T16:13:55,Asia,South-eastern Asia,60,MYS,Malaysia,,,,,,,,32704760,238,0,35,39,https://www.openstreetmap.org/#map=5/4.2105/101.9758&layers=T
+2020-03-14T20:33:03,Asia,South-eastern Asia,63,PHL,Philippines,,,,,,,,108341299,111,8,2,63,https://www.openstreetmap.org/#map=5/12.8797/121.7740&layers=T
+2020-03-14T16:14:30,Asia,South-eastern Asia,65,SGP,Singapore,,,,,,,,5703600,212,0,105,42,https://www.openstreetmap.org/#map=5/1.3521/103.8198&layers=T
+2020-03-14T12:13:12,Asia,South-eastern Asia,66,THA,Thailand,,,,,,,,66475817,82,1,35,75,https://www.openstreetmap.org/#map=5/15.8700/100.9925&layers=T
+2020-03-14T12:13:12,Asia,South-eastern Asia,84,VNM,Vietnam,,,,,,,,96208984,53,0,16,91,https://www.openstreetmap.org/#map=5/14.0583/108.2772&layers=T
+2020-03-14T14:53:04,Asia,Southern Asia,93,AFG,Afghanistan,,,,,,,,32225560,11,0,0,152,https://www.openstreetmap.org/#map=5/33.9391/67.7100&layers=T
+2020-03-13T22:22:02,Asia,Southern Asia,880,BGD,Bangladesh,,,,,,,,168186262,3,0,0,190,https://www.openstreetmap.org/#map=5/23.6850/90.3563&layers=T
+2020-03-13T22:22:02,Asia,Southern Asia,975,BTN,Bhutan,,,,,,,,741672,1,0,0,217,https://www.openstreetmap.org/#map=5/27.5142/90.4336&layers=T
+2020-03-14T20:33:03,Asia,Southern Asia,91,IND,India,,,,,,,,1359238350,102,2,4,69,https://www.openstreetmap.org/#map=5/20.5937/78.9629&layers=T
+2020-03-14T11:33:06,Asia,Southern Asia,98,IRN,Iran,,,,,,,,83241033,12729,611,2959,3,https://www.openstreetmap.org/#map=5/32.4279/53.6880&layers=T
+2020-03-14T16:14:58,Asia,Southern Asia,960,MDV,Maldives,,,,,,,,374775,10,0,0,156,https://www.openstreetmap.org/#map=5/3.2028/73.2207&layers=T
+2020-03-14T20:33:03,Asia,Southern Asia,92,PAK,Pakistan,,,,,,,,208203777,31,0,2,111,https://www.openstreetmap.org/#map=5/30.3753/69.3451&layers=T
+2020-03-14T16:14:58,Asia,Southern Asia,94,LKA,Sri Lanka,,,,,,,,21803000,10,0,1,158,https://www.openstreetmap.org/#map=5/7.8731/80.7718&layers=T
+2020-03-14T20:53:02,Asia,Western Asia,374,ARM,Armenia,,,,,,,,2957500,18,0,0,135,https://www.openstreetmap.org/#map=5/40.0691/45.0382&layers=T
+2020-03-13T12:13:36,Asia,Western Asia,994,AZE,Azerbaijan,,,,,,,,10067108,15,1,3,145,https://www.openstreetmap.org/#map=5/40.1431/47.5769&layers=T
+2020-03-14T11:53:29,Asia,Western Asia,973,BHR,Bahrain,,,,,,,,1543300,210,0,44,43,https://www.openstreetmap.org/#map=5/26.0667/50.5577&layers=T
+2020-03-14T22:53:02,Asia,Western Asia,357,CYP,Cyprus,,,,,,,,875900,26,0,0,119,https://www.openstreetmap.org/#map=5/35.1264/33.4299&layers=T
+2020-03-14T12:33:03,Asia,Western Asia,995,GEO,Georgia,,,,,,,,3723464,30,0,0,112,https://www.openstreetmap.org/#map=5/42.3154/43.3569&layers=T
+2020-03-14T22:33:03,Asia,Western Asia,964,IRQ,Iraq,,,,,,,,39127900,110,10,26,64,https://www.openstreetmap.org/#map=5/33.2232/43.6793&layers=T
+2020-03-14T20:13:16,Asia,Western Asia,972,ISR,Israel,,,,,,,,9166000,193,0,4,44,https://www.openstreetmap.org/#map=5/31.0461/34.8516&layers=T
+2020-03-14T16:14:34,Asia,Western Asia,965,KWT,Kuwait,,,,,,,,4420110,104,0,5,66,https://www.openstreetmap.org/#map=5/29.3117/47.4818&layers=T
+2020-03-14T12:13:12,Asia,Western Asia,961,LBN,Lebanon,,,,,,,,6855713,93,3,1,73,https://www.openstreetmap.org/#map=5/33.8547/35.8623&layers=T
+2020-03-13T23:33:05,Asia,Western Asia,968,OMN,Oman,,,,,,,,4664790,19,0,9,133,https://www.openstreetmap.org/#map=5/21.4735/55.9754&layers=T
+2020-03-14T22:33:03,Asia,Western Asia,974,QAT,Qatar,,,,,,,,2747282,337,0,4,34,https://www.openstreetmap.org/#map=5/25.3548/51.1839&layers=T
+2020-03-14T20:33:03,Asia,Western Asia,966,SAU,Saudi Arabia,,,,,,,,34218169,103,0,1,68,https://www.openstreetmap.org/#map=5/23.8859/45.0792&layers=T
+2020-03-13T23:33:06,Asia,Western Asia,90,TUR,Turkey,,,,,,,,83154997,5,0,0,180,https://www.openstreetmap.org/#map=5/38.9637/35.2433&layers=T
+2020-03-13T22:21:58,Asia,Western Asia,971,ARE,United Arab Emirates,,,,,,,,9770529,85,0,17,74,https://www.openstreetmap.org/#map=5/23.4241/53.8478&layers=T
+2020-03-13T22:22:03,Europe,Channel Islands,44,GGY,Guernsey,,,,,,,,62792,1,0,0,229,https://www.openstreetmap.org/#map=5/49.4500/-2.5800&layers=T
+2020-03-14T16:33:03,Europe,Channel Islands,44,JEY,Jersey,,,,,,,,106800,2,0,0,203,https://www.openstreetmap.org/#map=5/49.1900/-2.1100&layers=T
+2020-03-13T22:21:59,Europe,Eastern Europe,375,BLR,Belarus,,,,,,,,9413446,27,0,3,116,https://www.openstreetmap.org/#map=5/53.7098/27.9534&layers=T
+2020-03-14T20:33:03,Europe,Eastern Europe,359,BGR,Bulgaria,,,,,,,,7000039,41,2,0,99,https://www.openstreetmap.org/#map=5/42.7339/25.4858&layers=T
+2020-03-14T20:13:16,Europe,Eastern Europe,420,CZE,Czechia,,,,,,,,10681161,189,0,0,45,https://www.openstreetmap.org/#map=5/49.8175/15.4730&layers=T
+2020-03-14T22:53:02,Europe,Eastern Europe,36,HUN,Hungary,,,,,,,,9772756,30,0,1,113,https://www.openstreetmap.org/#map=5/47.1625/19.5033&layers=T
+2020-03-14T20:53:02,Europe,Eastern Europe,373,MDA,Moldova,,,,,,,,2681735,12,0,0,149,https://www.openstreetmap.org/#map=5/47.4116/28.3699&layers=T
+2020-03-14T22:53:02,Europe,Eastern Europe,48,POL,Poland,,,,,,,,38386000,103,3,0,67,https://www.openstreetmap.org/#map=5/51.9194/19.1451&layers=T
+2020-03-14T22:33:03,Europe,Eastern Europe,40,ROU,Romania,,,,,,,,19405156,123,0,9,60,https://www.openstreetmap.org/#map=5/45.9432/24.9668&layers=T
+2020-03-14T22:53:02,Europe,Eastern Europe,7,RUS,Russia,,,,,,,,146780720,59,0,8,88,https://www.openstreetmap.org/#map=5/61.5240/105.3188&layers=T
+2020-03-14T20:33:03,Europe,Eastern Europe,421,SVK,Slovakia,,,,,,,,5456362,44,0,0,98,https://www.openstreetmap.org/#map=5/48.6690/19.6990&layers=T
+2020-03-13T22:22:02,Europe,Eastern Europe,380,UKR,Ukraine,,,,,,,,41902416,3,1,0,195,https://www.openstreetmap.org/#map=5/48.3794/31.1656&layers=T
+2020-03-14T22:13:32,Europe,Northern Europe,45,DNK,Denmark,,X,,,,,,5822763,827,1,1,19,https://www.openstreetmap.org/#map=5/56.2639/9.5018&layers=T
+2020-03-14T20:33:03,Europe,Northern Europe,372,EST,Estonia,,,,,,,,1328360,115,0,0,61,https://www.openstreetmap.org/#map=5/58.5953/25.0136&layers=T
+2020-03-14T16:33:03,Europe,Northern Europe,298,FRO,Faroe Islands,,X,,,,,,52124,9,0,0,162,https://www.openstreetmap.org/#map=5/61.8926/-6.9118&layers=T
+2020-03-14T22:33:03,Europe,Northern Europe,358,FIN,Finland,,,,,,,,5527573,225,0,1,41,https://www.openstreetmap.org/#map=5/61.9241/25.7482&layers=T
+2020-03-14T14:53:04,Europe,Northern Europe,354,ISL,Iceland,,,,,,,,364260,156,0,1,50,https://www.openstreetmap.org/#map=5/64.9631/-19.0208&layers=T
+2020-03-14T20:13:16,Europe,Northern Europe,353,IRL,Ireland,,,,,,,,4921500,129,2,0,58,https://www.openstreetmap.org/#map=5/53.1424/-7.6921&layers=T
+2020-03-14T12:33:03,Europe,Northern Europe,371,LVA,Latvia,,,,,,,,1906800,26,0,1,120,https://www.openstreetmap.org/#map=5/56.8796/24.6032&layers=T
+2020-03-14T14:53:04,Europe,Northern Europe,370,LTU,Lithuania,,,,,,,,2793350,8,0,0,166,https://www.openstreetmap.org/#map=5/55.1694/23.8813&layers=T
+2020-03-14T22:13:11,Europe,Northern Europe,47,NOR,Norway,,,,,,,,5367580,1090,3,1,13,https://www.openstreetmap.org/#map=5/60.4720/8.4689&layers=T
+2020-03-14T22:13:11,Europe,Northern Europe,46,SWE,Sweden,,,,,,,,10327589,961,2,1,16,https://www.openstreetmap.org/#map=5/60.1282/18.6435&layers=T
+2020-03-14T14:53:04,Europe,Northern Europe,44,GBR,United Kingdom,,X,,,,,,66435600,1140,21,18,12,https://www.openstreetmap.org/#map=5/55.3781/-3.4360&layers=T
+2020-03-11T20:53:02,Europe,Northern Europe,44,GBR,United Kingdom,1,,Channel Islands,,,,,170499,2,0,0,211,https://www.openstreetmap.org/#map=5/49.3723/-2.3644&layers=T
+2020-03-14T12:33:03,Europe,Southern Europe,355,ALB,Albania,,,,,,,,2862427,38,1,0,102,https://www.openstreetmap.org/#map=5/41.1533/20.1683&layers=T
+2020-03-13T22:22:02,Europe,Southern Europe,376,AND,Andorra,,,,,,,,77543,1,0,1,213,https://www.openstreetmap.org/#map=5/42.5063/1.5218&layers=T
+2020-03-14T12:33:03,Europe,Southern Europe,387,BIH,Bosnia and Herzegovina,,,,,,,,3301000,18,0,0,136,https://www.openstreetmap.org/#map=5/43.9159/17.6791&layers=T
+2020-03-14T20:33:03,Europe,Southern Europe,385,HRV,Croatia,,,,,,,,4076246,38,0,1,103,https://www.openstreetmap.org/#map=5/45.1000/15.2000&layers=T
+2020-03-14T22:33:03,Europe,Southern Europe,30,GRC,Greece,,,,,,,,10724599,228,3,8,40,https://www.openstreetmap.org/#map=5/39.0742/21.8243&layers=T
+2020-03-14T20:13:16,Europe,Southern Europe,39,ITA,Italy,,,,,,,,60247214,21157,1441,1966,2,https://www.openstreetmap.org/#map=5/41.8719/12.5674&layers=T
+2020-03-14T12:33:03,Europe,Southern Europe,356,MLT,Malta,,,,,,,,493559,18,0,1,138,https://www.openstreetmap.org/#map=5/35.9375/14.3754&layers=T
+2020-03-13T23:33:05,Europe,Southern Europe,389,MKD,North Macedonia,,,,,,,,2077132,14,0,1,146,https://www.openstreetmap.org/#map=5/41.6086/21.7453&layers=T
+2020-03-14T16:14:47,Europe,Southern Europe,351,PRT,Portugal,,,,,,,,10276617,169,0,2,48,https://www.openstreetmap.org/#map=5/39.3999/-8.2245&layers=T
+2020-03-14T22:53:02,Europe,Southern Europe,378,SMR,San Marino,,,,,,,,33574,80,5,4,76,https://www.openstreetmap.org/#map=5/43.9424/12.4578&layers=T
+2020-03-14T22:53:02,Europe,Southern Europe,381,SRB,Serbia,,,,,,,,6963764,46,0,0,96,https://www.openstreetmap.org/#map=5/44.0165/21.0059&layers=T
+2020-03-14T22:33:03,Europe,Southern Europe,386,SVN,Slovenia,,,,,,,,2094060,181,1,0,46,https://www.openstreetmap.org/#map=5/46.1512/14.9955&layers=T
+2020-03-14T22:13:11,Europe,Southern Europe,34,ESP,Spain,,,,,,,,47100396,6391,195,517,5,https://www.openstreetmap.org/#map=5/40.4637/-3.7492&layers=T
+2020-03-14T16:13:55,Europe,Western Europe,43,AUT,Austria,,,,,,,,8902600,655,1,6,24,https://www.openstreetmap.org/#map=5/47.5162/14.5501&layers=T
+2020-03-14T11:53:29,Europe,Western Europe,32,BEL,Belgium,,,,,,,,11524454,689,4,1,23,https://www.openstreetmap.org/#map=5/50.5039/4.4699&layers=T
+2020-03-14T20:13:16,Europe,Western Europe,33,FRA,France,,X,,,,,,67064000,4469,91,12,7,https://www.openstreetmap.org/#map=5/46.2276/2.2137&layers=T
+2020-03-14T22:13:11,Europe,Western Europe,49,DEU,Germany,,,,,,,,83149300,4585,9,46,6,https://www.openstreetmap.org/#map=5/51.1657/10.4515&layers=T
+2020-03-14T20:53:02,Europe,Western Europe,423,LIE,Liechtenstein,,,,,,,,38557,4,0,0,185,https://www.openstreetmap.org/#map=5/47.1660/9.5554&layers=T
+2020-03-14T20:33:03,Europe,Western Europe,352,LUX,Luxembourg,,,,,,,,613894,51,1,0,92,https://www.openstreetmap.org/#map=5/49.8153/6.1296&layers=T
+2020-03-14T23:13:05,Europe,Western Europe,377,MCO,Monaco,,,,,,,,38300,2,0,0,204,https://www.openstreetmap.org/#map=5/43.7384/7.4246&layers=T
+2020-03-14T22:13:11,Europe,Western Europe,31,NLD,Netherlands,,,,,,,,17439481,959,12,2,17,https://www.openstreetmap.org/#map=5/52.1326/5.2913&layers=T
+2020-03-14T11:53:29,Europe,Western Europe,41,CHE,Switzerland,,,,,,,,8586550,1359,13,4,8,https://www.openstreetmap.org/#map=5/46.8182/8.2275&layers=T
+2020-03-13T14:13:25,In,Between,5,IC,International Conveyance,1,,Diamond Princess,,,,,3700,696,7,325,22,https://www.openstreetmap.org/#map=5/35.4498/139.6649&layers=T
+2020-03-14T01:53:03,Oceania,Oceania,61,AUS,Australia,ACT,,Australian Capital Territory,,,,,426709,1,0,0,215,https://www.openstreetmap.org/#map=5/-35.4735/149.0124&layers=T
+2020-03-14T13:33:04,Oceania,Oceania,61,AUS,Australia,NSW,,New South Wales,,,,,8089526,112,2,4,62,https://www.openstreetmap.org/#map=5/-33.8688/151.2093&layers=T
+2020-03-14T01:53:03,Oceania,Oceania,61,AUS,Australia,NT,,Northern Territory,,,,,245869,1,0,0,216,https://www.openstreetmap.org/#map=5/-12.4634/130.8456&layers=T
+2020-03-14T13:33:04,Oceania,Oceania,61,AUS,Australia,QLD,,Queensland,,,,,5095100,46,0,8,95,https://www.openstreetmap.org/#map=5/-28.0167/153.4000&layers=T
+2020-03-14T13:33:04,Oceania,Oceania,61,AUS,Australia,SA,,South Australia,,,,,1751693,19,0,3,132,https://www.openstreetmap.org/#map=5/-34.9285/138.6007&layers=T
+2020-03-14T01:53:03,Oceania,Oceania,61,AUS,Australia,TAS,,Tasmania,,,,,534281,5,0,0,177,https://www.openstreetmap.org/#map=5/-41.4545/145.9707&layers=T
+2020-03-14T13:33:04,Oceania,Oceania,61,AUS,Australia,VIC,,Victoria,,,,,6594804,49,0,8,93,https://www.openstreetmap.org/#map=5/-37.8136/144.9631&layers=T
+2020-03-14T13:33:04,Oceania,Oceania,61,AUS,Australia,WA,,Western Australia,,,,,2621680,17,1,0,140,https://www.openstreetmap.org/#map=5/-31.9505/115.8605&layers=T
+2020-03-14T20:53:02,Oceania,Oceania,64,NZL,New Zealand,,,,,,,,4961950,6,0,0,171,https://www.openstreetmap.org/#map=5/-40.9006/174.8860&layers=T
+2020-03-14T16:53:03,Oceania,Polynesia,689,PYF,French Polynesia,,X,,,,,,275918,3,0,0,191,https://www.openstreetmap.org/#map=5/-17.6797/149.4068&layers=T
