@@ -1,0 +1,451 @@
+Continent,Region,ICC,ID,Country,ID,Province,ID,District,ZIP,Area,Population,#
+Africa,Eastern Africa,251,ETH,Ethiopia,,,,,,,98.665.000,413
+Africa,Eastern Africa,254,KEN,Kenya,,,,,,,47.564.296,418
+Africa,Eastern Africa,262,MYT,Mayotte,,,,,,,279.471,449
+Africa,Eastern Africa,262,REU,Réunion,,,,,,,853.659,209
+Africa,Eastern Africa,250,RWA,Rwanda,,,,,,,12.374.397,435
+Africa,Eastern Africa,248,SYC,Seychelles,,,,,,,97.625,426
+Africa,Middle Africa,237,CMR,Cameroon,,,,,,,25.876.000,81
+Africa,Middle Africa,236,CAF,Central African Republic,,,,,,,5.496.011,446
+Africa,Middle Africa,242,COG,Congo Republic,,,,,,,5.380.508,447
+Africa,Middle Africa,243,COD,DR Congo,,,,,,,86.790.567,205
+Africa,Middle Africa,240,GNQ,Equatorial Guinea,,,,,,,1.358.276,448
+Africa,Middle Africa,241,GAB,Gabon,,,,,,,2.172.579,431
+Africa,Northern Africa,213,DZA,Algeria,,,,,,,43.000.000,30
+Africa,Northern Africa,20,EGY,Egypt,,,,,,,100.072.195,22
+Africa,Northern Africa,212,MAR,Morocco,,,,,,,35.824.881,65
+Africa,Northern Africa,249,SDN,Sudan,,,,,,,42.306.185,414
+Africa,Northern Africa,216,TUN,Tunisia,,,,,,,11.722.038,76
+Africa,Southern Africa,268,SWZ,Eswatini,,,,,,,1.093.238,430
+Africa,Southern Africa,264,NAM,Namibia,,,,,,,2.458.936,425
+Africa,Southern Africa,27,ZAF,South Africa,,,,,,,58.775.022,79
+Africa,Western Africa,226,BFA,Burkina Faso,,,,,,,20.870.060,135
+Africa,Western Africa,225,CIV,Côte d'Ivoire,,,,,,,25.823.071,206
+Africa,Western Africa,233,GHA,Ghana,,,,,,,30.280.811,422
+Africa,Western Africa,224,GIN,Guinea,,,,,,,12.218.357,415
+Africa,Western Africa,222,MRT,Mauritania,,,,,,,4.077.347,434
+Africa,Western Africa,234,NGA,Nigeria,,,,,,,200.963.599,50
+Africa,Western Africa,221,SEN,Senegal,,,,,,,16.209.125,67
+Africa,Western Africa,228,TGO,Togo,,,,,,,7.538.000,87
+Americas,Caribbean,1,ATG,Antigua and Barbuda,,,,,,,96.453,419
+Americas,Caribbean,297,ABW,Aruba,,,,,,,112.309,416
+Americas,Caribbean,1,CYM,Cayman Islands,,,,,,,65.813,409
+Americas,Caribbean,53,CUB,Cuba,,,,,,,11.209.628,403
+Americas,Caribbean,599,CUW,Curaçao,,,,,,,158.665,429
+Americas,Caribbean,1,DOM,Dominican Republic,,,,,,,10.358.320,59
+Americas,Caribbean,590,GLP,Guadeloupe,,,,,,,395.700,410
+Americas,Caribbean,1,JAM,Jamaica,,,,,,,2.726.667,208
+Americas,Caribbean,596,MTQ,Martinique,,,,,,,376.480,89
+Americas,Caribbean,1,PRI,Puerto Rico,,,,,,,3.193.694,423
+Americas,Caribbean,590,BLM,Saint Barthélemy,,,,,,,9.793,207
+Americas,Caribbean,1,LCA,Saint Lucia,,,,,,,178.696,436
+Americas,Caribbean,590,MAF,Saint Martin,,,,,,,35.746,200
+Americas,Caribbean,1,VCT,Saint Vincent and the Grenadines,,,,,,,110.608,437
+Americas,Caribbean,1,TTO,Trinidad and Tobago,,,,,,,1.363.985,427
+Americas,Caribbean,1,VIR,U.S. Virgin Islands,,,,,,,104.578,439
+Americas,Central America,506,CRI,Costa Rica,,,,,,,5.058.007,83
+Americas,Central America,502,GTM,Guatemala,,,,,,,16.604.026,432
+Americas,Central America,504,HND,Honduras,,,,,,,9.158.345,201
+Americas,Central America,52,MEX,Mexico,,,,,,,126.577.691,48
+Americas,Central America,507,PAN,Panama,,,,,,,4.218.808,138
+Americas,Northern America,1,CAN,Canada,AB,Alberta,,,,,4.395.586,95
+Americas,Northern America,1,CAN,Canada,BC,British Columbia,,,,,5.105.576,6
+Americas,Northern America,1,CAN,Canada,EXT,Grand Princess,,,,,2,417
+Americas,Northern America,1,CAN,Canada,MB,Manitoba,,,,,1.373.859,411
+Americas,Northern America,1,CAN,Canada,NB,New Brunswick,,,,,780.021,203
+Americas,Northern America,1,CAN,Canada,NL,Newfoundland and Labrador,,,,,521.922,444
+Americas,Northern America,1,CAN,Canada,ON,Ontario,,,,,14.659.616,94
+Americas,Northern America,1,CAN,Canada,PE,Prince Edward Island,,,,,157.901,445
+Americas,Northern America,1,CAN,Canada,QC,Quebec,,,,,8.522.800,96
+Americas,Northern America,1,CAN,Canada,SK,Saskatchewan,,,,,1.178.657,412
+Americas,Northern America,1,USA,United States,AL,Alabama,,,,,4.779.736,420
+Americas,Northern America,1,USA,United States,AK,Alaska,,,,,710.231,143
+Americas,Northern America,1,USA,United States,AZ,Arizona,,,,,6.392.017,120
+Americas,Northern America,1,USA,United States,AZ,Arizona,04013,Maricopa County,,,3.817.117,333
+Americas,Northern America,1,USA,United States,AZ,Arizona,04019,Pima County,,,980.263,242
+Americas,Northern America,1,USA,United States,AZ,Arizona,04021,Pinal County,,,375.770,287
+Americas,Northern America,1,USA,United States,AR,Arkansas,,,,,2.915.918,144
+Americas,Northern America,1,USA,United States,CA,California,,,,,37.253.956,102
+Americas,Northern America,1,USA,United States,CA,California,06001,Alameda County,,,1.510.271,284
+Americas,Northern America,1,USA,United States,CA,California,06009,Calaveras County,,,45.578,357
+Americas,Northern America,1,USA,United States,CA,California,06013,Contra Costa County,,,1.049.025,330
+Americas,Northern America,1,USA,United States,CA,California,06019,Fresno County,,,930.450,264
+Americas,Northern America,1,USA,United States,CA,California,06023,Humboldt County,,,134.623,345
+Americas,Northern America,1,USA,United States,CA,California,06037,Los Angeles County,,,9.818.605,349
+Americas,Northern America,1,USA,United States,CA,California,06039,Madera County,,,150.865,300
+Americas,Northern America,1,USA,United States,CA,California,06041,Marin County,,,252.409,356
+Americas,Northern America,1,USA,United States,CA,California,06055,Napa County,,,136.484,215
+Americas,Northern America,1,USA,United States,CA,California,06059,Orange County,,,3.010.232,331
+Americas,Northern America,1,USA,United States,CA,California,06061,Placer County,,,348.432,338
+Americas,Northern America,1,USA,United States,CA,California,06065,Riverside County,,,2.189.641,274
+Americas,Northern America,1,USA,United States,CA,California,06067,Sacramento County,,,1.418.788,346
+Americas,Northern America,1,USA,United States,CA,California,06069,San Benito County,,,55.269,348
+Americas,Northern America,1,USA,United States,CA,California,06073,San Diego County,,,3.095.313,347
+Americas,Northern America,1,USA,United States,CA,California,06075,San Francisco County,,,805.235,329
+Americas,Northern America,1,USA,United States,CA,California,06077,San Joaquin County,,,685.306,359
+Americas,Northern America,1,USA,United States,CA,California,06081,San Mateo County,,,718.451,339
+Americas,Northern America,1,USA,United States,CA,California,06085,Santa Clara County,,,1.781.642,316
+Americas,Northern America,1,USA,United States,CA,California,06087,Santa Cruz County,,,262.382,214
+Americas,Northern America,1,USA,United States,CA,California,06089,Shasta County,,,177.223,257
+Americas,Northern America,1,USA,United States,CA,California,06095,Solano County,,,413.344,213
+Americas,Northern America,1,USA,United States,CA,California,06097,Sonoma County,,,483.878,340
+Americas,Northern America,1,USA,United States,CA,California,06099,Stanislaus County,,,514.453,358
+Americas,Northern America,1,USA,United States,CA,California,06111,Ventura County,,,823.318,216
+Americas,Northern America,1,USA,United States,CA,California,06113,Yolo County,,,200.849,315
+Americas,Northern America,1,USA,United States,CO,Colorado,,,,,5.029.196,107
+Americas,Northern America,1,USA,United States,CO,Colorado,08005,Arapahoe County,,,572.003,230
+Americas,Northern America,1,USA,United States,CO,Colorado,08031,Denver County,,,600.158,325
+Americas,Northern America,1,USA,United States,CO,Colorado,08035,Douglas County,,,285.465,303
+Americas,Northern America,1,USA,United States,CO,Colorado,08037,Eagle County,,,52.197,228
+Americas,Northern America,1,USA,United States,CO,Colorado,08041,El Paso County,,,622.263,294
+Americas,Northern America,1,USA,United States,CO,Colorado,08051,Gunnison County,,,15.324,231
+Americas,Northern America,1,USA,United States,CO,Colorado,08059,Jefferson County,,,534.543,371
+Americas,Northern America,1,USA,United States,CO,Colorado,08069,Larimer County,,,299.630,229
+Americas,Northern America,1,USA,United States,CO,Colorado,08117,Summit County,,,27.994,326
+Americas,Northern America,1,USA,United States,CT,Connecticut,,,,,3.574.097,131
+Americas,Northern America,1,USA,United States,CT,Connecticut,09001,Fairfield County,,,916.829,389
+Americas,Northern America,1,USA,United States,CT,Connecticut,09005,Litchfield County,,,189.927,390
+Americas,Northern America,1,USA,United States,DE,Delaware,,,,,897.934,145
+Americas,Northern America,1,USA,United States,DE,Delaware,10003,New Castle County,,,538.479,402
+Americas,Northern America,1,USA,United States,EXT-1,Diamond Princess,,,,,46,104
+Americas,Northern America,1,USA,United States,DC,District of Columbia,,,,,601.723,123
+Americas,Northern America,1,USA,United States,DC,District of Columbia,11001,Washington,,,601.723,282
+Americas,Northern America,1,USA,United States,FL,Florida,,,,,18.801.310,108
+Americas,Northern America,1,USA,United States,FL,Florida,12001,Alachua County,,,247.336,364
+Americas,Northern America,1,USA,United States,FL,Florida,12011,Broward County,,,1.748.066,285
+Americas,Northern America,1,USA,United States,FL,Florida,12015,Charlotte County,,,159.978,252
+Americas,Northern America,1,USA,United States,FL,Florida,12021,Collier County,,,321.520,362
+Americas,Northern America,1,USA,United States,FL,Florida,12057,Hillsborough County,,,1.229.226,337
+Americas,Northern America,1,USA,United States,FL,Florida,12071,Lee County,,,618.754,286
+Americas,Northern America,1,USA,United States,FL,Florida,12081,Manatee County,,,322.833,270
+Americas,Northern America,1,USA,United States,FL,Florida,12089,Nassau County,,,73.314,365
+Americas,Northern America,1,USA,United States,FL,Florida,12091,Okaloosa County,,,180.822,272
+Americas,Northern America,1,USA,United States,FL,Florida,12101,Pasco County,,,464.697,366
+Americas,Northern America,1,USA,United States,FL,Florida,12103,Pinellas County,,,916.542,363
+Americas,Northern America,1,USA,United States,FL,Florida,12113,Santa Rosa County,,,151.372,320
+Americas,Northern America,1,USA,United States,FL,Florida,12127,Volusia County,,,494.593,279
+Americas,Northern America,1,USA,United States,GA,Georgia,,,,,9.687.653,106
+Americas,Northern America,1,USA,United States,GA,Georgia,13049,Charlton County,,,12.171,361
+Americas,Northern America,1,USA,United States,GA,Georgia,13057,Cherokee County,,,214.346,253
+Americas,Northern America,1,USA,United States,GA,Georgia,13067,Cobb County,,,688.078,292
+Americas,Northern America,1,USA,United States,GA,Georgia,13089,DeKalb County,,,691.893,219
+Americas,Northern America,1,USA,United States,GA,Georgia,13113,Fayette County,,,106.567,221
+Americas,Northern America,1,USA,United States,GA,Georgia,13115,Floyd County,,,96.317,220
+Americas,Northern America,1,USA,United States,GA,Georgia,13121,Fulton County,,,920.581,342
+Americas,Northern America,1,USA,United States,GA,Georgia,13135,Gwinnett County,,,805.321,218
+Americas,Northern America,1,USA,United States,GA,Georgia,13233,Polk County,,,41.475,273
+Americas,Northern America,1,USA,United States,EXT-2,Grand Princess,,,,,21,105
+Americas,Northern America,1,USA,United States,HI,Hawaii,,,,,1.360.301,132
+Americas,Northern America,1,USA,United States,HI,Hawaii,15003,Honolulu County,,,953.207,295
+Americas,Northern America,1,USA,United States,ID,Idaho,,,,,1.567.582,146
+Americas,Northern America,1,USA,United States,IL,Illinois,,,,,12.830.632,112
+Americas,Northern America,1,USA,United States,IL,Illinois,17031,Cook County,,,5.194.675,351
+Americas,Northern America,1,USA,United States,IL,Illinois,17089,Kane County,,,515.269,232
+Americas,Northern America,1,USA,United States,IL,Illinois,17097,Lake County,,,703.462,376
+Americas,Northern America,1,USA,United States,IL,Illinois,17111,McHenry County,,,308.760,375
+Americas,Northern America,1,USA,United States,IN,Indiana,,,,,6.483.802,121
+Americas,Northern America,1,USA,United States,IN,Indiana,18001,Adams County,,,34.387,244
+Americas,Northern America,1,USA,United States,IN,Indiana,18011,Boone County,,,56.640,245
+Americas,Northern America,1,USA,United States,IN,Indiana,18063,Hendricks County,,,145.448,266
+Americas,Northern America,1,USA,United States,IN,Indiana,18067,Howard County,,,82.752,382
+Americas,Northern America,1,USA,United States,IN,Indiana,18081,Johnson County,,,139.654,381
+Americas,Northern America,1,USA,United States,IN,Indiana,18097,Marion County,,,903.393,309
+Americas,Northern America,1,USA,United States,IN,Indiana,18113,Noble County,,,47.536,243
+Americas,Northern America,1,USA,United States,IN,Indiana,18141,St. Joseph County,,,266.931,383
+Americas,Northern America,1,USA,United States,IA,Iowa,,,,,3.046.355,114
+Americas,Northern America,1,USA,United States,IA,Iowa,19103,Johnson County,,,130.882,260
+Americas,Northern America,1,USA,United States,IA,Iowa,19155,Pottawattamie County,,,93.158,240
+Americas,Northern America,1,USA,United States,KS,Kansas,,,,,2.853.118,139
+Americas,Northern America,1,USA,United States,KS,Kansas,20091,Johnson County,,,544.179,268
+Americas,Northern America,1,USA,United States,KY,Kentucky,,,,,4.339.367,122
+Americas,Northern America,1,USA,United States,KY,Kentucky,21067,Fayette County,,,295.803,308
+Americas,Northern America,1,USA,United States,KY,Kentucky,21097,Harrison County,,,18.846,259
+Americas,Northern America,1,USA,United States,KY,Kentucky,21111,Jefferson County,,,741.096,255
+Americas,Northern America,1,USA,United States,LA,Louisiana,,,,,4.533.372,140
+Americas,Northern America,1,USA,United States,LA,Louisiana,22051,Jefferson Parish,,,432.552,256
+Americas,Northern America,1,USA,United States,LA,Louisiana,22071,Orleans Parish,,,343.829,391
+Americas,Northern America,1,USA,United States,ME,Maine,,,,,1.328.361,147
+Americas,Northern America,1,USA,United States,MD,Maryland,,,,,5.773.552,115
+Americas,Northern America,1,USA,United States,MD,Maryland,24025,Harford County,,,244.826,265
+Americas,Northern America,1,USA,United States,MD,Maryland,24031,Montgomery County,,,971.777,323
+Americas,Northern America,1,USA,United States,MD,Maryland,24033,Prince George's County,,,863.420,239
+Americas,Northern America,1,USA,United States,MA,Massachusetts,,,,,6.547.629,103
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25003,Berkshire County,,,131.219,261
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25009,Essex County,,,743.159,360
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25017,Middlesex County,,,1.503.085,310
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25021,Norfolk County,,,670.850,332
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25025,Suffolk County,,,722.023,324
+Americas,Northern America,1,USA,United States,MA,Massachusetts,25027,Worcester County,,,798.552,217
+Americas,Northern America,1,USA,United States,MI,Michigan,,,,,9.883.640,148
+Americas,Northern America,1,USA,United States,MI,Michigan,26125,Oakland County,,,1.202.362,400
+Americas,Northern America,1,USA,United States,MI,Michigan,26163,Wayne County,,,1.820.584,401
+Americas,Northern America,1,USA,United States,MN,Minnesota,,,,,5.303.925,126
+Americas,Northern America,1,USA,United States,MN,Minnesota,27003,Anoka County,,,330.844,386
+Americas,Northern America,1,USA,United States,MN,Minnesota,27019,Carver County,,,91.042,251
+Americas,Northern America,1,USA,United States,MN,Minnesota,27109,Olmsted County,,,144.248,387
+Americas,Northern America,1,USA,United States,MN,Minnesota,27123,Ramsey County,,,508.640,312
+Americas,Northern America,1,USA,United States,MS,Mississippi,,,,,2.967.297,149
+Americas,Northern America,1,USA,United States,MO,Missouri,,,,,5.988.927,141
+Americas,Northern America,1,USA,United States,MO,Missouri,29189,St. Louis County,,,998.954,276
+Americas,Northern America,1,USA,United States,MT,Montana,,,,,989.415,150
+Americas,Northern America,1,USA,United States,NE,Nebraska,,,,,1.826.341,127
+Americas,Northern America,1,USA,United States,NE,Nebraska,31055,Douglas County,,,517.110,307
+Americas,Northern America,1,USA,United States,NE,Nebraska,31107,Knox County,,,8.701,384
+Americas,Northern America,1,USA,United States,NV,Nevada,,,,,2.700.551,124
+Americas,Northern America,1,USA,United States,NV,Nevada,32003,Clark County,,,1.951.269,317
+Americas,Northern America,1,USA,United States,NV,Nevada,32031,Washoe County,,,421.407,313
+Americas,Northern America,1,USA,United States,NH,New Hampshire,,,,,1.316.470,125
+Americas,Northern America,1,USA,United States,NH,New Hampshire,33009,Grafton County,,,89.118,336
+Americas,Northern America,1,USA,United States,NH,New Hampshire,33015,Rockingham County,,,295.223,281
+Americas,Northern America,1,USA,United States,NJ,New Jersey,,,,,8.791.894,109
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34003,Bergen County,,,905.116,327
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34005,Burlington County,,,448.734,224
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34007,Camden County,,,513.657,225
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34017,Hudson County,,,634.266,267
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34023,Middlesex County,,,809.858,370
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34025,Monmouth County,,,630.380,223
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34031,Passaic County,,,501.226,226
+Americas,Northern America,1,USA,United States,NJ,New Jersey,34039,Union County,,,536.499,227
+Americas,Northern America,1,USA,United States,NM,New Mexico,,,,,2.059.179,151
+Americas,Northern America,1,USA,United States,NM,New Mexico,35001,Bernalillo County,,,662.564,399
+Americas,Northern America,1,USA,United States,NM,New Mexico,35053,Socorro County,,,17.866,398
+Americas,Northern America,1,USA,United States,NY,New York,,,,,19.378.102,101
+Americas,Northern America,1,USA,United States,NY,New York,36059,Nassau County,,,1.339.532,311
+Americas,Northern America,1,USA,United States,NY,New York,36061,New York County,,,1.585.873,322
+Americas,Northern America,1,USA,United States,NY,New York,36087,Rockland County,,,311.687,288
+Americas,Northern America,1,USA,United States,NY,New York,36091,Saratoga County,,,219.607,289
+Americas,Northern America,1,USA,United States,NY,New York,36103,Suffolk County,,,1.493.350,277
+Americas,Northern America,1,USA,United States,NY,New York,36111,Ulster County,,,182.493,278
+Americas,Northern America,1,USA,United States,NY,New York,36119,Westchester County,,,949.113,335
+Americas,Northern America,1,USA,United States,NC,North Carolina,,,,,9.535.483,116
+Americas,Northern America,1,USA,United States,NC,North Carolina,37029,Camden County,,,9.980,241
+Americas,Northern America,1,USA,United States,NC,North Carolina,37037,Chatham County,,,63.505,305
+Americas,Northern America,1,USA,United States,NC,North Carolina,37183,Wake County,,,900.993,334
+Americas,Northern America,1,USA,United States,ND,North Dakota,,,,,672.591,152
+Americas,Northern America,1,USA,United States,OH,Ohio,,,,,11.536.504,128
+Americas,Northern America,1,USA,United States,OH,Ohio,39035,Cuyahoga County,,,1.280.122,248
+Americas,Northern America,1,USA,United States,OH,Ohio,39151,Stark County,,,375.586,385
+Americas,Northern America,1,USA,United States,OK,Oklahoma,,,,,3.751.351,133
+Americas,Northern America,1,USA,United States,OK,Oklahoma,40143,Tulsa County,,,603.403,302
+Americas,Northern America,1,USA,United States,OR,Oregon,,,,,3.831.074,110
+Americas,Northern America,1,USA,United States,OR,Oregon,41017,Deschutes County,,,157.733,374
+Americas,Northern America,1,USA,United States,OR,Oregon,41019,Douglas County,,,107.667,263
+Americas,Northern America,1,USA,United States,OR,Oregon,41029,Jackson County,,,203.206,296
+Americas,Northern America,1,USA,United States,OR,Oregon,41035,Klamath County,,,66.380,299
+Americas,Northern America,1,USA,United States,OR,Oregon,41047,Marion County,,,315.335,271
+Americas,Northern America,1,USA,United States,OR,Oregon,41051,Multnomah County,,,735.334,372
+Americas,Northern America,1,USA,United States,OR,Oregon,41053,Polk County,,,75.403,373
+Americas,Northern America,1,USA,United States,OR,Oregon,41059,Umatilla County,,,75.889,341
+Americas,Northern America,1,USA,United States,OR,Oregon,41067,Washington County,,,529.710,343
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,,,,,12.702.379,113
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42017,Bucks County,,,625.249,377
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42045,Delaware County,,,558.979,306
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42089,Monroe County,,,169.842,233
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42091,Montgomery County,,,799.874,283
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42101,Philadelphia County,,,1.526.006,234
+Americas,Northern America,1,USA,United States,PA,Pennsylvania,42127,Wayne County,,,52.822,314
+Americas,Northern America,1,USA,United States,RI,Rhode Island,,,,,1.052.567,129
+Americas,Northern America,1,USA,United States,RI,Rhode Island,44007,Providence County,,,626.667,304
+Americas,Northern America,1,USA,United States,SC,South Carolina,,,,,4.625.364,117
+Americas,Northern America,1,USA,United States,SC,South Carolina,45019,Charleston County,,,350.209,290
+Americas,Northern America,1,USA,United States,SC,South Carolina,45055,Kershaw County,,,61.697,298
+Americas,Northern America,1,USA,United States,SC,South Carolina,45057,Lancaster County,,,76.652,379
+Americas,Northern America,1,USA,United States,SC,South Carolina,45083,Spartanburg County,,,284.307,258
+Americas,Northern America,1,USA,United States,SD,South Dakota,,,,,814.180,153
+Americas,Northern America,1,USA,United States,SD,South Dakota,46005,Beadle County,,,17.398,393
+Americas,Northern America,1,USA,United States,SD,South Dakota,46009,Bon Homme County,,,7.070,397
+Americas,Northern America,1,USA,United States,SD,South Dakota,46023,Charles Mix County,,,9.129,394
+Americas,Northern America,1,USA,United States,SD,South Dakota,46035,Davison County,,,19.504,395
+Americas,Northern America,1,USA,United States,SD,South Dakota,46099,Minnehaha County,,,169.468,396
+Americas,Northern America,1,USA,United States,SD,South Dakota,46103,Pennington County,,,100.948,392
+Americas,Northern America,1,USA,United States,TN,Tennessee,,,,,6.346.105,118
+Americas,Northern America,1,USA,United States,TN,Tennessee,47037,Davidson County,,,626.681,262
+Americas,Northern America,1,USA,United States,TN,Tennessee,47157,Shelby County,,,927.644,275
+Americas,Northern America,1,USA,United States,TN,Tennessee,47163,Sullivan County,,,156.823,380
+Americas,Northern America,1,USA,United States,TN,Tennessee,47187,Williamson County,,,183.182,321
+Americas,Northern America,1,USA,United States,TX,Texas,,,,,25.145.561,111
+Americas,Northern America,1,USA,United States,TX,Texas,48085,Collin County,,,782.341,254
+Americas,Northern America,1,USA,United States,TX,Texas,48113,Dallas County,,,2.368.139,367
+Americas,Northern America,1,USA,United States,TX,Texas,48157,Fort Bend County,,,585.375,318
+Americas,Northern America,1,USA,United States,TX,Texas,48183,Gregg County,,,121.730,222
+Americas,Northern America,1,USA,United States,TX,Texas,48201,Harris County,,,4.092.459,328
+Americas,Northern America,1,USA,United States,TX,Texas,48339,Montgomery County,,,455.746,369
+Americas,Northern America,1,USA,United States,TX,Texas,48439,Tarrant County,,,1.809.034,368
+Americas,Northern America,1,USA,United States,UT,Utah,,,,,2.763.885,134
+Americas,Northern America,1,USA,United States,UT,Utah,49011,Davis County,,,306.479,293
+Americas,Northern America,1,USA,United States,UT,Utah,49043,Summit County,,,36.324,388
+Americas,Northern America,1,USA,United States,UT,Utah,49057,Weber County,,,231.236,249
+Americas,Northern America,1,USA,United States,VT,Vermont,,,,,625.741,142
+Americas,Northern America,1,USA,United States,VT,Vermont,50003,Bennington County,,,37.125,250
+Americas,Northern America,1,USA,United States,VA,Virginia,,,,,8.001.024,119
+Americas,Northern America,1,USA,United States,VA,Virginia,51013,Arlington County,,,207.627,236
+Americas,Northern America,1,USA,United States,VA,Virginia,51059,Fairfax County,,,1.081.726,280
+Americas,Northern America,1,USA,United States,VA,Virginia,51085,Hanover County,,,99.863,378
+Americas,Northern America,1,USA,United States,VA,Virginia,51107,Loudoun County,,,312.311,238
+Americas,Northern America,1,USA,United States,VA,Virginia,51710,Norfolk city,,,242.803,235
+Americas,Northern America,1,USA,United States,VA,Virginia,51177,Spotsylvania County,,,122.397,237
+Americas,Northern America,1,USA,United States,WA,Washington,,,,,6.724.540,100
+Americas,Northern America,1,USA,United States,WA,Washington,53011,Clark County,,,425.363,291
+Americas,Northern America,1,USA,United States,WA,Washington,53025,Grant County,,,89.120,319
+Americas,Northern America,1,USA,United States,WA,Washington,53029,Island County,,,78.506,354
+Americas,Northern America,1,USA,United States,WA,Washington,53031,Jefferson County,,,29.872,297
+Americas,Northern America,1,USA,United States,WA,Washington,53033,King County,,,1.931.249,350
+Americas,Northern America,1,USA,United States,WA,Washington,53035,Kitsap County,,,251.133,212
+Americas,Northern America,1,USA,United States,WA,Washington,53037,Kittitas County,,,40.915,269
+Americas,Northern America,1,USA,United States,WA,Washington,53053,Pierce County,,,795.225,301
+Americas,Northern America,1,USA,United States,WA,Washington,53057,Skagit County,,,116.901,352
+Americas,Northern America,1,USA,United States,WA,Washington,53061,Snohomish County,,,713.335,344
+Americas,Northern America,1,USA,United States,WA,Washington,53067,Thurston County,,,252.264,353
+Americas,Northern America,1,USA,United States,WA,Washington,53073,Whatcom County,,,201.140,355
+Americas,Northern America,1,USA,United States,WV,West Virginia,,,,,1.852.994,154
+Americas,Northern America,1,USA,United States,WI,Wisconsin,,,,,5.686.986,130
+Americas,Northern America,1,USA,United States,WI,Wisconsin,55025,Dane County,,,488.073,246
+Americas,Northern America,1,USA,United States,WI,Wisconsin,55093,Pierce County,,,41.019,247
+Americas,Northern America,1,USA,United States,WY,Wyoming,,,,,563.626,155
+Americas,South America,54,ARG,Argentina,,,,,,,44.938.712,68
+Americas,South America,591,BOL,Bolivia,,,,,,,11.469.896,198
+Americas,South America,55,BRA,Brazil,,,,,,,211.191.084,36
+Americas,South America,56,CHL,Chile,,,,,,,19.107.216,69
+Americas,South America,57,COL,Colombia,,,,,,,49.395.678,82
+Americas,South America,593,ECU,Ecuador,,,,,,,17.434.416,56
+Americas,South America,594,GUF,French Guiana,,,,,,,290.691,441
+Americas,South America,592,GUY,Guyana,,,,,,,782.766,404
+Americas,South America,595,PRY,Paraguay,,,,,,,7.152.703,93
+Americas,South America,51,PER,Peru,,,,,,,32.131.400,84
+Americas,South America,597,SUR,Suriname,,,,,,,581.372,438
+Americas,South America,598,URY,Uruguay,,,,,,,3.518.552,421
+Americas,South America,58,VEN,Venezuela,,,,,,,32.219.521,428
+Asia,Central Asia,7,KAZ,Kazakhstan,,,,,,,18.654.144,407
+Asia,Central Asia,998,UZB,Uzbekistan,,,,,,,34.042.388,450
+Asia,Eastern Asia,86,CHN,China,皖,Anhui,,,,,63.240.000,164
+Asia,Eastern Asia,86,CHN,China,京,Beijing,,,,,21.540.000,173
+Asia,Eastern Asia,86,CHN,China,渝,Chongqing,,,,,31.020.000,169
+Asia,Eastern Asia,86,CHN,China,闽,Fujian,,,,,39.410.000,176
+Asia,Eastern Asia,86,CHN,China,甘,Gansu,,,,,26.370.000,184
+Asia,Eastern Asia,86,CHN,China,粤,Guangdong,,,,,113.460.000,160
+Asia,Eastern Asia,86,CHN,China,桂,Guangxi,,,,,49.260.000,177
+Asia,Eastern Asia,86,CHN,China,贵,Guizhou,,,,,36.000.000,181
+Asia,Eastern Asia,86,CHN,China,琼,Hainan,,,,,9.340.000,180
+Asia,Eastern Asia,86,CHN,China,冀,Hebei,,,,,75.560.000,175
+Asia,Eastern Asia,86,CHN,China,黑,Heilongjiang,,,,,37.730.000,171
+Asia,Eastern Asia,86,CHN,China,豫,Henan,,,,,96.050.000,161
+Asia,Eastern Asia,86,CHN,China,港,Hong Kong,,,,,7.450.000,185
+Asia,Eastern Asia,86,CHN,China,鄂,Hubei,,,,,59.170.000,156
+Asia,Eastern Asia,86,CHN,China,湘,Hunan,,,,,68.990.000,163
+Asia,Eastern Asia,86,CHN,China,蒙,Inner Mongolia,,,,,25.340.000,190
+Asia,Eastern Asia,86,CHN,China,苏,Jiangsu,,,,,80.510.000,168
+Asia,Eastern Asia,86,CHN,China,赣,Jiangxi,,,,,46.480.000,165
+Asia,Eastern Asia,86,CHN,China,吉,Jilin,,,,,27.040.000,187
+Asia,Eastern Asia,86,CHN,China,辽,Liaoning,,,,,43.590.000,186
+Asia,Eastern Asia,86,CHN,China,澳,Macao,,,,,660.000,196
+Asia,Eastern Asia,86,CHN,China,宁,Ningxia,,,,,6.880.000,191
+Asia,Eastern Asia,86,CHN,China,青,Qinghai,,,,,6.030.000,195
+Asia,Eastern Asia,86,CHN,China,陕,Shaanxi,,,,,38.640.000,178
+Asia,Eastern Asia,86,CHN,China,鲁,Shandong,,,,,100.470.000,166
+Asia,Eastern Asia,86,CHN,China,沪,Shanghai,,,,,24.240.000,174
+Asia,Eastern Asia,86,CHN,China,晋,Shanxi,,,,,37.180.000,183
+Asia,Eastern Asia,86,CHN,China,川,Sichuan,,,,,83.410.000,170
+Asia,Eastern Asia,86,CHN,China,津,Tianjin,,,,,15.600.000,182
+Asia,Eastern Asia,86,CHN,China,新,Xinjiang,,,,,24.870.000,189
+Asia,Eastern Asia,86,CHN,China,བོད,Xizang,,,,,3.440.000,204
+Asia,Eastern Asia,86,CHN,China,云,Yunnan,,,,,48.300.000,179
+Asia,Eastern Asia,86,CHN,China,浙,Zhejiang,,,,,57.370.000,162
+Asia,Eastern Asia,81,JPN,Japan,,,,,,,126.010.000,2
+Asia,Eastern Asia,976,MNG,Mongolia,,,,,,,3.305.182,137
+Asia,Eastern Asia,82,KOR,South Korea,,,,,,,51.780.579,158
+Asia,Eastern Asia,886,TWN,Taiwan,,,,,,,23.604.265,192
+Asia,South-eastern Asia,673,BRN,Brunei,,,,,,,442.400,99
+Asia,South-eastern Asia,855,KHM,Cambodia,,,,,,,15.288.489,10
+Asia,South-eastern Asia,62,IDN,Indonesia,,,,,,,266.911.900,60
+Asia,South-eastern Asia,60,MYS,Malaysia,,,,,,,32.704.760,5
+Asia,South-eastern Asia,63,PHL,Philippines,,,,,,,108.341.299,15
+Asia,South-eastern Asia,65,SGP,Singapore,,,,,,,5.703.600,3
+Asia,South-eastern Asia,66,THA,Thailand,,,,,,,66.475.817,1
+Asia,South-eastern Asia,84,VNM,Vietnam,,,,,,,96.208.984,193
+Asia,Southern Asia,93,AFG,Afghanistan,,,,,,,32.225.560,27
+Asia,Southern Asia,880,BGD,Bangladesh,,,,,,,168.186.262,92
+Asia,Southern Asia,975,BTN,Bhutan,,,,,,,741.672,80
+Asia,Southern Asia,91,IND,India,,,,,,,1.359.238.350,16
+Asia,Southern Asia,98,IRN,Iran,,,,,,,83.241.033,157
+Asia,Southern Asia,960,MDV,Maldives,,,,,,,374.775,91
+Asia,Southern Asia,977,NPL,Nepal,,,,,,,29.609.623,4
+Asia,Southern Asia,92,PAK,Pakistan,,,,,,,208.203.777,35
+Asia,Southern Asia,94,LKA,Sri Lanka,,,,,,,21.803.000,11
+Asia,Western Asia,374,ARM,Armenia,,,,,,,2.957.500,58
+Asia,Western Asia,994,AZE,Azerbaijan,,,,,,,10.067.108,57
+Asia,Western Asia,973,BHR,Bahrain,,,,,,,1.543.300,28
+Asia,Western Asia,357,CYP,Cyprus,,,,,,,875.900,98
+Asia,Western Asia,995,GEO,Georgia,,,,,,,3.723.464,37
+Asia,Western Asia,964,IRQ,Iraq,,,,,,,39.127.900,25
+Asia,Western Asia,972,ISR,Israel,,,,,,,9.166.000,34
+Asia,Western Asia,962,JOR,Jordan,,,,,,,10.625.504,70
+Asia,Western Asia,965,KWT,Kuwait,,,,,,,4.420.110,29
+Asia,Western Asia,961,LBN,Lebanon,,,,,,,6.855.713,24
+Asia,Western Asia,968,OMN,Oman,,,,,,,4.664.790,26
+Asia,Western Asia,970,PSE,Palestine,,,,,,,4.976.684,440
+Asia,Western Asia,974,QAT,Qatar,,,,,,,2.747.282,55
+Asia,Western Asia,966,SAU,Saudi Arabia,,,,,,,34.218.169,66
+Asia,Western Asia,90,TUR,Turkey,,,,,,,83.154.997,210
+Asia,Western Asia,971,ARE,United Arab Emirates,,,,,,,9.770.529,14
+Europe,Channel Islands,44,GGY,Guernsey,,,,,,,62.792,433
+Europe,Channel Islands,44,JEY,Jersey,,,,,,,106.800,424
+Europe,Eastern Europe,375,BLR,Belarus,,,,,,,9.413.446,45
+Europe,Eastern Europe,359,BGR,Bulgaria,,,,,,,7.000.039,90
+Europe,Eastern Europe,420,CZE,Czechia,,,,,,,10.681.161,188
+Europe,Eastern Europe,36,HUN,Hungary,,,,,,,9.772.756,72
+Europe,Eastern Europe,373,MDA,Moldova,,,,,,,2.681.735,197
+Europe,Eastern Europe,48,POL,Poland,,,,,,,38.386.000,75
+Europe,Eastern Europe,40,ROU,Romania,,,,,,,19.405.156,41
+Europe,Eastern Europe,7,RUS,Russia,,,,,,,146.780.720,194
+Europe,Eastern Europe,421,SVK,Slovakia,,,,,,,5.456.362,86
+Europe,Eastern Europe,380,UKR,Ukraine,,,,,,,41.902.416,71
+Europe,Northern Europe,45,DNK,Denmark,,,,,,,5.822.763,172
+Europe,Northern Europe,372,EST,Estonia,,,,,,,1.328.360,42
+Europe,Northern Europe,298,FRO,Faroe Islands,,,,,,,52.124,199
+Europe,Northern Europe,358,FIN,Finland,,,,,,,5.527.573,13
+Europe,Northern Europe,354,ISL,Iceland,,,,,,,364.260,46
+Europe,Northern Europe,353,IRL,Ireland,,,,,,,4.921.500,52
+Europe,Northern Europe,371,LVA,Latvia,,,,,,,1.906.800,64
+Europe,Northern Europe,370,LTU,Lithuania,,,,,,,2.793.350,47
+Europe,Northern Europe,47,NOR,Norway,,,,,,,5.367.580,40
+Europe,Northern Europe,46,SWE,Sweden,,,,,,,10.327.589,18
+Europe,Northern Europe,44,GBR,United Kingdom,,,,,,,66.435.600,406
+Europe,Northern Europe,44,GBR,United Kingdom,CI,Channel Islands,,,,,170.499,202
+Europe,Southern Europe,355,ALB,Albania,,,,,,,2.862.427,97
+Europe,Southern Europe,376,AND,Andorra,,,,,,,77.543,62
+Europe,Southern Europe,387,BIH,Bosnia and Herzegovina,,,,,,,3.301.000,77
+Europe,Southern Europe,385,HRV,Croatia,,,,,,,4.076.246,31
+Europe,Southern Europe,350,GIB,Gibraltar,,,,,,,33.701,211
+Europe,Southern Europe,30,GRC,Greece,,,,,,,10.724.599,38
+Europe,Southern Europe,39,VAT,Holy See,,,,,,,799,136
+Europe,Southern Europe,39,ITA,Italy,,,,,,,60.247.214,17
+Europe,Southern Europe,383,XK,Kosovo,,,,,,,1.795.666,443
+Europe,Southern Europe,356,MLT,Malta,,,,,,,493.559,88
+Europe,Southern Europe,389,MKD,North Macedonia,,,,,,,2.077.132,39
+Europe,Southern Europe,351,PRT,Portugal,,,,,,,10.276.617,61
+Europe,Southern Europe,378,SMR,San Marino,,,,,,,33.574,44
+Europe,Southern Europe,381,SRB,Serbia,,,,,,,6.963.764,85
+Europe,Southern Europe,386,SVN,Slovenia,,,,,,,2.094.060,78
+Europe,Southern Europe,34,ESP,Spain,,,,,,,47.100.396,19
+Europe,Western Europe,43,AUT,Austria,,,,,,,8.902.600,33
+Europe,Western Europe,32,BEL,Belgium,,,,,,,11.524.454,21
+Europe,Western Europe,33,FRA,France,,,,,,,67.064.000,159
+Europe,Western Europe,49,DEU,Germany,,,,,,,83.149.300,12
+Europe,Western Europe,423,LIE,Liechtenstein,,,,,,,38.557,74
+Europe,Western Europe,352,LUX,Luxembourg,,,,,,,613.894,53
+Europe,Western Europe,377,MCO,Monaco,,,,,,,38.300,54
+Europe,Western Europe,31,NLD,Netherlands,,,,,,,17.439.481,43
+Europe,Western Europe,41,CHE,Switzerland,,,,,,,8.586.550,32
+In,Between,5,IC,International Conveyance,1,Diamond Princess,,,,,3.700,167
+Oceania,Micronesia,1,GUM,Guam,,,,,,,172.400,442
+Oceania,Oceania,61,AUS,Australia,ACT,Australian Capital Territory,,,,,426.709,405
+Oceania,Oceania,61,AUS,Australia,EXT,From Diamond Princess,,,,,0,23
+Oceania,Oceania,61,AUS,Australia,NSW,New South Wales,,,,,8.089.526,7
+Oceania,Oceania,61,AUS,Australia,NT,Northern Territory,,,,,245.869,73
+Oceania,Oceania,61,AUS,Australia,QLD,Queensland,,,,,5.095.100,9
+Oceania,Oceania,61,AUS,Australia,SA,South Australia,,,,,1.751.693,20
+Oceania,Oceania,61,AUS,Australia,TAS,Tasmania,,,,,534.281,63
+Oceania,Oceania,61,AUS,Australia,VIC,Victoria,,,,,6.594.804,8
+Oceania,Oceania,61,AUS,Australia,WA,Western Australia,,,,,2.621.680,51
+Oceania,Oceania,64,NZL,New Zealand,,,,,,,4.961.950,49
+Oceania,Polynesia,689,PYF,French Polynesia,,,,,,,275.918,408
