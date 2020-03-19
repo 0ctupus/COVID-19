@@ -1,0 +1,18 @@
+Bundesland;Fälle;Dif­fe­renz zum Vor­tag;Erkr./ 100.000 Einw.;Todes­fälle;Beson­ders betroffene Ge­biete in Deutsch­land;
+Baden-Württemberg;2.155;546;19,47;6;;WAHR
+Bayern;1.692;449;12,94;8;;WAHR
+Berlin;573;182;15,29;0;;WAHR
+Brandenburg;134;42;5,33;0;;WAHR
+Bremen;80;11;11,71;0;;WAHR
+Hamburg;432;74;23,46;0;;WAHR
+Hessen;682;250;10,88;0;;WAHR
+Mecklenburg-Vorpommern;98;42;6,09;0;;WAHR
+Niedersachsen;669;191;8,38;0;;WAHR
+Nordrhein-Westfalen;3.033;661;16,91;6;Landkreis Heinsberg;WAHR
+Rheinland-Pfalz;637;163;15,59;0;;WAHR
+Saarland;99;11;9,99;0;;WAHR
+Sachsen;275;77;6,74;0;;WAHR
+Sachsen-Anhalt;140;35;6,34;0;;WAHR
+Schleswig-Holstein;202;43;6,97;0;;WAHR
+Thüringen;98;24;4,57;0;;WAHR
+Gesamt;10.999;2.801;13,23;20;;FALSCH

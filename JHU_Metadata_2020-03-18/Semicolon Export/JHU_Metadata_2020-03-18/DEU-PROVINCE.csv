@@ -1,0 +1,19 @@
+ ID ;Bundesländer;Bevölkerung;;Lat;Long;Flag.
+;16;80.322.251;;;;
+BW;Baden-Württemberg;10.483.012;1;;;
+BY;Bayern;12.412.404;2;;;
+BE;Berlin;3.291.932;3;;;
+BB;Brandenburg;2.465.928;4;;;
+HB;Bremen;650.715;5;;;
+HH;Hamburg;1.675.840;6;;;
+HE;Hessen;5.988.463;7;;;
+MV;Mecklenburg-Vorpommern;1.620.815;8;;;
+NI;Niedersachsen;7.790.533;9;;;
+NW;Nordrhein-Westfalen;17.557.361;10;;;
+RP;Rheinland-Pfalz;3.998.474;11;;;
+SL;Saarland;1.000.446;12;;;
+SN;Sachsen;4.065.743;13;;;
+ST;Sachsen-Anhalt;2.290.034;14;;;
+SH;Schleswig-Holstein;2.838.231;15;;;
+TH;Thüringen;2.192.320;16;;;
+REP;Repatriierte;0;REP;;;

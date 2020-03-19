@@ -1,0 +1,469 @@
+Continent;Region;ICC;ID;Country;ID;;Province;ID;District;ZIP;Area;Population;#
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Asia;South-eastern Asia;66;THA;Thailand;;;;;;;;66.475.817;1
+Asia;Eastern Asia;81;JPN;Japan;;;;;;;;126.010.000;2
+Asia;South-eastern Asia;65;SGP;Singapore;;;;;;;;5.703.600;3
+Asia;Southern Asia;977;NPL;Nepal;;;;;;;;29.609.623;4
+Asia;South-eastern Asia;60;MYS;Malaysia;;;;;;;;32.704.760;5
+Americas;Northern America;1;CAN;Canada;BC;;British Columbia;;;;;5.105.576;6
+Oceania;Oceania;61;AUS;Australia;NSW;;New South Wales;;;;;8.089.526;7
+Oceania;Oceania;61;AUS;Australia;VIC;;Victoria;;;;;6.594.804;8
+Oceania;Oceania;61;AUS;Australia;QLD;;Queensland;;;;;5.095.100;9
+Asia;South-eastern Asia;855;KHM;Cambodia;;;;;;;;15.288.489;10
+Asia;Southern Asia;94;LKA;Sri Lanka;;;;;;;;21.803.000;11
+Europe;Western Europe;49;DEU;Germany;;;;;;;;83.149.300;12
+Europe;Northern Europe;358;FIN;Finland;;;;;;;;5.527.573;13
+Asia;Western Asia;971;ARE;United Arab Emirates;;;;;;;;9.770.529;14
+Asia;South-eastern Asia;63;PHL;Philippines;;;;;;;;108.341.299;15
+Asia;Southern Asia;91;IND;India;;;;;;;;1.359.238.350;16
+Europe;Southern Europe;39;ITA;Italy;;;;;;;;60.247.214;17
+Europe;Northern Europe;46;SWE;Sweden;;;;;;;;10.327.589;18
+Europe;Southern Europe;34;ESP;Spain;;;;;;;;47.100.396;19
+Oceania;Oceania;61;AUS;Australia;SA;;South Australia;;;;;1.751.693;20
+Europe;Western Europe;32;BEL;Belgium;;;;;;;;11.524.454;21
+Africa;Northern Africa;20;EGY;Egypt;;;;;;;;100.072.195;22
+Oceania;Oceania;61;AUS;Australia;EXT;;From Diamond Princess;;;;;1;23
+Asia;Western Asia;961;LBN;Lebanon;;;;;;;;6.855.713;24
+Asia;Western Asia;964;IRQ;Iraq;;;;;;;;39.127.900;25
+Asia;Western Asia;968;OMN;Oman;;;;;;;;4.664.790;26
+Asia;Southern Asia;93;AFG;Afghanistan;;;;;;;;32.225.560;27
+Asia;Western Asia;973;BHR;Bahrain;;;;;;;;1.543.300;28
+Asia;Western Asia;965;KWT;Kuwait;;;;;;;;4.420.110;29
+Africa;Northern Africa;213;DZA;Algeria;;;;;;;;43.000.000;30
+Europe;Southern Europe;385;HRV;Croatia;;;;;;;;4.076.246;31
+Europe;Western Europe;41;CHE;Switzerland;;;;;;;;8.586.550;32
+Europe;Western Europe;43;AUT;Austria;;;;;;;;8.902.600;33
+Asia;Western Asia;972;ISR;Israel;;;;;;;;9.166.000;34
+Asia;Southern Asia;92;PAK;Pakistan;;;;;;;;208.203.777;35
+Americas;South America;55;BRA;Brazil;;;;;;;;211.191.084;36
+Asia;Western Asia;995;GEO;Georgia;;;;;;;;3.723.464;37
+Europe;Southern Europe;30;GRC;Greece;;;;;;;;10.724.599;38
+Europe;Southern Europe;389;MKD;North Macedonia;;;;;;;;2.077.132;39
+Europe;Northern Europe;47;NOR;Norway;;;;;;;;5.367.580;40
+Europe;Eastern Europe;40;ROU;Romania;;;;;;;;19.405.156;41
+Europe;Northern Europe;372;EST;Estonia;;;;;;;;1.328.360;42
+Europe;Southern Europe;378;SMR;San Marino;;;;;;;;33.574;43
+Europe;Eastern Europe;375;BLR;Belarus;;;;;;;;9.413.446;44
+Europe;Northern Europe;354;ISL;Iceland;;;;;;;;364.260;45
+Europe;Northern Europe;370;LTU;Lithuania;;;;;;;;2.793.350;46
+Americas;Central America;52;MEX;Mexico;;;;;;;;126.577.691;47
+Oceania;Oceania;64;NZL;New Zealand;;;;;;;;4.961.950;48
+Africa;Western Africa;234;NGA;Nigeria;;;;;;;;200.963.599;49
+Oceania;Oceania;61;AUS;Australia;WA;;Western Australia;;;;;2.621.680;50
+Europe;Northern Europe;353;IRL;Ireland;;;;;;;;4.921.500;51
+Europe;Western Europe;352;LUX;Luxembourg;;;;;;;;613.894;52
+Europe;Western Europe;377;MCO;Monaco;;;;;;;;38.300;53
+Asia;Western Asia;974;QAT;Qatar;;;;;;;;2.747.282;54
+Americas;South America;593;ECU;Ecuador;;;;;;;;17.434.416;55
+Asia;Western Asia;994;AZE;Azerbaijan;;;;;;;;10.067.108;56
+Asia;Western Asia;374;ARM;Armenia;;;;;;;;2.957.500;57
+Americas;Caribbean;1;DOM;Dominican Republic;;;;;;;;10.358.320;58
+Asia;South-eastern Asia;62;IDN;Indonesia;;;;;;;;266.911.900;59
+Europe;Southern Europe;351;PRT;Portugal;;;;;;;;10.276.617;60
+Europe;Southern Europe;376;AND;Andorra;;;;;;;;77.543;61
+Oceania;Oceania;61;AUS;Australia;TAS;;Tasmania;;;;;534.281;62
+Europe;Northern Europe;371;LVA;Latvia;;;;;;;;1.906.800;63
+Africa;Northern Africa;212;MAR;Morocco;;;;;;;;35.824.881;64
+Asia;Western Asia;966;SAU;Saudi Arabia;;;;;;;;34.218.169;65
+Africa;Western Africa;221;SEN;Senegal;;;;;;;;16.209.125;66
+Americas;South America;54;ARG;Argentina;;;;;;;;44.938.712;67
+Americas;South America;56;CHL;Chile;;;;;;;;19.107.216;68
+Asia;Western Asia;962;JOR;Jordan;;;;;;;;10.625.504;69
+Europe;Eastern Europe;380;UKR;Ukraine;;;;;;;;41.902.416;70
+Europe;Eastern Europe;36;HUN;Hungary;;;;;;;;9.772.756;71
+Oceania;Oceania;61;AUS;Australia;NT;;Northern Territory;;;;;245.869;72
+Europe;Western Europe;423;LIE;Liechtenstein;;;;;;;;38.557;73
+Europe;Eastern Europe;48;POL;Poland;;;;;;;;38.386.000;74
+Africa;Northern Africa;216;TUN;Tunisia;;;;;;;;11.722.038;75
+Europe;Southern Europe;387;BIH;Bosnia and Herzegovina;;;;;;;;3.301.000;76
+Europe;Southern Europe;386;SVN;Slovenia;;;;;;;;2.094.060;77
+Africa;Southern Africa;27;ZAF;South Africa;;;;;;;;58.775.022;78
+Asia;Southern Asia;975;BTN;Bhutan;;;;;;;;741.672;79
+Africa;Middle Africa;237;CMR;Cameroon;;;;;;;;25.876.000;80
+Americas;South America;57;COL;Colombia;;;;;;;;49.395.678;81
+Americas;Central America;506;CRI;Costa Rica;;;;;;;;5.058.007;82
+Americas;South America;51;PER;Peru;;;;;;;;32.131.400;83
+Europe;Southern Europe;381;SRB;Serbia;;;;;;;;6.963.764;84
+Europe;Eastern Europe;421;SVK;Slovakia;;;;;;;;5.456.362;85
+Africa;Western Africa;228;TGO;Togo;;;;;;;;7.538.000;86
+Europe;Southern Europe;356;MLT;Malta;;;;;;;;493.559;87
+Americas;Caribbean;596;MTQ;Martinique;;;;;;;;376.480;88
+Europe;Eastern Europe;359;BGR;Bulgaria;;;;;;;;7.000.039;89
+Asia;Southern Asia;960;MDV;Maldives;;;;;;;;374.775;90
+Asia;Southern Asia;880;BGD;Bangladesh;;;;;;;;168.186.262;91
+Americas;South America;595;PRY;Paraguay;;;;;;;;7.152.703;92
+Americas;Northern America;1;CAN;Canada;ON;;Ontario;;;;;14.659.616;93
+Americas;Northern America;1;CAN;Canada;AB;;Alberta;;;;;4.395.586;94
+Americas;Northern America;1;CAN;Canada;QC;;Quebec;;;;;8.522.800;95
+Europe;Southern Europe;355;ALB;Albania;;;;;;;;2.862.427;96
+Asia;Western Asia;357;CYP;Cyprus;;;;;;;;875.900;97
+Asia;South-eastern Asia;673;BRN;Brunei;;;;;;;;442.400;98
+Americas;Northern America;1;USA;United States;WA;;Washington;;;;;6.724.540;99
+Americas;Northern America;1;USA;United States;NY;;New York;;;;;19.378.102;100
+Americas;Northern America;1;USA;United States;CA;;California;;;;;37.253.956;101
+Americas;Northern America;1;USA;United States;MA;;Massachusetts;;;;;6.547.629;102
+Americas;Northern America;1;USA;United States;EXT-1;;Diamond Princess;;;;;50;103
+Americas;Northern America;1;USA;United States;EXT-2;;Grand Princess;;;;;21;104
+Americas;Northern America;1;USA;United States;GA;;Georgia;;;;;9.687.653;105
+Americas;Northern America;1;USA;United States;CO;;Colorado;;;;;5.029.196;106
+Americas;Northern America;1;USA;United States;FL;;Florida;;;;;18.801.310;107
+Americas;Northern America;1;USA;United States;NJ;;New Jersey;;;;;8.791.894;108
+Americas;Northern America;1;USA;United States;OR;;Oregon;;;;;3.831.074;109
+Americas;Northern America;1;USA;United States;TX;;Texas;;;;;25.145.561;110
+Americas;Northern America;1;USA;United States;IL;;Illinois;;;;;12.830.632;111
+Americas;Northern America;1;USA;United States;PA;;Pennsylvania;;;;;12.702.379;112
+Americas;Northern America;1;USA;United States;IA;;Iowa;;;;;3.046.355;113
+Americas;Northern America;1;USA;United States;MD;;Maryland;;;;;5.773.552;114
+Americas;Northern America;1;USA;United States;NC;;North Carolina;;;;;9.535.483;115
+Americas;Northern America;1;USA;United States;SC;;South Carolina;;;;;4.625.364;116
+Americas;Northern America;1;USA;United States;TN;;Tennessee;;;;;6.346.105;117
+Americas;Northern America;1;USA;United States;VA;;Virginia;;;;;8.001.024;118
+Americas;Northern America;1;USA;United States;AZ;;Arizona;;;;;6.392.017;119
+Americas;Northern America;1;USA;United States;IN;;Indiana;;;;;6.483.802;120
+Americas;Northern America;1;USA;United States;KY;;Kentucky;;;;;4.339.367;121
+Americas;Northern America;1;USA;United States;DC;;District of Columbia;;;;;601.723;122
+Americas;Northern America;1;USA;United States;NV;;Nevada;;;;;2.700.551;123
+Americas;Northern America;1;USA;United States;NH;;New Hampshire;;;;;1.316.470;124
+Americas;Northern America;1;USA;United States;MN;;Minnesota;;;;;5.303.925;125
+Americas;Northern America;1;USA;United States;NE;;Nebraska;;;;;1.826.341;126
+Americas;Northern America;1;USA;United States;OH;;Ohio;;;;;11.536.504;127
+Americas;Northern America;1;USA;United States;RI;;Rhode Island;;;;;1.052.567;128
+Americas;Northern America;1;USA;United States;WI;;Wisconsin;;;;;5.686.986;129
+Americas;Northern America;1;USA;United States;CT;;Connecticut;;;;;3.574.097;130
+Americas;Northern America;1;USA;United States;HI;;Hawaii;;;;;1.360.301;131
+Americas;Northern America;1;USA;United States;OK;;Oklahoma;;;;;3.751.351;132
+Americas;Northern America;1;USA;United States;UT;;Utah;;;;;2.763.885;133
+Africa;Western Africa;226;BFA;Burkina Faso;;;;;;;;20.870.060;134
+Europe;Southern Europe;39;VAT;Holy See;;;;;;;;799;135
+Asia;Eastern Asia;976;MNG;Mongolia;;;;;;;;3.305.182;136
+Americas;Central America;507;PAN;Panama;;;;;;;;4.218.808;137
+Americas;Northern America;1;USA;United States;KS;;Kansas;;;;;2.853.118;138
+Americas;Northern America;1;USA;United States;LA;;Louisiana;;;;;4.533.372;139
+Americas;Northern America;1;USA;United States;MO;;Missouri;;;;;5.988.927;140
+Americas;Northern America;1;USA;United States;VT;;Vermont;;;;;625.741;141
+Americas;Northern America;1;USA;United States;AK;;Alaska;;;;;710.231;142
+Americas;Northern America;1;USA;United States;AR;;Arkansas;;;;;2.915.918;143
+Americas;Northern America;1;USA;United States;DE;;Delaware;;;;;897.934;144
+Americas;Northern America;1;USA;United States;ID;;Idaho;;;;;1.567.582;145
+Americas;Northern America;1;USA;United States;ME;;Maine;;;;;1.328.361;146
+Americas;Northern America;1;USA;United States;MI;;Michigan;;;;;9.883.640;147
+Americas;Northern America;1;USA;United States;MS;;Mississippi;;;;;2.967.297;148
+Americas;Northern America;1;USA;United States;MT;;Montana;;;;;989.415;149
+Americas;Northern America;1;USA;United States;NM;;New Mexico;;;;;2.059.179;150
+Americas;Northern America;1;USA;United States;ND;;North Dakota;;;;;672.591;151
+Americas;Northern America;1;USA;United States;SD;;South Dakota;;;;;814.180;152
+Americas;Northern America;1;USA;United States;WV;;West Virginia;;;;;1.852.994;153
+Americas;Northern America;1;USA;United States;WY;;Wyoming;;;;;563.626;154
+Asia;Eastern Asia;86;CHN;China;鄂;;Hubei;;;;;59.170.000;155
+Asia;Southern Asia;98;IRN;Iran;;;;;;;;83.241.033;156
+Asia;Eastern Asia;82;KOR;South Korea;;;;;;;;51.780.579;157
+Europe;Western Europe;33;FRA;France;;X;;;;;;67.064.000;158
+Asia;Eastern Asia;86;CHN;China;粤;;Guangdong;;;;;113.460.000;159
+Asia;Eastern Asia;86;CHN;China;豫;;Henan;;;;;96.050.000;160
+Asia;Eastern Asia;86;CHN;China;浙;;Zhejiang;;;;;57.370.000;161
+Asia;Eastern Asia;86;CHN;China;湘;;Hunan;;;;;68.990.000;162
+Asia;Eastern Asia;86;CHN;China;皖;;Anhui;;;;;63.240.000;163
+Asia;Eastern Asia;86;CHN;China;赣;;Jiangxi;;;;;46.480.000;164
+Asia;Eastern Asia;86;CHN;China;鲁;;Shandong;;;;;100.470.000;165
+In;Between;5;IC;International Conveyance;1;;Diamond Princess;;;;;3.700;166
+Asia;Eastern Asia;86;CHN;China;苏;;Jiangsu;;;;;80.510.000;167
+Asia;Eastern Asia;86;CHN;China;渝;;Chongqing;;;;;31.020.000;168
+Asia;Eastern Asia;86;CHN;China;川;;Sichuan;;;;;83.410.000;169
+Asia;Eastern Asia;86;CHN;China;黑;;Heilongjiang;;;;;37.730.000;170
+Europe;Northern Europe;45;DNK;Denmark;;X;;;;;;5.822.763;171
+Asia;Eastern Asia;86;CHN;China;京;;Beijing;;;;;21.540.000;172
+Asia;Eastern Asia;86;CHN;China;沪;;Shanghai;;;;;24.240.000;173
+Asia;Eastern Asia;86;CHN;China;冀;;Hebei;;;;;75.560.000;174
+Asia;Eastern Asia;86;CHN;China;闽;;Fujian;;;;;39.410.000;175
+Asia;Eastern Asia;86;CHN;China;桂;;Guangxi;;;;;49.260.000;176
+Asia;Eastern Asia;86;CHN;China;陕;;Shaanxi;;;;;38.640.000;177
+Asia;Eastern Asia;86;CHN;China;云;;Yunnan;;;;;48.300.000;178
+Asia;Eastern Asia;86;CHN;China;琼;;Hainan;;;;;9.340.000;179
+Asia;Eastern Asia;86;CHN;China;贵;;Guizhou;;;;;36.000.000;180
+Asia;Eastern Asia;86;CHN;China;津;;Tianjin;;;;;15.600.000;181
+Asia;Eastern Asia;86;CHN;China;晋;;Shanxi;;;;;37.180.000;182
+Asia;Eastern Asia;86;CHN;China;甘;;Gansu;;;;;26.370.000;183
+Asia;Eastern Asia;86;CHN;China;港;;Hong Kong;;;;;7.450.000;184
+Asia;Eastern Asia;86;CHN;China;辽;;Liaoning;;;;;43.590.000;185
+Asia;Eastern Asia;86;CHN;China;吉;;Jilin;;;;;27.040.000;186
+Europe;Eastern Europe;420;CZE;Czechia;;;;;;;;10.681.161;187
+Asia;Eastern Asia;86;CHN;China;新;;Xinjiang;;;;;24.870.000;188
+Asia;Eastern Asia;86;CHN;China;蒙;;Inner Mongolia;;;;;25.340.000;189
+Asia;Eastern Asia;86;CHN;China;宁;;Ningxia;;;;;6.880.000;190
+Asia;Eastern Asia;886;TWN;Taiwan;;;;;;;;23.604.265;191
+Asia;South-eastern Asia;84;VNM;Vietnam;;;;;;;;96.208.984;192
+Europe;Eastern Europe;7;RUS;Russia;;;;;;;;146.780.720;193
+Asia;Eastern Asia;86;CHN;China;青;;Qinghai;;;;;6.030.000;194
+Asia;Eastern Asia;86;CHN;China;澳;X;Macao;;;;;660.000;195
+Europe;Eastern Europe;373;MDA;Moldova;;;;;;;;2.681.735;196
+Americas;South America;591;BOL;Bolivia;;;;;;;;11.469.896;197
+Europe;Northern Europe;298;FRO;Faroe Islands;;X;;;;;;52.124;198
+Americas;Caribbean;590;MAF;Saint Martin;;X;;;;;;35.746;199
+Americas;Central America;504;HND;Honduras;;;;;;;;9.158.345;200
+Europe;Northern Europe;44;GBR;United Kingdom;CI;;Channel Islands;;;;;170.499;201
+Americas;Northern America;1;CAN;Canada;NB;;New Brunswick;;;;;780.021;202
+Asia;Eastern Asia;86;CHN;China;བོད;X;Xizang;;;;;3.440.000;203
+Africa;Middle Africa;243;COD;DR Congo;;;;;;;;86.790.567;204
+Africa;Western Africa;225;CIV;Côte d'Ivoire;;;;;;;;25.823.071;205
+Americas;Caribbean;590;BLM;Saint Barthélemy;;X;;;;;;9.793;206
+Americas;Caribbean;1;JAM;Jamaica;;;;;;;;2.726.667;207
+Asia;Western Asia;90;TUR;Turkey;;;;;;;;83.154.997;208
+Europe;Southern Europe;350;GIB;Gibraltar;;X;;;;;;33.701;209
+Americas;Northern America;1;USA;United States;WA;X;Washington;53035;Kitsap County;;;251.133;210
+Americas;Northern America;1;USA;United States;CA;X;California;06095;Solano County;;;413.344;211
+Americas;Northern America;1;USA;United States;CA;X;California;06087;Santa Cruz County;;;262.382;212
+Americas;Northern America;1;USA;United States;CA;X;California;06055;Napa County;;;136.484;213
+Americas;Northern America;1;USA;United States;CA;X;California;06111;Ventura County;;;823.318;214
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25027;Worcester County;;;798.552;215
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13135;Gwinnett County;;;805.321;216
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13089;DeKalb County;;;691.893;217
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13115;Floyd County;;;96.317;218
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13113;Fayette County;;;106.567;219
+Americas;Northern America;1;USA;United States;TX;X;Texas;48183;Gregg County;;;121.730;220
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34025;Monmouth County;;;630.380;221
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34005;Burlington County;;;448.734;222
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34007;Camden County;;;513.657;223
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34031;Passaic County;;;501.226;224
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34039;Union County;;;536.499;225
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08037;Eagle County;;;52.197;226
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08069;Larimer County;;;299.630;227
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08005;Arapahoe County;;;572.003;228
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08051;Gunnison County;;;15.324;229
+Americas;Northern America;1;USA;United States;IL;X;Illinois;17089;Kane County;;;515.269;230
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42089;Monroe County;;;169.842;231
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42101;Philadelphia County;;;1.526.006;232
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51710;Norfolk city;;;242.803;233
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51013;Arlington County;;;207.627;234
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51177;Spotsylvania County;;;122.397;235
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51107;Loudoun County;;;312.311;236
+Americas;Northern America;1;USA;United States;MD;X;Maryland;24033;Prince George's County;;;863.420;237
+Americas;Northern America;1;USA;United States;IA;X;Iowa;19155;Pottawattamie County;;;93.158;238
+Americas;Northern America;1;USA;United States;NC;X;North Carolina;37029;Camden County;;;9.980;239
+Americas;Northern America;1;USA;United States;AZ;X;Arizona;04019;Pima County;;;980.263;240
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18113;Noble County;;;47.536;241
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18001;Adams County;;;34.387;242
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18011;Boone County;;;56.640;243
+Americas;Northern America;1;USA;United States;WI;X;Wisconsin;55025;Dane County;;;488.073;244
+Americas;Northern America;1;USA;United States;WI;X;Wisconsin;55093;Pierce County;;;41.019;245
+Americas;Northern America;1;USA;United States;OH;X;Ohio;39035;Cuyahoga County;;;1.280.122;246
+Americas;Northern America;1;USA;United States;UT;X;Utah;49057;Weber County;;;231.236;247
+Americas;Northern America;1;USA;United States;VT;X;Vermont;50003;Bennington County;;;37.125;248
+Americas;Northern America;1;USA;United States;MN;X;Minnesota;27019;Carver County;;;91.042;249
+Americas;Northern America;1;USA;United States;FL;X;Florida;12015;Charlotte County;;;159.978;250
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13057;Cherokee County;;;214.346;251
+Americas;Northern America;1;USA;United States;TX;X;Texas;48085;Collin County;;;782.341;252
+Americas;Northern America;1;USA;United States;KY;X;Kentucky;21111;Jefferson County;;;741.096;253
+Americas;Northern America;1;USA;United States;LA;X;Louisiana;22051;Jefferson Parish;;;432.552;254
+Americas;Northern America;1;USA;United States;CA;X;California;06089;Shasta County;;;177.223;255
+Americas;Northern America;1;USA;United States;SC;X;South Carolina;45083;Spartanburg County;;;284.307;256
+Americas;Northern America;1;USA;United States;KY;X;Kentucky;21097;Harrison County;;;18.846;257
+Americas;Northern America;1;USA;United States;IA;X;Iowa;19103;Johnson County;;;130.882;258
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25003;Berkshire County;;;131.219;259
+Americas;Northern America;1;USA;United States;TN;X;Tennessee;47037;Davidson County;;;626.681;260
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41019;Douglas County;;;107.667;261
+Americas;Northern America;1;USA;United States;CA;X;California;06019;Fresno County;;;930.450;262
+Americas;Northern America;1;USA;United States;MD;X;Maryland;24025;Harford County;;;244.826;263
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18063;Hendricks County;;;145.448;264
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34017;Hudson County;;;634.266;265
+Americas;Northern America;1;USA;United States;KS;X;Kansas;20091;Johnson County;;;544.179;266
+Americas;Northern America;1;USA;United States;WA;X;Washington;53037;Kittitas County;;;40.915;267
+Americas;Northern America;1;USA;United States;FL;X;Florida;12081;Manatee County;;;322.833;268
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41047;Marion County;;;315.335;269
+Americas;Northern America;1;USA;United States;FL;X;Florida;12091;Okaloosa County;;;180.822;270
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13233;Polk County;;;41.475;271
+Americas;Northern America;1;USA;United States;CA;X;California;06065;Riverside County;;;2.189.641;272
+Americas;Northern America;1;USA;United States;TN;X;Tennessee;47157;Shelby County;;;927.644;273
+Americas;Northern America;1;USA;United States;MO;X;Missouri;29189;St. Louis County;;;998.954;274
+Americas;Northern America;1;USA;United States;NY;X;New York;36103;Suffolk County;;;1.493.350;275
+Americas;Northern America;1;USA;United States;NY;X;New York;36111;Ulster County;;;182.493;276
+Americas;Northern America;1;USA;United States;FL;X;Florida;12127;Volusia County;;;494.593;277
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51059;Fairfax County;;;1.081.726;278
+Americas;Northern America;1;USA;United States;NH;X;New Hampshire;33015;Rockingham County;;;295.223;279
+Americas;Northern America;1;USA;United States;DC;X;District of Columbia;11001;Washington;;;601.723;280
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42091;Montgomery County;;;799.874;281
+Americas;Northern America;1;USA;United States;CA;X;California;06001;Alameda County;;;1.510.271;282
+Americas;Northern America;1;USA;United States;FL;X;Florida;12011;Broward County;;;1.748.066;283
+Americas;Northern America;1;USA;United States;FL;X;Florida;12071;Lee County;;;618.754;284
+Americas;Northern America;1;USA;United States;AZ;X;Arizona;04021;Pinal County;;;375.770;285
+Americas;Northern America;1;USA;United States;NY;X;New York;36087;Rockland County;;;311.687;286
+Americas;Northern America;1;USA;United States;NY;X;New York;36091;Saratoga County;;;219.607;287
+Americas;Northern America;1;USA;United States;SC;X;South Carolina;45019;Charleston County;;;350.209;288
+Americas;Northern America;1;USA;United States;WA;X;Washington;53011;Clark County;;;425.363;289
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13067;Cobb County;;;688.078;290
+Americas;Northern America;1;USA;United States;UT;X;Utah;49011;Davis County;;;306.479;291
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08041;El Paso County;;;622.263;292
+Americas;Northern America;1;USA;United States;HI;X;Hawaii;15003;Honolulu County;;;953.207;293
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41029;Jackson County;;;203.206;294
+Americas;Northern America;1;USA;United States;WA;X;Washington;53031;Jefferson County;;;29.872;295
+Americas;Northern America;1;USA;United States;SC;X;South Carolina;45055;Kershaw County;;;61.697;296
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41035;Klamath County;;;66.380;297
+Americas;Northern America;1;USA;United States;CA;X;California;06039;Madera County;;;150.865;298
+Americas;Northern America;1;USA;United States;WA;X;Washington;53053;Pierce County;;;795.225;299
+Americas;Northern America;1;USA;United States;OK;X;Oklahoma;40143;Tulsa County;;;603.403;300
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08035;Douglas County;;;285.465;301
+Americas;Northern America;1;USA;United States;RI;X;Rhode Island;44007;Providence County;;;626.667;302
+Americas;Northern America;1;USA;United States;NC;X;North Carolina;37037;Chatham County;;;63.505;303
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42045;Delaware County;;;558.979;304
+Americas;Northern America;1;USA;United States;NE;X;Nebraska;31055;Douglas County;;;517.110;305
+Americas;Northern America;1;USA;United States;KY;X;Kentucky;21067;Fayette County;;;295.803;306
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18097;Marion County;;;903.393;307
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25017;Middlesex County;;;1.503.085;308
+Americas;Northern America;1;USA;United States;NY;X;New York;36059;Nassau County;;;1.339.532;309
+Americas;Northern America;1;USA;United States;MN;X;Minnesota;27123;Ramsey County;;;508.640;310
+Americas;Northern America;1;USA;United States;NV;X;Nevada;32031;Washoe County;;;421.407;311
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42127;Wayne County;;;52.822;312
+Americas;Northern America;1;USA;United States;CA;X;California;06113;Yolo County;;;200.849;313
+Americas;Northern America;1;USA;United States;CA;X;California;06085;Santa Clara County;;;1.781.642;314
+Americas;Northern America;1;USA;United States;NV;X;Nevada;32003;Clark County;;;1.951.269;315
+Americas;Northern America;1;USA;United States;TX;X;Texas;48157;Fort Bend County;;;585.375;316
+Americas;Northern America;1;USA;United States;WA;X;Washington;53025;Grant County;;;89.120;317
+Americas;Northern America;1;USA;United States;FL;X;Florida;12113;Santa Rosa County;;;151.372;318
+Americas;Northern America;1;USA;United States;TN;X;Tennessee;47187;Williamson County;;;183.182;319
+Americas;Northern America;1;USA;United States;NY;X;New York;36061;New York County;;;1.585.873;320
+Americas;Northern America;1;USA;United States;MD;X;Maryland;24031;Montgomery County;;;971.777;321
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25025;Suffolk County;;;722.023;322
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08031;Denver County;;;600.158;323
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08117;Summit County;;;27.994;324
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34003;Bergen County;;;905.116;325
+Americas;Northern America;1;USA;United States;TX;X;Texas;48201;Harris County;;;4.092.459;326
+Americas;Northern America;1;USA;United States;CA;X;California;06075;San Francisco County;;;805.235;327
+Americas;Northern America;1;USA;United States;CA;X;California;06013;Contra Costa County;;;1.049.025;328
+Americas;Northern America;1;USA;United States;CA;X;California;06059;Orange County;;;3.010.232;329
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25021;Norfolk County;;;670.850;330
+Americas;Northern America;1;USA;United States;AZ;X;Arizona;04013;Maricopa County;;;3.817.117;331
+Americas;Northern America;1;USA;United States;NC;X;North Carolina;37183;Wake County;;;900.993;332
+Americas;Northern America;1;USA;United States;NY;X;New York;36119;Westchester County;;;949.113;333
+Americas;Northern America;1;USA;United States;NH;X;New Hampshire;33009;Grafton County;;;89.118;334
+Americas;Northern America;1;USA;United States;FL;X;Florida;12057;Hillsborough County;;;1.229.226;335
+Americas;Northern America;1;USA;United States;CA;X;California;06061;Placer County;;;348.432;336
+Americas;Northern America;1;USA;United States;CA;X;California;06081;San Mateo County;;;718.451;337
+Americas;Northern America;1;USA;United States;CA;X;California;06097;Sonoma County;;;483.878;338
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41059;Umatilla County;;;75.889;339
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13121;Fulton County;;;920.581;340
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41067;Washington County;;;529.710;341
+Americas;Northern America;1;USA;United States;WA;X;Washington;53061;Snohomish County;;;713.335;342
+Americas;Northern America;1;USA;United States;CA;X;California;06023;Humboldt County;;;134.623;343
+Americas;Northern America;1;USA;United States;CA;X;California;06067;Sacramento County;;;1.418.788;344
+Americas;Northern America;1;USA;United States;CA;X;California;06073;San Diego County;;;3.095.313;345
+Americas;Northern America;1;USA;United States;CA;X;California;06069;San Benito County;;;55.269;346
+Americas;Northern America;1;USA;United States;CA;X;California;06037;Los Angeles County;;;9.818.605;347
+Americas;Northern America;1;USA;United States;WA;X;Washington;53033;King County;;;1.931.249;348
+Americas;Northern America;1;USA;United States;IL;X;Illinois;17031;Cook County;;;5.194.675;349
+Americas;Northern America;1;USA;United States;WA;X;Washington;53057;Skagit County;;;116.901;350
+Americas;Northern America;1;USA;United States;WA;X;Washington;53067;Thurston County;;;252.264;351
+Americas;Northern America;1;USA;United States;WA;X;Washington;53029;Island County;;;78.506;352
+Americas;Northern America;1;USA;United States;WA;X;Washington;53073;Whatcom County;;;201.140;353
+Americas;Northern America;1;USA;United States;CA;X;California;06041;Marin County;;;252.409;354
+Americas;Northern America;1;USA;United States;CA;X;California;06009;Calaveras County;;;45.578;355
+Americas;Northern America;1;USA;United States;CA;X;California;06099;Stanislaus County;;;514.453;356
+Americas;Northern America;1;USA;United States;CA;X;California;06077;San Joaquin County;;;685.306;357
+Americas;Northern America;1;USA;United States;MA;X;Massachusetts;25009;Essex County;;;743.159;358
+Americas;Northern America;1;USA;United States;GA;X;Georgia;13049;Charlton County;;;12.171;359
+Americas;Northern America;1;USA;United States;FL;X;Florida;12021;Collier County;;;321.520;360
+Americas;Northern America;1;USA;United States;FL;X;Florida;12103;Pinellas County;;;916.542;361
+Americas;Northern America;1;USA;United States;FL;X;Florida;12001;Alachua County;;;247.336;362
+Americas;Northern America;1;USA;United States;FL;X;Florida;12089;Nassau County;;;73.314;363
+Americas;Northern America;1;USA;United States;FL;X;Florida;12101;Pasco County;;;464.697;364
+Americas;Northern America;1;USA;United States;TX;X;Texas;48113;Dallas County;;;2.368.139;365
+Americas;Northern America;1;USA;United States;TX;X;Texas;48439;Tarrant County;;;1.809.034;366
+Americas;Northern America;1;USA;United States;TX;X;Texas;48339;Montgomery County;;;455.746;367
+Americas;Northern America;1;USA;United States;NJ;X;New Jersey;34023;Middlesex County;;;809.858;368
+Americas;Northern America;1;USA;United States;CO;X;Colorado;08059;Jefferson County;;;534.543;369
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41051;Multnomah County;;;735.334;370
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41053;Polk County;;;75.403;371
+Americas;Northern America;1;USA;United States;OR;X;Oregon;41017;Deschutes County;;;157.733;372
+Americas;Northern America;1;USA;United States;IL;X;Illinois;17111;McHenry County;;;308.760;373
+Americas;Northern America;1;USA;United States;IL;X;Illinois;17097;Lake County;;;703.462;374
+Americas;Northern America;1;USA;United States;PA;X;Pennsylvania;42017;Bucks County;;;625.249;375
+Americas;Northern America;1;USA;United States;VA;X;Virginia;51085;Hanover County;;;99.863;376
+Americas;Northern America;1;USA;United States;SC;X;South Carolina;45057;Lancaster County;;;76.652;377
+Americas;Northern America;1;USA;United States;TN;X;Tennessee;47163;Sullivan County;;;156.823;378
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18081;Johnson County;;;139.654;379
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18067;Howard County;;;82.752;380
+Americas;Northern America;1;USA;United States;IN;X;Indiana;18141;St. Joseph County;;;266.931;381
+Americas;Northern America;1;USA;United States;NE;X;Nebraska;31107;Knox County;;;8.701;382
+Americas;Northern America;1;USA;United States;OH;X;Ohio;39151;Stark County;;;375.586;383
+Americas;Northern America;1;USA;United States;MN;X;Minnesota;27003;Anoka County;;;330.844;384
+Americas;Northern America;1;USA;United States;MN;X;Minnesota;27109;Olmsted County;;;144.248;385
+Americas;Northern America;1;USA;United States;UT;X;Utah;49043;Summit County;;;36.324;386
+Americas;Northern America;1;USA;United States;CT;X;Connecticut;09001;Fairfield County;;;916.829;387
+Americas;Northern America;1;USA;United States;CT;X;Connecticut;09005;Litchfield County;;;189.927;388
+Americas;Northern America;1;USA;United States;LA;X;Louisiana;22071;Orleans Parish;;;343.829;389
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46103;Pennington County;;;100.948;390
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46005;Beadle County;;;17.398;391
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46023;Charles Mix County;;;9.129;392
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46035;Davison County;;;19.504;393
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46099;Minnehaha County;;;169.468;394
+Americas;Northern America;1;USA;United States;SD;X;South Dakota;46009;Bon Homme County;;;7.070;395
+Americas;Northern America;1;USA;United States;NM;X;New Mexico;35053;Socorro County;;;17.866;396
+Americas;Northern America;1;USA;United States;NM;X;New Mexico;35001;Bernalillo County;;;662.564;397
+Americas;Northern America;1;USA;United States;MI;X;Michigan;26125;Oakland County;;;1.202.362;398
+Americas;Northern America;1;USA;United States;MI;X;Michigan;26163;Wayne County;;;1.820.584;399
+Americas;Northern America;1;USA;United States;DE;X;Delaware;10003;New Castle County;;;538.479;400
+Americas;Caribbean;53;CUB;Cuba;;;;;;;;11.209.628;401
+Americas;South America;592;GUY;Guyana;;;;;;;;782.766;402
+Oceania;Oceania;61;AUS;Australia;ACT;;Australian Capital Territory;;;;;426.709;403
+Europe;Northern Europe;44;GBR;United Kingdom;;X;;;;;;66.435.600;404
+Asia;Central Asia;7;KAZ;Kazakhstan;;;;;;;;18.654.144;405
+Oceania;Polynesia;689;PYF;French Polynesia;;X;;;;;;275.918;406
+Americas;Northern America;1;CAN;Canada;MB;;Manitoba;;;;;1.373.859;407
+Americas;Northern America;1;CAN;Canada;SK;;Saskatchewan;;;;;1.178.657;408
+Africa;Eastern Africa;251;ETH;Ethiopia;;;;;;;;98.665.000;409
+Africa;Northern Africa;249;SDN;Sudan;;;;;;;;42.306.185;410
+Africa;Western Africa;224;GIN;Guinea;;;;;;;;12.218.357;411
+Americas;Northern America;1;CAN;Canada;EXT;;Grand Princess;;;;;8;412
+Africa;Eastern Africa;254;KEN;Kenya;;;;;;;;47.564.296;413
+Americas;Caribbean;1;ATG;Antigua and Barbuda;;;;;;;;96.453;414
+Americas;Northern America;1;USA;United States;AL;;Alabama;;;;;4.779.736;415
+Americas;South America;598;URY;Uruguay;;;;;;;;3.518.552;416
+Africa;Western Africa;233;GHA;Ghana;;;;;;;;30.280.811;417
+Americas;Caribbean;1;PRI;Puerto Rico;;X;;;;;;3.193.694;418
+Africa;Southern Africa;264;NAM;Namibia;;;;;;;;2.458.936;419
+Africa;Eastern Africa;248;SYC;Seychelles;;;;;;;;97.625;420
+Americas;Caribbean;1;TTO;Trinidad and Tobago;;;;;;;;1.363.985;421
+Americas;South America;58;VEN;Venezuela;;;;;;;;32.219.521;422
+Africa;Southern Africa;268;SWZ;Eswatini;;;;;;;;1.093.238;423
+Africa;Middle Africa;241;GAB;Gabon;;;;;;;;2.172.579;424
+Americas;Central America;502;GTM;Guatemala;;;;;;;;16.604.026;425
+Africa;Western Africa;222;MRT;Mauritania;;;;;;;;4.077.347;426
+Africa;Eastern Africa;250;RWA;Rwanda;;;;;;;;12.374.397;427
+Americas;Caribbean;1;LCA;Saint Lucia;;;;;;;;178.696;428
+Americas;Caribbean;1;VCT;Saint Vincent and the Grenadines;;;;;;;;110.608;429
+Americas;South America;597;SUR;Suriname;;;;;;;;581.372;430
+Americas;South America;594;GUF;French Guiana;;X;;;;;;290.691;431
+Oceania;Micronesia;1;GUM;Guam;;X;;;;;;172.400;432
+Europe;Southern Europe;383;XK;Kosovo;;;;;;;;1.795.666;433
+Americas;Northern America;1;CAN;Canada;NL;;Newfoundland and Labrador;;;;;521.922;434
+Americas;Northern America;1;CAN;Canada;PE;;Prince Edward Island;;;;;157.901;435
+Africa;Middle Africa;236;CAF;Central African Republic;;;;;;;;5.496.011;436
+Africa;Middle Africa;242;COG;Congo Republic;;;;;;;;5.380.508;437
+Africa;Middle Africa;240;GNQ;Equatorial Guinea;;;;;;;;1.358.276;438
+Africa;Eastern Africa;262;MYT;Mayotte;;X;;;;;;279.471;439
+Asia;Central Asia;998;UZB;Uzbekistan;;;;;;;;34.042.388;440
+Europe;Western Europe;31;NLD;Netherlands;;X;;;;;;17.439.481;441
+Americas;Northern America;1;CAN;Canada;NS;;Nova Scotia;;;;;976.768;442
+Americas;Caribbean;590;GLP;Guadeloupe;;X;;;;;;395.700;443
+Africa;Western Africa;229;BEN;Benin;;;;;;;;11.733.059;444
+Americas;Northern America;299;GRL;Greenland;;;;;;;;56.081;445
+Africa;Western Africa;231;LBR;Liberia;;;;;;;;4.475.353;446
+Americas;Caribbean;599;CUW;Curaçao;;X;;;;;;158.665;447
+Africa;Eastern Africa;252;SOM;Somalia;;;;;;;;15.442.905;448
+Africa;Eastern Africa;255;TZA;Tanzania;;;;;;;;55.890.747;449
+Americas;Caribbean;1;BHS;Bahamas;;;;;;;;385.340;450
+Americas;Caribbean;1;VIR;U.S. Virgin Islands;;X;;;;;;104.578;451
+Americas;Caribbean;1;CYM;Cayman Islands;;X;;;;;;65.813;452
+Africa;Eastern Africa;262;REU;Réunion;;X;;;;;;853.659;453
+Americas;Caribbean;1;BRB;Barbados;;;;;;;;287.025;454
+Europe;Southern Europe;382;MNE;Montenegro;;;;;;;;622.359;455
+Asia;Central Asia;996;KGZ;Kyrgyzstan;;;;;;;;6.490.300;456
+Africa;Eastern Africa;230;MUS;Mauritius;;;;;;;;1.265.985;457
+Americas;Caribbean;297;ABW;Aruba;;X;;;;;;112.309;458
+Africa;Eastern Africa;260;ZMB;Zambia;;;;;;;;17.381.168;459
+Africa;Eastern Africa;253;DJI;Djibouti;;;;;;;;1.078.373;460
+Africa;Western Africa;220;GMB;Gambia;;;;;;;;2.347.706;461
+Americas;Caribbean;1;MSR;Montserrat;;X;;;;;;4.989;462
