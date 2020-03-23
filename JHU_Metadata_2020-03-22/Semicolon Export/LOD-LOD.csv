@@ -1,0 +1,25 @@
+ID;ICC;Country;Province;District;Area;Local Report
+IC;5;International Conveyance;WAHR;-;-;-
+CHN;86;China;WAHR;-;-;-
+USA;1;United States;WAHR;WAHR;-;-
+DEU;49;Germany;WAHR;WAHR;WAHR;WAHR
+PRI;1;Puerto Rico;WAHR;-;-;-
+RAP;56;Easter Island;-;-;-;-
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+FRA;33;France;-;-;-;-
+;;;;;;
+;44;		;;;;
+ENG;;England;-;-;-;-
+GGY;;Guernsey;-;-;-;-
+IMN;;Isle of Man;-;-;-;-
+JEY;;Jersey;-;-;-;-
+GB-NIR;;Northern Ireland;-;-;-;-
+SCOT;;Scotland;-;-;-;-
+GBR;;United Kingdom;WAHR;-;-;-
+GB-WLS;;Wales;-;-;-;-
