@@ -1,0 +1,58 @@
+ ID ;States;Population;
+;54;308.750.609;
+AL;Alabama;4779736;1
+AK;Alaska;710231;2
+AZ;Arizona;6392017;4
+AR;Arkansas;2915918;5
+CA;California;37253956;6
+CO;Colorado;5029196;8
+CT;Connecticut;3574097;9
+DE;Delaware;897934;10
+FL;Florida;18801310;12
+GA;Georgia;9687653;13
+HI;Hawaii;1360301;15
+ID;Idaho;1567582;16
+IL;Illinois;12830632;17
+IN;Indiana;6483802;18
+IA;Iowa;3046355;19
+KS;Kansas;2853118;20
+KY;Kentucky;4339367;21
+LA;Louisiana;4533372;22
+ME;Maine;1328361;23
+MD;Maryland;5773552;24
+MA;Massachusetts;6547629;25
+MI;Michigan;9883640;26
+MN;Minnesota;5303925;27
+MS;Mississippi;2967297;28
+MO;Missouri;5988927;29
+MT;Montana;989415;30
+NE;Nebraska;1826341;31
+NV;Nevada;2700551;32
+NH;New Hampshire;1316470;33
+NJ;New Jersey;8791894;34
+NM;New Mexico;2059179;35
+NY;New York;19378102;36
+NC;North Carolina;9535483;37
+ND;North Dakota;672591;38
+OH;Ohio;11536504;39
+OK;Oklahoma;3751351;40
+OR;Oregon;3831074;41
+PA;Pennsylvania;12702379;42
+RI;Rhode Island;1052567;44
+SC;South Carolina;4625364;45
+SD;South Dakota;814180;46
+TN;Tennessee;6346105;47
+TX;Texas;25145561;48
+UT;Utah;2763885;49
+VT;Vermont;625741;50
+VA;Virginia;8001024;51
+WA;Washington;6724540;53
+WV;West Virginia;1852994;54
+WI;Wisconsin;5686986;55
+WY;Wyoming;563626;56
+DC;District of Columbia;601723;11
+;;;
+;;;
+U;Unassigned;5000;U
+EXT-1;Diamond Princess;50;E98
+EXT-2;Grand Princess;21;E99
