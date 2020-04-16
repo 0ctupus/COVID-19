@@ -1,0 +1,15 @@
+Continent;Region;Country;ID;;Layer
+;;;Asia;;4
+;;;Northern America;;2-3
+Europe;Southern Europe;Spain;ESP;;2
+Europe;Southern Europe;Italy;ITA;;2
+Asia;Southern Asia;India;IND;;2
+Americas;South America;Brazil;BRA;;2
+Americas;South America;Chile;CHL;;2
+Americas;South America;Argentina;ARG;;2
+Americas;South America;French Guiana;GUF;;2
+Americas;Caribbean;Martinique;MTQ;;2
+Africa;Eastern Africa;Réunion;REU;;2
+Asia;Southern Asia;Iran;IRN;;2
+Americas;South America;Ecuador;ECU;;2
+Europe;Western Europe;Germany;DEU;;1

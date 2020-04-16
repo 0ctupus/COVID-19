@@ -1,0 +1,16 @@
+Dashboard;;;;;;;;;;;;;;;;;
+#;Wahrscheinlichkeit;P (X);100.000;;V;;IV;;III;;II;;I;;;;
+;;;;;Fatal;Severe;Harmful;Dangerous;hässlich;manageable;stable;medicine;;;;autoimmune;immune
+;;;;;;;Akut Intensiv;Intensiv;;;Hospital;comp. to e.g. Antibiotika;Grippaler Infekt;Erkältung;;;
+●;Full;1,00;100 %;;;;;;;;;;;;;;
+●;Pareto;0,80;80 %;;;;;;;;;;;;;;
+●;Half;0,50;50 %;;;;;;;;;;;;;;
+●;Viertel;0,25;25 %;;;;;;;;;;;;;;
+;Achtel;0,125;12,5 %;;;;;;;;;;;;;;
+;Sehr häufig;0,10;10.000;;;;;;;;;;;;;;
+;Häufig;0,05;5.000;;;;;;;;;;;;;;
+;Gelegentlich;0,01;1.000;;;;;;;;;;;;;;
+;Selten;0,001;100;;;;;;;;;;;;;;
+;Sehr selten;0,0001;10;;;;;;;;;;;;;;
+;Nicht bekannt;0,00001;1;;;;;;;;;;;;;;
+●;Null;0,000000;0;;;;;;;;;;;;;;

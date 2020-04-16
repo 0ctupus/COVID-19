@@ -1,0 +1,42 @@
+ID;ICC;Country;Province;District;Area;Local Report
+IC;5;International Conveyance;WAHR;-;-;-
+CHN;86;China;WAHR;-;-;-
+DEU;49;Germany;WAHR;WAHR;WAHR;WAHR
+IC;5;International Conveyance;WAHR;-;-;-
+USA;1;United States;WAHR;WAHR;-;-
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+FRA;33;France;-;-;-;-
+;;;;;;
+;1;		;;;;
+ASM;;American Samoa;-;-;-;-
+AIA;;Anguilla;-;-;-;-
+ATG;;Antigua and Barbuda;-;-;-;-
+BHS;;Bahamas;-;-;-;-
+BRB;;Barbados;-;-;-;-
+BMU;;Bermuda;-;-;-;-
+VGB;;British Virgin Islands;-;-;-;-
+CAN;;Canada;-;-;-;-
+CYM;;Cayman Islands;-;-;-;-
+DMA;;Dominica;-;-;-;-
+DOM;;Dominican Republic;-;-;-;-
+GRD;;Grenada;-;-;-;-
+GUM;;Guam;-;-;-;-
+JAM;;Jamaica;-;-;-;-
+MSR;;Montserrat;-;-;-;-
+MNP;;Northern Mariana Islands;-;-;-;-
+PRI;;Puerto Rico;-;-;-;-
+KNA;;Saint Kitts and Nevis;-;-;-;-
+LCA;;Saint Lucia;-;-;-;-
+VCT;;Saint Vincent and the Grenadines;-;-;-;-
+SXM;;Sint Maarten;-;-;-;-
+TTO;;Trinidad and Tobago;-;-;-;-
+TCA;;Turks and Caicos Islands;-;-;-;-
+USA;;United States;WAHR;WAHR;-;-
+VIR;;U.S. Virgin Islands;-;-;-;-

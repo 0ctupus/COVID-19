@@ -1,0 +1,271 @@
+Continent;Region;ICC;ID;Country;ID;;Province;ID;District;ZIP;Area;Population;#
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Asia;Southern Asia;93;AFG;Afghanistan;;;;;;;;32.225.560;1
+Europe;Southern Europe;355;ALB;Albania;;;;;;;;2.862.427;2
+Africa;Northern Africa;213;DZA;Algeria;;;;;;;;43.000.000;3
+Europe;Southern Europe;376;AND;Andorra;;;;;;;;77.543;4
+Africa;Middle Africa;244;AGO;Angola;;;;;;;;31.127.674;5
+Americas;Caribbean;1;ATG;Antigua and Barbuda;;;;;;;;96.453;6
+Americas;South America;54;ARG;Argentina;;;;;;;;44.938.712;7
+Asia;Western Asia;374;ARM;Armenia;;;;;;;;2.957.500;8
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;9
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;10
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;11
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;12
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;13
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;14
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;15
+Oceania;Oceania;61;AUS;Australia;;X;;;;;;25.631.395;16
+Europe;Western Europe;43;AUT;Austria;;;;;;;;8.902.600;17
+Asia;Western Asia;994;AZE;Azerbaijan;;;;;;;;10.067.108;18
+Americas;Caribbean;1;BHS;Bahamas;;;;;;;;385.340;19
+Asia;Western Asia;973;BHR;Bahrain;;;;;;;;1.543.300;20
+Asia;Southern Asia;880;BGD;Bangladesh;;;;;;;;168.186.262;21
+Americas;Caribbean;1;BRB;Barbados;;;;;;;;287.025;22
+Europe;Eastern Europe;375;BLR;Belarus;;;;;;;;9.413.446;23
+Europe;Western Europe;32;BEL;Belgium;;;;;;;;11.524.454;24
+Africa;Western Africa;229;BEN;Benin;;;;;;;;11.733.059;25
+Asia;Southern Asia;975;BTN;Bhutan;;;;;;;;741.672;26
+Americas;South America;591;BOL;Bolivia;;;;;;;;11.469.896;27
+Europe;Southern Europe;387;BIH;Bosnia and Herzegovina;;;;;;;;3.301.000;28
+Americas;South America;55;BRA;Brazil;;;;;;;;211.191.084;29
+Asia;South-eastern Asia;673;BRN;Brunei;;;;;;;;442.400;30
+Europe;Eastern Europe;359;BGR;Bulgaria;;;;;;;;7.000.039;31
+Africa;Western Africa;226;BFA;Burkina Faso;;;;;;;;20.870.060;32
+Africa;Western Africa;238;CPV;Cape Verde;;;;;;;;550.483;33
+Asia;South-eastern Asia;855;KHM;Cambodia;;;;;;;;15.288.489;34
+Africa;Middle Africa;237;CMR;Cameroon;;;;;;;;25.876.000;35
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;36
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;37
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;38
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;39
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;40
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;41
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;42
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;43
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;44
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;45
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;46
+Africa;Middle Africa;236;CAF;Central African Republic;;;;;;;;5.496.011;47
+Africa;Middle Africa;235;TCD;Chad;;;;;;;;15.692.969;48
+Americas;South America;56;CHL;Chile;;;;;;;;19.107.216;49
+Asia;Eastern Asia;86;CHN;China;皖;;Anhui;;;;;63.240.000;50
+Asia;Eastern Asia;86;CHN;China;京;;Beijing;;;;;21.540.000;51
+Asia;Eastern Asia;86;CHN;China;渝;;Chongqing;;;;;31.020.000;52
+Asia;Eastern Asia;86;CHN;China;闽;;Fujian;;;;;39.410.000;53
+Asia;Eastern Asia;86;CHN;China;甘;;Gansu;;;;;26.370.000;54
+Asia;Eastern Asia;86;CHN;China;粤;;Guangdong;;;;;113.460.000;55
+Asia;Eastern Asia;86;CHN;China;桂;;Guangxi;;;;;49.260.000;56
+Asia;Eastern Asia;86;CHN;China;贵;;Guizhou;;;;;36.000.000;57
+Asia;Eastern Asia;86;CHN;China;琼;;Hainan;;;;;9.340.000;58
+Asia;Eastern Asia;86;CHN;China;冀;;Hebei;;;;;75.560.000;59
+Asia;Eastern Asia;86;CHN;China;黑;;Heilongjiang;;;;;37.730.000;60
+Asia;Eastern Asia;86;CHN;China;豫;;Henan;;;;;96.050.000;61
+Asia;Eastern Asia;852;HKG;Hong Kong;;X;;;;;;7.500.700;62
+Asia;Eastern Asia;86;CHN;China;鄂;;Hubei;;;;;59.170.000;63
+Asia;Eastern Asia;86;CHN;China;湘;;Hunan;;;;;68.990.000;64
+Asia;Eastern Asia;86;CHN;China;蒙;;Inner Mongolia;;;;;25.340.000;65
+Asia;Eastern Asia;86;CHN;China;苏;;Jiangsu;;;;;80.510.000;66
+Asia;Eastern Asia;86;CHN;China;赣;;Jiangxi;;;;;46.480.000;67
+Asia;Eastern Asia;86;CHN;China;吉;;Jilin;;;;;27.040.000;68
+Asia;Eastern Asia;86;CHN;China;辽;;Liaoning;;;;;43.590.000;69
+Asia;Eastern Asia;86;CHN;China;澳;X;Macao;;;;;660.000;70
+Asia;Eastern Asia;86;CHN;China;宁;;Ningxia;;;;;6.880.000;71
+Asia;Eastern Asia;86;CHN;China;青;;Qinghai;;;;;6.030.000;72
+Asia;Eastern Asia;86;CHN;China;陕;;Shaanxi;;;;;38.640.000;73
+Asia;Eastern Asia;86;CHN;China;鲁;;Shandong;;;;;100.470.000;74
+Asia;Eastern Asia;86;CHN;China;沪;;Shanghai;;;;;24.240.000;75
+Asia;Eastern Asia;86;CHN;China;晋;;Shanxi;;;;;37.180.000;76
+Asia;Eastern Asia;86;CHN;China;川;;Sichuan;;;;;83.410.000;77
+Asia;Eastern Asia;86;CHN;China;津;;Tianjin;;;;;15.600.000;78
+Asia;Eastern Asia;86;CHN;China;བོད;X;Xizang;;;;;3.440.000;79
+Asia;Eastern Asia;86;CHN;China;新;;Xinjiang;;;;;24.870.000;80
+Asia;Eastern Asia;86;CHN;China;云;;Yunnan;;;;;48.300.000;81
+Asia;Eastern Asia;86;CHN;China;浙;;Zhejiang;;;;;57.370.000;82
+Americas;South America;57;COL;Colombia;;;;;;;;49.395.678;83
+Africa;Middle Africa;242;COG;Congo Republic;;;;;;;;5.380.508;84
+Africa;Middle Africa;243;COD;DR Congo;;;;;;;;86.790.567;85
+Americas;Central America;506;CRI;Costa Rica;;;;;;;;5.058.007;86
+Africa;Western Africa;225;CIV;Côte d'Ivoire;;;;;;;;25.823.071;87
+Europe;Southern Europe;385;HRV;Croatia;;;;;;;;4.076.246;88
+In;Between;5;IC;International Conveyance;DP;X;Diamond Princess;;;;;3.700;89
+Americas;Caribbean;53;CUB;Cuba;;;;;;;;11.209.628;90
+Asia;Western Asia;357;CYP;Cyprus;;;;;;;;875.900;91
+Europe;Eastern Europe;420;CZE;Czechia;;;;;;;;10.681.161;92
+Europe;Northern Europe;298;FRO;Faroe Islands;;X;;;;;;52.124;93
+Americas;Northern America;299;GRL;Greenland;;X;;;;;;56.081;94
+Europe;Northern Europe;45;DNK;Denmark;;;;;;;;5.822.763;95
+Africa;Eastern Africa;253;DJI;Djibouti;;;;;;;;1.078.373;96
+Americas;Caribbean;1;DOM;Dominican Republic;;;;;;;;10.358.320;97
+Americas;South America;593;ECU;Ecuador;;;;;;;;17.434.416;98
+Africa;Northern Africa;20;EGY;Egypt;;;;;;;;100.072.195;99
+Americas;Central America;503;SLV;El Salvador;;;;;;;;6.704.864;100
+Africa;Middle Africa;240;GNQ;Equatorial Guinea;;;;;;;;1.358.276;101
+Africa;Eastern Africa;291;ERI;Eritrea;;;;;;;;3.497.117;102
+Europe;Northern Europe;372;EST;Estonia;;;;;;;;1.328.360;103
+Africa;Southern Africa;268;SWZ;Eswatini;;;;;;;;1.093.238;104
+Africa;Eastern Africa;251;ETH;Ethiopia;;;;;;;;98.665.000;105
+Oceania;Melanesia;679;FJI;Fiji;;;;;;;;884.887;106
+Europe;Northern Europe;358;FIN;Finland;;;;;;;;5.527.573;107
+Americas;South America;594;GUF;French Guiana;;X;;;;;;290.691;108
+Oceania;Polynesia;689;PYF;French Polynesia;;X;;;;;;275.918;109
+Americas;Caribbean;590;GLP;Guadeloupe;;X;;;;;;395.700;110
+Africa;Eastern Africa;262;MYT;Mayotte;;X;;;;;;279.471;111
+Oceania;Melanesia;687;NCL;New Caledonia;;X;;;;;;282.200;112
+Africa;Eastern Africa;262;REU;Réunion;;X;;;;;;853.659;113
+Americas;Caribbean;590;BLM;Saint Barthélemy;;X;;;;;;9.793;114
+Americas;Caribbean;590;MAF;Saint Martin;;X;;;;;;35.746;115
+Americas;Caribbean;596;MTQ;Martinique;;X;;;;;;376.480;116
+Europe;Western Europe;33;FRA;France;;;;;;;;67.064.000;117
+Africa;Middle Africa;241;GAB;Gabon;;;;;;;;2.172.579;118
+Africa;Western Africa;220;GMB;Gambia;;;;;;;;2.347.706;119
+Asia;Western Asia;995;GEO;Georgia;;;;;;;;3.723.464;120
+Europe;Western Europe;49;DEU;Germany;;;;;;;;83.149.300;121
+Africa;Western Africa;233;GHA;Ghana;;;;;;;;30.280.811;122
+Europe;Southern Europe;30;GRC;Greece;;;;;;;;10.724.599;123
+Americas;Central America;502;GTM;Guatemala;;;;;;;;16.604.026;124
+Africa;Western Africa;224;GIN;Guinea;;;;;;;;12.218.357;125
+Americas;South America;592;GUY;Guyana;;;;;;;;782.766;126
+Americas;Caribbean;509;HTI;Haiti;;;;;;;;11.577.779;127
+Europe;Southern Europe;39;VAT;Holy See;;;;;;;;799;128
+Americas;Central America;504;HND;Honduras;;;;;;;;9.158.345;129
+Europe;Eastern Europe;36;HUN;Hungary;;;;;;;;9.772.756;130
+Europe;Northern Europe;354;ISL;Iceland;;;;;;;;364.260;131
+Asia;Southern Asia;91;IND;India;;;;;;;;1.359.238.350;132
+Asia;South-eastern Asia;62;IDN;Indonesia;;;;;;;;266.911.900;133
+Asia;Southern Asia;98;IRN;Iran;;;;;;;;83.241.033;134
+Asia;Western Asia;964;IRQ;Iraq;;;;;;;;39.127.900;135
+Europe;Northern Europe;353;IRL;Ireland;;;;;;;;4.921.500;136
+Asia;Western Asia;972;ISR;Israel;;;;;;;;9.166.000;137
+Europe;Southern Europe;39;ITA;Italy;;;;;;;;60.247.214;138
+Americas;Caribbean;1;JAM;Jamaica;;;;;;;;2.726.667;139
+Asia;Eastern Asia;81;JPN;Japan;;;;;;;;126.010.000;140
+Asia;Western Asia;962;JOR;Jordan;;;;;;;;10.625.504;141
+Asia;Central Asia;7;KAZ;Kazakhstan;;;;;;;;18.654.144;142
+Africa;Eastern Africa;254;KEN;Kenya;;;;;;;;47.564.296;143
+Asia;Eastern Asia;82;KOR;South Korea;;;;;;;;51.780.579;144
+Asia;Western Asia;965;KWT;Kuwait;;;;;;;;4.420.110;145
+Asia;Central Asia;996;KGZ;Kyrgyzstan;;;;;;;;6.490.300;146
+Europe;Northern Europe;371;LVA;Latvia;;;;;;;;1.906.800;147
+Asia;Western Asia;961;LBN;Lebanon;;;;;;;;6.855.713;148
+Africa;Western Africa;231;LBR;Liberia;;;;;;;;4.475.353;149
+Europe;Western Europe;423;LIE;Liechtenstein;;;;;;;;38.557;150
+Europe;Northern Europe;370;LTU;Lithuania;;;;;;;;2.793.350;151
+Europe;Western Europe;352;LUX;Luxembourg;;;;;;;;613.894;152
+Africa;Eastern Africa;261;MDG;Madagascar;;;;;;;;25.680.342;153
+Asia;South-eastern Asia;60;MYS;Malaysia;;;;;;;;32.704.760;154
+Asia;Southern Asia;960;MDV;Maldives;;;;;;;;374.775;155
+Europe;Southern Europe;356;MLT;Malta;;;;;;;;493.559;156
+Africa;Western Africa;222;MRT;Mauritania;;;;;;;;4.077.347;157
+Africa;Eastern Africa;230;MUS;Mauritius;;;;;;;;1.265.985;158
+Americas;Central America;52;MEX;Mexico;;;;;;;;126.577.691;159
+Europe;Eastern Europe;373;MDA;Moldova;;;;;;;;2.681.735;160
+Europe;Western Europe;377;MCO;Monaco;;;;;;;;38.300;161
+Asia;Eastern Asia;976;MNG;Mongolia;;;;;;;;3.305.182;162
+Europe;Southern Europe;382;MNE;Montenegro;;;;;;;;622.359;163
+Africa;Northern Africa;212;MAR;Morocco;;;;;;;;35.824.881;164
+Africa;Southern Africa;264;NAM;Namibia;;;;;;;;2.458.936;165
+Asia;Southern Asia;977;NPL;Nepal;;;;;;;;29.609.623;166
+Americas;Caribbean;297;ABW;Aruba;;X;;;;;;112.309;167
+Americas;Caribbean;599;CUW;Curaçao;;X;;;;;;158.665;168
+Americas;Caribbean;1;SXM;Sint Maarten;;X;;;;;;40.614;169
+Europe;Western Europe;31;NLD;Netherlands;;;;;;;;17.439.481;170
+Oceania;Oceania;64;NZL;New Zealand;;;;;;;;4.961.950;171
+Americas;Central America;505;NIC;Nicaragua;;;;;;;;6.460.411;172
+Africa;Western Africa;227;NER;Niger;;;;;;;;22.314.743;173
+Africa;Western Africa;234;NGA;Nigeria;;;;;;;;200.963.599;174
+Europe;Southern Europe;389;MKD;North Macedonia;;;;;;;;2.077.132;175
+Europe;Northern Europe;47;NOR;Norway;;;;;;;;5.367.580;176
+Asia;Western Asia;968;OMN;Oman;;;;;;;;4.664.790;177
+Asia;Southern Asia;92;PAK;Pakistan;;;;;;;;208.203.777;178
+Americas;Central America;507;PAN;Panama;;;;;;;;4.218.808;179
+Oceania;Melanesia;675;PNG;Papua New Guinea;;;;;;;;8.935.000;180
+Americas;South America;595;PRY;Paraguay;;;;;;;;7.152.703;181
+Americas;South America;51;PER;Peru;;;;;;;;32.131.400;182
+Asia;South-eastern Asia;63;PHL;Philippines;;;;;;;;108.341.299;183
+Europe;Eastern Europe;48;POL;Poland;;;;;;;;38.386.000;184
+Europe;Southern Europe;351;PRT;Portugal;;;;;;;;10.276.617;185
+Asia;Western Asia;974;QAT;Qatar;;;;;;;;2.747.282;186
+Europe;Eastern Europe;40;ROU;Romania;;;;;;;;19.405.156;187
+Europe;Eastern Europe;7;RUS;Russia;;;;;;;;146.780.720;188
+Africa;Eastern Africa;250;RWA;Rwanda;;;;;;;;12.374.397;189
+Americas;Caribbean;1;LCA;Saint Lucia;;;;;;;;178.696;190
+Americas;Caribbean;1;VCT;Saint Vincent and the Grenadines;;;;;;;;110.608;191
+Europe;Southern Europe;378;SMR;San Marino;;;;;;;;33.574;192
+Asia;Western Asia;966;SAU;Saudi Arabia;;;;;;;;34.218.169;193
+Africa;Western Africa;221;SEN;Senegal;;;;;;;;16.209.125;194
+Europe;Southern Europe;381;SRB;Serbia;;;;;;;;6.963.764;195
+Africa;Eastern Africa;248;SYC;Seychelles;;;;;;;;97.625;196
+Asia;South-eastern Asia;65;SGP;Singapore;;;;;;;;5.703.600;197
+Europe;Eastern Europe;421;SVK;Slovakia;;;;;;;;5.456.362;198
+Europe;Southern Europe;386;SVN;Slovenia;;;;;;;;2.094.060;199
+Africa;Eastern Africa;252;SOM;Somalia;;;;;;;;15.442.905;200
+Africa;Southern Africa;27;ZAF;South Africa;;;;;;;;58.775.022;201
+Europe;Southern Europe;34;ESP;Spain;;;;;;;;47.100.396;202
+Asia;Southern Asia;94;LKA;Sri Lanka;;;;;;;;21.803.000;203
+Africa;Northern Africa;249;SDN;Sudan;;;;;;;;42.306.185;204
+Americas;South America;597;SUR;Suriname;;;;;;;;581.372;205
+Europe;Northern Europe;46;SWE;Sweden;;;;;;;;10.327.589;206
+Europe;Western Europe;41;CHE;Switzerland;;;;;;;;8.586.550;207
+Asia;Eastern Asia;886;TWN;Taiwan;;;;;;;;23.604.265;208
+Africa;Eastern Africa;255;TZA;Tanzania;;;;;;;;55.890.747;209
+Asia;South-eastern Asia;66;THA;Thailand;;;;;;;;66.475.817;210
+Africa;Western Africa;228;TGO;Togo;;;;;;;;7.538.000;211
+Americas;Caribbean;1;TTO;Trinidad and Tobago;;;;;;;;1.363.985;212
+Africa;Northern Africa;216;TUN;Tunisia;;;;;;;;11.722.038;213
+Asia;Western Asia;90;TUR;Turkey;;;;;;;;83.154.997;214
+Africa;Eastern Africa;256;UGA;Uganda;;;;;;;;40.299.300;215
+Europe;Eastern Europe;380;UKR;Ukraine;;;;;;;;41.902.416;216
+Asia;Western Asia;971;ARE;United Arab Emirates;;;;;;;;9.770.529;217
+Americas;Northern America;1;BMU;Bermuda;;X;;;;;;64.027;218
+Americas;Caribbean;1;CYM;Cayman Islands;;X;;;;;;65.813;219
+Europe;Northern Europe;44;GBR;United Kingdom;;X;;;;;;66.435.600;220
+Europe;Southern Europe;350;GIB;Gibraltar;;X;;;;;;33.701;221
+Europe;Northern Europe;44;IMN;Isle of Man;;X;;;;;;83.314;222
+Americas;Caribbean;1;MSR;Montserrat;;X;;;;;;4.989;223
+Europe;Northern Europe;44;GBR;United Kingdom;;;;;;;;66.435.600;224
+Americas;South America;598;URY;Uruguay;;;;;;;;3.518.552;225
+Americas;Northern America;1;USA;United States;;;;;;;;329.368.418;226
+Asia;Central Asia;998;UZB;Uzbekistan;;;;;;;;34.042.388;227
+Americas;South America;58;VEN;Venezuela;;;;;;;;32.219.521;228
+Asia;South-eastern Asia;84;VNM;Vietnam;;;;;;;;96.208.984;229
+Africa;Eastern Africa;260;ZMB;Zambia;;;;;;;;17.381.168;230
+Africa;Eastern Africa;263;ZWE;Zimbabwe;;;;;;;;15.159.624;231
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;232
+Americas;Caribbean;1;DMA;Dominica;;;;;;;;71.808;233
+Americas;Caribbean;1;GRD;Grenada;;;;;;;;112.003;234
+Africa;Eastern Africa;258;MOZ;Mozambique;;;;;;;;28.571.310;235
+Asia;Western Asia;963;SYR;Syria;;;;;;;;17.070.135;236
+Asia;South-eastern Asia;670;TLS;East Timor;;;;;;;;1.387.149;237
+Americas;Central America;501;BLZ;Belize;;;;;;;;408.487;238
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;239
+Asia;South-eastern Asia;856;LAO;Laos;;;;;;;;7.123.205;240
+Africa;Northern Africa;218;LBY;Libya;;;;;;;;6.777.452;241
+Asia;Western Asia;970;PSE;Palestine;;;;;;;;4.976.684;242
+Africa;Western Africa;245;GNB;Guinea-Bissau;;;;;;;;1.604.528;243
+Africa;Western Africa;223;MLI;Mali;;;;;;;;19.973.000;244
+Americas;Caribbean;1;KNA;Saint Kitts and Nevis;;;;;;;;52.823;245
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;246
+Americas;Northern America;1;CAN;Canada;;X;;;;;;37.940.493;247
+Europe;Southern Europe;383;XK;Kosovo;;;;;;;;1.795.666;248
+Asia;South-eastern Asia;95;MMR;Myanmar;;;;;;;;54.339.766;249
+Americas;Caribbean;1;AIA;Anguilla;;X;;;;;;14.869;250
+Americas;Caribbean;1;VGB;British Virgin Islands;;X;;;;;;30.030;251
+Americas;Caribbean;1;TCA;Turks and Caicos Islands;;X;;;;;;41.369;252
+In;Between;5;IC;International Conveyance;ZAL;X;MS Zaandam;;;;;2.200;253
+Africa;Southern Africa;267;BWA;Botswana;;;;;;;;2.338.851;254
+Africa;Eastern Africa;257;BDI;Burundi;;;;;;;;10.953.317;255
+Africa;Western Africa;232;SLE;Sierra Leone;;;;;;;;7.901.454;256
+Europe;Western Europe;31;NLD;Netherlands;;X;;;;;;17.439.481;257
+Africa;Eastern Africa;265;MWI;Malawi;;;;;;;;17.563.749;258
+Europe;Northern Europe;44;GBR;United Kingdom;;X;;;;;;66.435.600;259
+Americas;Northern America;508;SPM;Saint Pierre and Miquelon;;X;;;;;;6.008;260
+Africa;Eastern Africa;211;SSD;South Sudan;;;;;;;;12.778.250;261
+Africa;Northern Africa;212;ESH;Western Sahara;;;;;;;;582.463;262
+Africa;Middle Africa;239;STP;São Tomé and Príncipe;;;;;;;;201.784;263
+Asia;Western Asia;967;YEM;Yemen;;;;;;;;29.161.922;264
